@@ -1,0 +1,8 @@
+time,location,message,error
+2026-01-21-13:53:56,Albania,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-21-13:54:26,Albania,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-21-13:54:33,Albania,url exists,None
+2026-01-21-13:54:53,Albania,url exists,None
