@@ -57,38 +57,52 @@ jobs:
   commit-and-push:
     runs-on: ubuntu-latest
     needs: run-country
-
+  
     permissions:
       contents: write
-
+  
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           clean: false
           fetch-depth: 0
-
+  
       - name: Download all artifacts 
         uses: actions/download-artifact@v4 
         with: 
           path: artifacts/
-
-      - name: Move downloaded files into repo 
-        run: | 
-          cp -r artifacts/*/* dataset/ || true
-          cp -r artifacts/*/* errors/ || true
-          cp -r artifacts/*/* challenge_urls/ || true
-
+  
+      - name: Merge artifacts into repo folders
+        run: |
+          mkdir -p dataset errors challenge_urls
+  
+          # Kopiere alle dataset-Dateien
+          for d in artifacts/*/dataset/*; do
+            cp -r "$d" dataset/ || true
+          done
+  
+          # Kopiere alle errors-Dateien
+          for e in artifacts/*/errors/*; do
+            cp -r "$e" errors/ || true
+          done
+  
+          # Kopiere alle challenge_urls-Dateien
+          for c in artifacts/*/challenge_urls/*; do
+            cp -r "$c" challenge_urls/ || true
+          done
+  
       - name: Commit and push all changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
+  
           git add -A
-
+  
           if ! git diff --cached --quiet; then
             git commit -m "Update dataset and logs (all countries)"
             git push origin main
           else
             echo "Keine Änderungen, kein Commit."
           fi
+  
