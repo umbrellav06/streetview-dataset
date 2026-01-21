@@ -1,5 +1,9 @@
 name: Run Image Request
 
+concurrency:
+  group: streetview-dataset
+  cancel-in-progress: false
+
 on: 
   schedule:
     - cron: "0 */3 * * *"
