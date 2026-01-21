@@ -77,19 +77,21 @@ jobs:
         run: |
           mkdir -p dataset errors challenge_urls
 
-          # Kopiere alle dataset-Dateien
+          # Kopiere alle Bilder in dataset/<land>/
           for d in artifacts/*/dataset/*; do
-            cp -r "$d" dataset/ || true
+            if [ -d "$d" ]; then
+              cp -r "$d" dataset/
+            fi
           done
 
-          # Kopiere alle errors-Dateien
-          for e in artifacts/*/errors/*; do
-            cp -r "$e" errors/ || true
+          # Kopiere alle *_errors.csv
+          for e in artifacts/*/errors/*.csv; do
+            cp "$e" errors/ || true
           done
 
-          # Kopiere alle challenge_urls-Dateien
-          for c in artifacts/*/challenge_urls/*; do
-            cp -r "$c" challenge_urls/ || true
+          # Kopiere alle *_challenge_urls.csv
+          for c in artifacts/*/challenge_urls/*.csv; do
+            cp "$c" challenge_urls/ || true
           done
 
       - name: Cleanup artifacts folder
