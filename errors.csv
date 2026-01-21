@@ -1,0 +1,901 @@
+time,location,message,error
+2026-01-18-12:49:17,China,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-18-13:05:30,Bulgaria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-18-13:09:37,Bulgaria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-18-13:15:00,Chile,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-18-13:17:24,Chile,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-18-15:15:37,Canada,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-18-15:19:24,Canada,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-18-15:40:18,China,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-18-15:53:50,Chile,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-18-16:46:15,Cambodia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-18-16:56:29,Colombia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-18-16:57:08,Colombia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-18-17:29:35,China,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-18-18:20:57,Botswana,world,
+2026-01-18-18:24:21,Botswana,world,
+2026-01-18-18:26:18,Colombia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-18-18:35:33,Cambodia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-18-18:40:14,Brazil,world,
+2026-01-18-18:47:36,Bulgaria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-18-18:52:03,Bulgaria,world,
+2026-01-18-18:56:25,Canada,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-18-19:05:46,Chile,world,
+2026-01-18-21:15:46,Chile,no popup,Timeout 30000ms exceeded.
+2026-01-18-21:16:48,Chile,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-18-21:32:57,Cambodia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-18-21:43:01,Colombia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-18-21:55:54,Bulgaria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-18-22:02:53,Botswana,world,
+2026-01-19-01:16:43,Czech Republic,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-19-01:17:32,Croatia,world,
+2026-01-19-01:17:49,Croatia,world,
+2026-01-19-01:18:44,Croatia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-19-01:24:08,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:24:17,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:24:27,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:24:36,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:24:45,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:24:54,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:25:04,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:25:13,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:25:22,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:25:31,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:25:41,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:25:50,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:25:59,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:26:08,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:26:18,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:26:27,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:26:36,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:26:46,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:26:55,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:27:04,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:27:13,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:27:23,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:27:32,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:27:41,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:27:50,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:28:00,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:28:09,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:28:18,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:28:28,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:28:37,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:28:46,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:28:55,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:29:05,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:29:14,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:29:23,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:29:32,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:29:42,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:29:51,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:30:00,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:30:01,Costa Rica,world,
+2026-01-19-01:30:11,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:30:20,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:30:29,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:30:39,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:30:48,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:30:57,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:31:06,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:31:16,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:31:25,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:31:34,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-01:33:33,Denmark,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-19-01:37:20,Denmark,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-19-04:09:05,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:09:14,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:09:23,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:09:32,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:09:42,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:09:51,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:10:00,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:10:10,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:10:19,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:10:28,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:10:37,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:10:47,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:10:56,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:11:05,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:11:15,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:11:24,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:11:33,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:11:42,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:11:52,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:12:01,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:12:10,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:12:20,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:12:29,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:12:38,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:12:47,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:12:57,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:13:06,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:13:15,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:13:25,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:13:34,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:13:43,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:13:53,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:14:02,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:14:11,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:14:21,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:14:30,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:14:39,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:14:48,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:14:58,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:15:07,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:15:16,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:15:26,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:15:35,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:15:44,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:15:54,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:16:03,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:16:12,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:16:21,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:16:31,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:16:40,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-04:29:45,Denmark,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-19-04:33:48,Croatia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-19-04:34:53,Croatia,world,
+2026-01-19-04:35:10,Croatia,world,
+2026-01-19-06:28:31,Croatia,world,
+2026-01-19-06:31:54,Croatia,world,
+2026-01-19-06:34:22,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:34:31,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:34:41,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:34:50,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:34:59,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:35:09,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:35:18,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:35:27,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:35:37,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:35:38,Dominican Republic,world,
+2026-01-19-06:35:47,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:35:56,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:36:06,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:36:15,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:36:24,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:36:34,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:36:43,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:36:52,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:37:02,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:37:11,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:37:20,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:37:30,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:37:39,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:37:48,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:37:57,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:40:35,Denmark,world,
+2026-01-19-06:43:03,Denmark,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-19-06:51:13,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:51:22,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:51:31,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:51:40,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:51:50,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:51:59,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:52:00,Costa Rica,world,
+2026-01-19-06:52:10,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:52:19,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:52:28,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:52:38,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:52:47,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:52:56,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:53:05,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:53:15,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:53:24,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:53:33,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:53:43,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:53:52,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:54:01,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:54:10,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:54:20,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:54:29,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:54:38,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-06:54:48,Costa Rica,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-09:29:18,Denmark,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-19-09:30:26,Denmark,url exists,
+2026-01-19-09:31:27,Denmark,world,
+2026-01-19-09:35:41,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-09:35:51,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-09:36:00,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-09:36:10,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-09:36:19,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-09:36:29,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-09:36:38,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-09:36:48,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-09:36:57,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-09:37:07,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-09:37:16,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-09:37:26,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-09:37:35,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-09:37:45,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-09:37:55,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-09:38:05,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-09:38:14,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-09:38:24,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-09:38:33,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-09:38:43,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-09:38:52,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-09:39:02,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-09:39:11,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-09:39:21,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-09:39:31,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-09:44:02,Czech Republic,url exists,
+2026-01-19-09:45:14,Czech Republic,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(""canvas.widget-scene-canvas"").first to be visible
+    - locator resolved to visible <canvas id="""" width=""1280"" height=""672"" class=""mapsConsumerUiSceneCoreScene__canvas widget-scene-canvas""></canvas>
+"
+2026-01-19-09:45:21,Czech Republic,url exists,
+2026-01-19-09:56:23,Croatia,url exists,
+2026-01-19-12:32:46,Croatia,world,
+2026-01-19-12:36:21,Croatia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-19-12:39:23,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-12:39:32,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-12:39:41,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-12:39:51,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-12:40:00,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-12:40:09,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-12:40:19,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-12:40:28,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-12:40:37,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-12:40:47,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-12:40:56,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-12:41:05,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-12:41:15,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-12:41:24,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-12:41:33,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-12:41:43,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-12:41:52,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-12:42:01,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-12:42:10,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-12:42:20,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-12:42:29,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-12:42:38,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-12:42:48,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-12:42:57,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-12:43:06,Dominican Republic,no popup,"Timeout 8000ms exceeded while waiting for event ""page"""
+2026-01-19-12:44:01,Denmark,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-19-12:44:24,Denmark,url exists,
+2026-01-19-12:44:51,Denmark,url exists,
+2026-01-19-12:46:19,Denmark,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for get_by_placeholder(""Name"")
+"
+2026-01-19-12:46:52,Denmark,url exists,
+2026-01-19-12:48:12,Denmark,url exists,
+2026-01-19-12:48:47,Denmark,url exists,
+2026-01-19-12:49:56,Denmark,url exists,
+2026-01-19-12:53:16,Czech Republic,url exists,
+2026-01-19-12:55:10,Czech Republic,url exists,
+2026-01-19-12:55:30,Czech Republic,url exists,
+2026-01-19-12:59:35,Czech Republic,url exists,
+2026-01-19-12:59:43,Czech Republic,url exists,
+2026-01-19-13:00:44,Czech Republic,url exists,
+2026-01-19-13:01:43,Czech Republic,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(""canvas.widget-scene-canvas"").first to be visible
+"
+2026-01-19-13:06:42,Czech Republic,url exists,
+2026-01-19-13:07:47,Czech Republic,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(""canvas.widget-scene-canvas"").first to be visible
+"
+2026-01-19-15:22:44,Czech Republic,world,None
+2026-01-19-15:22:45,Czech Republic,world,None
+2026-01-19-15:23:02,Czech Republic,world,None
+2026-01-19-15:24:54,Czech Republic,world,None
+2026-01-19-15:34:18,Denmark,url exists,None
+2026-01-19-15:35:07,Denmark,url exists,None
+2026-01-19-15:35:14,Denmark,url exists,None
+2026-01-19-15:37:51,Denmark,url exists,None
+2026-01-19-15:43:20,Colombia,url exists,None
+2026-01-19-15:44:34,Colombia,world,None
+2026-01-19-15:46:55,Colombia,url exists,None
+2026-01-19-15:47:12,Colombia,url exists,None
+2026-01-19-15:48:30,Colombia,url exists,None
+2026-01-19-15:50:00,Colombia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-18:23:17,Colombia,url exists,None
+2026-01-19-18:23:43,Colombia,url exists,None
+2026-01-19-18:23:53,Colombia,url exists,None
+2026-01-19-18:24:52,Colombia,url exists,None
+2026-01-19-18:24:59,Colombia,url exists,None
+2026-01-19-18:25:14,Colombia,url exists,None
+2026-01-19-18:25:45,Colombia,world,None
+2026-01-19-18:25:47,Colombia,world,None
+2026-01-19-18:26:33,Colombia,url exists,None
+2026-01-19-18:26:50,Colombia,url exists,None
+2026-01-19-18:26:57,Colombia,url exists,None
+2026-01-19-18:28:31,Colombia,url exists,None
+2026-01-19-18:30:30,Denmark,url exists,None
+2026-01-19-18:33:30,Denmark,url exists,None
+2026-01-19-18:34:26,Denmark,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-18:35:06,Denmark,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-18:37:35,Denmark,url exists,None
+2026-01-19-18:37:42,Denmark,url exists,None
+2026-01-19-18:38:25,Denmark,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-18:39:30,Denmark,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-18:39:38,Denmark,url exists,None
+2026-01-19-18:40:26,Denmark,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-18:41:11,Denmark,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-18:41:19,Denmark,url exists,None
+2026-01-19-18:41:26,Denmark,url exists,None
+2026-01-19-18:42:04,Denmark,no popup,Timeout 30000ms exceeded.
+2026-01-19-18:43:24,Denmark,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-18:44:17,Denmark,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-19-18:44:47,Denmark,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-19-18:45:25,Croatia,no popup,Timeout 30000ms exceeded.
+2026-01-19-18:46:16,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-18:47:08,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-18:48:00,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-18:48:51,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-18:48:59,Croatia,url exists,None
+2026-01-19-18:49:53,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-18:50:31,Croatia,no popup,Timeout 30000ms exceeded.
+2026-01-19-18:51:28,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-18:52:05,Croatia,no popup,Timeout 30000ms exceeded.
+2026-01-19-18:53:02,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-18:53:56,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-18:54:52,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-18:55:30,Croatia,no popup,Timeout 30000ms exceeded.
+2026-01-19-18:55:38,Croatia,url exists,None
+2026-01-19-18:56:25,Croatia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-19-18:57:12,Croatia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-19-18:58:08,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-18:58:46,Croatia,no popup,Timeout 30000ms exceeded.
+2026-01-19-18:59:41,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-19:00:42,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-19:01:30,Croatia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-19-19:02:08,Croatia,no popup,Timeout 30000ms exceeded.
+2026-01-19-19:02:56,Croatia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-19-19:03:45,Croatia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-19-19:04:33,Czech Republic,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-19-19:05:21,Czech Republic,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-19-19:05:59,Czech Republic,no popup,Timeout 30000ms exceeded.
+2026-01-19-19:06:48,Czech Republic,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-19-19:06:56,Czech Republic,url exists,None
+2026-01-19-19:07:44,Czech Republic,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-19-19:08:33,Czech Republic,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-19-19:08:41,Czech Republic,url exists,None
+2026-01-19-19:09:26,Czech Republic,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-19-19:10:04,Czech Republic,no popup,Timeout 30000ms exceeded.
+2026-01-19-19:10:54,Czech Republic,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-19-19:11:32,Czech Republic,no popup,Timeout 30000ms exceeded.
+2026-01-19-19:12:10,Czech Republic,no popup,Timeout 30000ms exceeded.
+2026-01-19-19:13:01,Czech Republic,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-19-19:13:39,Czech Republic,no popup,Timeout 30000ms exceeded.
+2026-01-19-19:14:17,Czech Republic,no popup,Timeout 30000ms exceeded.
+2026-01-19-19:15:04,Czech Republic,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-19-19:15:12,Czech Republic,url exists,None
+2026-01-19-19:15:50,Czech Republic,no popup,Timeout 30000ms exceeded.
+2026-01-19-19:16:28,Czech Republic,no popup,Timeout 30000ms exceeded.
+2026-01-19-19:17:21,Czech Republic,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-19-19:18:13,Czech Republic,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-19-19:18:21,Czech Republic,url exists,None
+2026-01-19-19:19:00,Czech Republic,no popup,Timeout 30000ms exceeded.
+2026-01-19-19:19:39,Czech Republic,no popup,Timeout 30000ms exceeded.
+2026-01-19-19:19:42,Croatia,no images,None
+2026-01-19-19:19:42,Czech Republic,no images,None
+2026-01-19-21:14:34,Colombia,url exists,None
+2026-01-19-21:14:42,Colombia,url exists,None
+2026-01-19-21:14:50,Colombia,url exists,None
+2026-01-19-21:15:50,Colombia,url exists,None
+2026-01-19-21:17:05,Colombia,url exists,None
+2026-01-19-21:17:20,Colombia,url exists,None
+2026-01-19-21:18:16,Colombia,url exists,None
+2026-01-19-21:18:34,Colombia,url exists,None
+2026-01-19-21:18:53,Colombia,url exists,None
+2026-01-19-21:20:39,Colombia,url exists,None
+2026-01-19-21:20:59,Colombia,url exists,None
+2026-01-19-21:21:26,Colombia,url exists,None
+2026-01-19-21:24:06,Colombia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-21:24:33,Colombia,url exists,None
+2026-01-19-21:25:34,Denmark,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-21:26:38,Denmark,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-21:26:45,Denmark,url exists,None
+2026-01-19-21:27:24,Denmark,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-21:29:13,Denmark,world,None
+2026-01-19-21:29:21,Denmark,url exists,None
+2026-01-19-21:30:14,Denmark,url exists,None
+2026-01-19-21:33:03,Denmark,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-21:33:38,Denmark,url exists,None
+2026-01-19-21:34:20,Denmark,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-21:35:31,Denmark,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-21:36:46,Denmark,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-21:37:52,Denmark,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-21:38:28,Denmark,url exists,None
+2026-01-19-21:39:06,Denmark,url exists,None
+2026-01-19-21:39:44,Denmark,no popup,Timeout 30000ms exceeded.
+2026-01-19-21:40:37,Denmark,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-21:41:15,Denmark,no popup,Timeout 30000ms exceeded.
+2026-01-19-21:42:37,Denmark,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-21:43:15,Denmark,no popup,Timeout 30000ms exceeded.
+2026-01-19-21:43:53,Croatia,no popup,Timeout 30000ms exceeded.
+2026-01-19-21:44:31,Croatia,no popup,Timeout 30000ms exceeded.
+2026-01-19-21:45:27,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-21:46:05,Croatia,no popup,Timeout 30000ms exceeded.
+2026-01-19-21:46:46,Croatia,no popup,Timeout 30000ms exceeded.
+2026-01-19-21:47:24,Croatia,no popup,Timeout 30000ms exceeded.
+2026-01-19-21:48:02,Croatia,no popup,Timeout 30000ms exceeded.
+2026-01-19-21:48:40,Croatia,no popup,Timeout 30000ms exceeded.
+2026-01-19-21:49:29,Croatia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-19-21:50:18,Croatia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-19-21:50:56,Croatia,no popup,Timeout 30000ms exceeded.
+2026-01-19-21:51:05,Croatia,url exists,None
+2026-01-19-21:51:43,Croatia,no popup,Timeout 30000ms exceeded.
+2026-01-19-21:52:20,Croatia,no popup,Timeout 30000ms exceeded.
+2026-01-19-21:52:59,Croatia,no popup,Timeout 30000ms exceeded.
+2026-01-19-21:53:37,Croatia,no popup,Timeout 30000ms exceeded.
+2026-01-19-21:54:15,Croatia,no popup,Timeout 30000ms exceeded.
+2026-01-19-21:54:53,Croatia,no popup,Timeout 30000ms exceeded.
+2026-01-19-21:56:05,Croatia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-19-21:56:35,Croatia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-19-21:57:13,Croatia,no popup,Timeout 30000ms exceeded.
+2026-01-19-21:58:06,Croatia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-19-21:58:44,Croatia,no popup,Timeout 30000ms exceeded.
+2026-01-19-21:58:53,Croatia,url exists,None
+2026-01-19-21:59:31,Croatia,no popup,Timeout 30000ms exceeded.
+2026-01-19-22:00:25,Croatia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-19-22:01:04,Czech Republic,no popup,"Timeout 30000ms exceeded.
+========================"
+2026-01-19-22:01:43,Czech Republic,no popup,Timeout 30000ms exceeded.
+2026-01-19-22:02:21,Czech Republic,no popup,Timeout 30000ms exceeded.
+2026-01-19-22:03:15,Czech Republic,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-19-22:04:10,Czech Republic,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-19-22:04:49,Czech Republic,no popup,Timeout 30000ms exceeded.
+2026-01-19-22:05:27,Czech Republic,no popup,Timeout 30000ms exceeded.
+2026-01-19-22:06:23,Czech Republic,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-19-22:07:02,Czech Republic,no popup,Timeout 30000ms exceeded.
+2026-01-19-22:07:41,Czech Republic,no popup,Timeout 30000ms exceeded.
+2026-01-19-22:08:19,Czech Republic,no popup,Timeout 30000ms exceeded.
+2026-01-19-22:08:58,Czech Republic,no popup,Timeout 30000ms exceeded.
+2026-01-19-22:09:37,Czech Republic,no popup,Timeout 30000ms exceeded.
+2026-01-19-22:10:37,Czech Republic,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-19-22:11:15,Czech Republic,no popup,Timeout 30000ms exceeded.
+2026-01-19-22:12:14,Czech Republic,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-19-22:12:53,Czech Republic,no popup,Timeout 30000ms exceeded.
+2026-01-19-22:13:32,Czech Republic,no popup,Timeout 30000ms exceeded.
+2026-01-19-22:14:11,Czech Republic,no popup,Timeout 30000ms exceeded.
+2026-01-19-22:14:50,Czech Republic,no popup,Timeout 30000ms exceeded.
+2026-01-19-22:15:30,Czech Republic,no popup,Timeout 30000ms exceeded.
+2026-01-19-22:16:09,Czech Republic,no popup,Timeout 30000ms exceeded.
+2026-01-19-22:16:50,Czech Republic,no popup,Timeout 30000ms exceeded.
+2026-01-19-22:17:31,Czech Republic,no popup,Timeout 30000ms exceeded.
+2026-01-19-22:18:04,Czech Republic,no popup,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-19-22:18:16,Croatia,no images,None
+2026-01-19-22:18:16,Czech Republic,no images,None
+2026-01-20-01:05:42,Czech Republic,url exists,None
+2026-01-20-01:05:44,Czech Republic,world,None
+2026-01-20-01:06:05,Czech Republic,world,None
+2026-01-20-01:06:13,Czech Republic,url exists,None
+2026-01-20-01:06:20,Czech Republic,url exists,None
+2026-01-20-01:08:17,Czech Republic,url exists,None
+2026-01-20-01:11:06,Czech Republic,url exists,None
+2026-01-20-01:11:49,Czech Republic,url exists,None
+2026-01-20-01:12:36,Czech Republic,url exists,None
+2026-01-20-01:28:15,Croatia,url exists,None
+2026-01-20-01:29:54,Denmark,url exists,None
+2026-01-20-01:36:59,Denmark,url exists,None
+2026-01-20-01:37:13,Denmark,url exists,None
+2026-01-20-01:39:12,Denmark,url exists,None
+2026-01-20-01:39:59,Denmark,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-01:40:07,Denmark,url exists,None
+2026-01-20-01:40:47,Denmark,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-01:41:35,Denmark,url exists,None
+2026-01-20-01:42:19,Denmark,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-01:42:48,Colombia,url exists,None
+2026-01-20-01:43:55,Colombia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-01:45:02,Colombia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-01:45:10,Colombia,url exists,None
+2026-01-20-01:45:17,Colombia,url exists,None
+2026-01-20-01:46:04,Colombia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-01:47:18,Colombia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-01:48:30,Colombia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-01:48:38,Colombia,url exists,None
+2026-01-20-01:49:15,Colombia,url exists,None
+2026-01-20-01:50:07,Colombia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-01:50:44,Colombia,no popup,Timeout 30000ms exceeded.
+2026-01-20-01:51:22,Colombia,no popup,Timeout 30000ms exceeded.
+2026-01-20-01:51:30,Colombia,url exists,None
+2026-01-20-01:51:38,Colombia,url exists,None
+2026-01-20-01:52:16,Colombia,no popup,Timeout 30000ms exceeded.
+2026-01-20-01:53:31,Colombia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-20-01:54:19,Colombia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-20-01:54:26,Colombia,url exists,None
+2026-01-20-01:54:34,Colombia,url exists,None
+2026-01-20-01:54:42,Colombia,url exists,None
+2026-01-20-01:55:20,Colombia,no popup,Timeout 30000ms exceeded.
+2026-01-20-01:55:28,Colombia,url exists,None
+2026-01-20-01:56:06,Colombia,no popup,Timeout 30000ms exceeded.
+2026-01-20-01:56:44,Colombia,no popup,Timeout 30000ms exceeded.
+2026-01-20-01:56:46,Colombia,no images,None
+2026-01-20-04:04:40,Czech Republic,url exists,None
+2026-01-20-04:05:27,Czech Republic,url exists,None
+2026-01-20-04:07:06,Czech Republic,url exists,None
+2026-01-20-04:08:12,Czech Republic,url exists,None
+2026-01-20-04:08:20,Czech Republic,url exists,None
+2026-01-20-04:11:47,Czech Republic,url exists,None
+2026-01-20-04:12:41,Czech Republic,url exists,None
+2026-01-20-04:13:21,Czech Republic,url exists,None
+2026-01-20-04:13:29,Czech Republic,url exists,None
+2026-01-20-04:15:07,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-04:15:42,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-04:17:25,Croatia,url exists,None
+2026-01-20-04:25:34,Croatia,url exists,None
+2026-01-20-04:25:42,Croatia,url exists,None
+2026-01-20-04:26:42,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-04:27:24,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-04:28:24,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-04:29:41,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-04:30:18,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-04:31:14,Denmark,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-04:32:42,Denmark,url exists,None
+2026-01-20-04:33:24,Denmark,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-04:34:28,Denmark,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-04:34:36,Denmark,url exists,None
+2026-01-20-04:34:44,Denmark,url exists,None
+2026-01-20-04:35:30,Denmark,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-04:36:15,Denmark,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-04:36:23,Denmark,url exists,None
+2026-01-20-04:36:31,Denmark,url exists,None
+2026-01-20-04:37:22,Denmark,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-04:38:38,Denmark,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-04:38:46,Denmark,url exists,None
+2026-01-20-04:38:54,Denmark,url exists,None
+2026-01-20-04:39:49,Denmark,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-04:39:57,Denmark,url exists,None
+2026-01-20-04:40:05,Denmark,url exists,None
+2026-01-20-04:40:43,Denmark,no popup,Timeout 30000ms exceeded.
+2026-01-20-04:40:51,Denmark,url exists,None
+2026-01-20-04:41:29,Denmark,no popup,Timeout 30000ms exceeded.
+2026-01-20-04:42:07,Denmark,no popup,Timeout 30000ms exceeded.
+2026-01-20-04:42:55,Denmark,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-20-04:43:03,Denmark,url exists,None
+2026-01-20-04:43:41,Denmark,no popup,Timeout 30000ms exceeded.
+2026-01-20-04:43:49,Colombia,url exists,None
+2026-01-20-04:44:27,Colombia,no popup,Timeout 30000ms exceeded.
+2026-01-20-04:45:06,Colombia,no popup,Timeout 30000ms exceeded.
+2026-01-20-04:45:14,Colombia,url exists,None
+2026-01-20-04:45:22,Colombia,url exists,None
+2026-01-20-04:46:12,Colombia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-20-04:47:03,Colombia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-20-04:47:54,Colombia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-20-04:48:32,Colombia,no popup,Timeout 30000ms exceeded.
+2026-01-20-04:49:11,Colombia,no popup,Timeout 30000ms exceeded.
+2026-01-20-04:49:19,Colombia,url exists,None
+2026-01-20-04:49:28,Colombia,url exists,None
+2026-01-20-04:49:36,Colombia,url exists,None
+2026-01-20-04:49:45,Colombia,url exists,None
+2026-01-20-04:50:40,Colombia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-20-04:51:18,Colombia,no popup,Timeout 30000ms exceeded.
+2026-01-20-04:51:56,Colombia,no popup,Timeout 30000ms exceeded.
+2026-01-20-04:52:35,Colombia,no popup,Timeout 30000ms exceeded.
+2026-01-20-04:53:14,Colombia,no popup,Timeout 30000ms exceeded.
+2026-01-20-04:53:52,Colombia,no popup,Timeout 30000ms exceeded.
+2026-01-20-04:54:01,Colombia,url exists,None
+2026-01-20-04:54:40,Colombia,no popup,Timeout 30000ms exceeded.
+2026-01-20-04:55:21,Colombia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-20-04:55:51,Colombia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-20-04:56:00,Colombia,url exists,None
+2026-01-20-04:56:39,Colombia,no popup,Timeout 30000ms exceeded.
+2026-01-20-04:56:44,Colombia,no images,None
+2026-01-20-09:27:39,Czech Republic,url exists,None
+2026-01-20-09:28:41,Czech Republic,url exists,None
+2026-01-20-09:29:25,Czech Republic,url exists,None
+2026-01-20-09:29:53,Czech Republic,url exists,None
+2026-01-20-09:30:44,Czech Republic,url exists,None
+2026-01-20-09:30:52,Czech Republic,url exists,None
+2026-01-20-09:31:59,Czech Republic,url exists,None
+2026-01-20-09:32:10,Czech Republic,url exists,None
+2026-01-20-09:32:43,Czech Republic,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-09:32:53,Czech Republic,url exists,None
+2026-01-20-09:33:40,Czech Republic,url exists,None
+2026-01-20-09:33:48,Czech Republic,url exists,None
+2026-01-20-09:34:37,Croatia,url exists,None
+2026-01-20-09:35:30,Croatia,url exists,None
+2026-01-20-09:36:53,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-09:37:40,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-09:38:20,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-09:39:01,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-09:39:16,Croatia,url exists,None
+2026-01-20-09:39:31,Croatia,url exists,None
+2026-01-20-09:40:19,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-09:41:09,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-09:41:59,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-09:42:43,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-09:43:34,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-09:44:16,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-09:44:57,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-09:45:38,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-09:46:22,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-09:47:13,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-09:48:07,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-09:48:47,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-09:49:36,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-09:50:26,Croatia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-09:51:07,Croatia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-20-09:51:37,Croatia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-20-09:52:19,Colombia,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-20-09:52:35,Colombia,url exists,None
+2026-01-20-09:52:53,Colombia,url exists,None
+2026-01-20-09:53:05,Colombia,url exists,None
+2026-01-20-09:53:18,Colombia,url exists,None
+2026-01-20-09:53:37,Colombia,url exists,None
+2026-01-20-09:53:53,Colombia,url exists,None
+2026-01-20-09:54:08,Colombia,url exists,None
+2026-01-20-09:54:22,Colombia,url exists,None
+2026-01-20-09:54:51,Colombia,url exists,None
+2026-01-20-09:54:58,Colombia,url exists,None
+2026-01-20-09:55:13,Colombia,url exists,None
+2026-01-20-09:55:30,Colombia,url exists,None
+2026-01-20-09:55:37,Colombia,url exists,None
+2026-01-20-09:56:21,Colombia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-20-09:56:51,Colombia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-20-09:57:09,Colombia,url exists,None
+2026-01-20-09:57:28,Colombia,url exists,None
+2026-01-20-09:57:46,Colombia,url exists,None
+2026-01-20-09:58:05,Colombia,url exists,None
+2026-01-20-09:58:25,Colombia,url exists,None
+2026-01-20-09:58:45,Colombia,url exists,None
+2026-01-20-09:59:48,Colombia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-20-10:00:10,Colombia,url exists,None
+2026-01-20-10:00:33,Colombia,url exists,None
+2026-01-20-10:00:56,Colombia,url exists,None
+2026-01-20-10:02:05,Denmark,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-20-10:03:13,Denmark,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-20-10:03:32,Denmark,url exists,None
+2026-01-20-10:03:56,Denmark,url exists,None
+2026-01-20-10:04:20,Denmark,url exists,None
+2026-01-20-10:05:30,Denmark,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-20-10:05:38,Denmark,url exists,None
+2026-01-20-10:06:46,Denmark,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-20-10:07:07,Denmark,url exists,None
+2026-01-20-10:07:28,Denmark,url exists,None
+2026-01-20-10:08:06,Denmark,url exists,None
+2026-01-20-10:09:17,Denmark,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-20-10:09:26,Denmark,url exists,None
+2026-01-20-10:09:49,Denmark,url exists,None
+2026-01-20-10:10:11,Denmark,url exists,None
+2026-01-20-10:10:50,Denmark,no popup,Timeout 30000ms exceeded.
+2026-01-20-10:11:50,Denmark,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-20-10:12:51,Denmark,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-20-10:13:30,Denmark,no popup,Timeout 30000ms exceeded.
+2026-01-20-10:14:46,Denmark,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-20-10:16:01,Denmark,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-20-10:16:53,Denmark,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-20-10:17:23,Denmark,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-20-10:17:49,Denmark,url exists,None
+2026-01-20-10:19:06,Denmark,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-20-10:19:33,Denmark,url exists,None
+2026-01-20-10:19:34,Colombia,no images,None
+2026-01-20-10:19:34,Denmark,no images,None
