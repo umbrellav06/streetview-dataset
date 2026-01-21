@@ -1,7 +1,0 @@
-time,location,message,error
-2026-01-21-12:32:43,Vatican City,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
-2026-01-21-12:32:52,Vatican City,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
-2026-01-21-12:32:53,Vatican City,world,None
-2026-01-21-12:33:03,Vatican City,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
-2026-01-21-12:33:12,Vatican City,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
-2026-01-21-12:33:12,Vatican City,no images,None

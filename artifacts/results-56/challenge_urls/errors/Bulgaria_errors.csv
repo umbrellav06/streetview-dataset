@@ -1,6 +1,0 @@
-time,location,message,error
-2026-01-21-11:52:22,Bulgaria,name,"Locator.fill: Timeout 30000ms exceeded.
-Call log:
-"
-2026-01-21-11:52:52,Bulgaria,start,"Locator.click: Timeout 30000ms exceeded.
-Call log:"

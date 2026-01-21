@@ -1,7 +1,0 @@
-time,location,message,error
-2026-01-21-12:32:19,Taiwan,url exists,None
-2026-01-21-12:33:12,Taiwan,name,"Locator.fill: Timeout 30000ms exceeded.
-Call log:
-"
-2026-01-21-12:33:42,Taiwan,start,"Locator.click: Timeout 30000ms exceeded.
-Call log:"
