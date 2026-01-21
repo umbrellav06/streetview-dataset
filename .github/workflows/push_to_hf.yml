@@ -1,0 +1,89 @@
+name: Push Dataset to HuggingFace
+
+on:
+  workflow_run: 
+    workflows: ["Run Image Request"] 
+    types: 
+      - completed
+
+jobs:
+  push-to-hf:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+          persist-credentials: true
+
+      - name: Check if dataset folder exists
+        id: check_dataset
+        run: |
+          if [ -d "dataset" ]; then
+            echo "exists=true" >> $GITHUB_OUTPUT
+          else
+            echo "exists=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Stop workflow if dataset does not exist
+        if: steps.check_dataset.outputs.exists == 'false'
+        run: |
+          echo "Kein dataset Ordner vorhanden – Workflow wird beendet."
+
+      - name: Set up Git LFS
+        if: steps.check_dataset.outputs.exists == 'true'
+        run: |
+          git lfs install
+
+      - name: Clone HuggingFace dataset repo into temp directory
+        if: steps.check_dataset.outputs.exists == 'true'
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_USERNAME: ${{ secrets.HF_USERNAME }}
+          HF_DATASET: ${{ secrets.HF_DATASET }}
+        run: |
+          mkdir -p temp
+          cd temp
+          git clone https://huggingface.co/datasets/${{ secrets.HF_USERNAME }}/${{ secrets.HF_DATASET }} hf_dataset
+          cd hf_dataset
+          git lfs install
+
+      - name: Copy dataset to HuggingFace repo
+        if: steps.check_dataset.outputs.exists == 'true'
+        run: |
+          cd temp/hf_dataset
+          mkdir -p dataset
+          cp -rn ../../dataset/* dataset/
+
+      - name: Commit & push to HuggingFace
+        if: steps.check_dataset.outputs.exists == 'true'
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_USERNAME: ${{ secrets.HF_USERNAME }}
+          HF_DATASET: ${{ secrets.HF_DATASET }}
+        run: |
+          cd temp/hf_dataset
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add .
+          git commit -m "Update dataset from GitHub Actions" || echo "No changes to commit"
+          git push https://${{ secrets.HF_USERNAME }}:${{ secrets.HF_TOKEN }}@huggingface.co/datasets/${{ secrets.HF_USERNAME }}/${{ secrets.HF_DATASET }}
+
+      - name: Delete dataset folder in GitHub repo
+        if: steps.check_dataset.outputs.exists == 'true'
+        run: |
+          rm -rf dataset
+
+      - name: Commit deletion to GitHub
+        if: steps.check_dataset.outputs.exists == 'true'
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add -A
+          git commit -m "Remove dataset after pushing to HuggingFace" || echo "No changes to commit"
+          git push
