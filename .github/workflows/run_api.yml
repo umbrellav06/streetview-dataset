@@ -89,13 +89,13 @@ jobs:
           done
 
           # Kopiere alle *_errors.csv
-          for e in artifacts/*/errors/*.csv; do
-            cp "$e" errors/ || true
+          for e in artifacts/*/errors/*.csv 2>/dev/null; do
+            [ -f "$e" ] && cp "$e" errors/
           done
 
           # Kopiere alle *_challenge_urls.csv
-          for c in artifacts/*/challenge_urls/*.csv; do
-            cp "$c" challenge_urls/ || true
+          for c in artifacts/*/challenge_urls/*.csv 2>/dev/null; do
+            [ -f "$c" ] && cp "$c" challenge_urls/
           done
 
       - name: Cleanup artifacts folder
@@ -110,6 +110,10 @@ jobs:
 
           if ! git diff --cached --quiet; then
             git commit -m "Update dataset and logs (all countries)"
+
+            # WICHTIG: Remote-Änderungen holen, bevor wir pushen
+            git pull --rebase origin main
+
             git push origin main
           else
             echo "Keine Änderungen, kein Commit."
