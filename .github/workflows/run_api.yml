@@ -46,7 +46,11 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: results-${{ matrix.location_nr }}
-          path: output/ 
+          path: |
+            dataset/
+            errors/
+            challenge_urls/
+
           if-no-files-found: ignore
 
 
@@ -60,16 +64,20 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      
+        with:
+          clean: false
+          fetch-depth: 0
+
       - name: Download all artifacts 
         uses: actions/download-artifact@v4 
         with: 
-          path: output/
+          path: artifacts/
 
       - name: Move downloaded files into repo 
         run: | 
-          mkdir -p dataset 
-          cp -r output/* dataset/ || true
+          cp -r artifacts/*/* dataset/ || true
+          cp -r artifacts/*/* errors/ || true
+          cp -r artifacts/*/* challenge_urls/ || true
 
       - name: Commit and push all changes
         run: |
