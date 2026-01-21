@@ -1,0 +1,6 @@
+time,location,message,error
+2026-01-21-11:45:37,Finland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-21-11:46:07,Finland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"

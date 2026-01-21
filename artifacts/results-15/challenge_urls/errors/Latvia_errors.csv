@@ -1,0 +1,6 @@
+time,location,message,error
+2026-01-21-11:53:40,Latvia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-21-11:54:10,Latvia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
