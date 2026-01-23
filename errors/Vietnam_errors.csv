@@ -77,3 +77,9 @@ time,location,message,error
 2026-01-23-07:06:37,Vietnam,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
 2026-01-23-07:06:46,Vietnam,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
 2026-01-23-07:06:46,Vietnam,no images,None
+2026-01-23-10:02:30,Vietnam,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-01-23-10:02:39,Vietnam,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-01-23-10:02:48,Vietnam,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-01-23-10:02:50,Vietnam,world,None
+2026-01-23-10:02:59,Vietnam,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-01-23-10:02:59,Vietnam,no images,None
