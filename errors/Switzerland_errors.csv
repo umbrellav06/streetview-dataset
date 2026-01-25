@@ -5,3 +5,11 @@ Call log:
 2026-01-21-13:56:41,Switzerland,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
 2026-01-21-13:57:01,Switzerland,url exists,None
+2026-01-25-22:58:50,Switzerland,no popup,Timeout 30000ms exceeded.
+2026-01-25-23:01:53,Switzerland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-25-23:02:23,Switzerland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-25-23:03:22,Switzerland,url exists,None
+2026-01-25-23:03:32,Switzerland,url exists,None
