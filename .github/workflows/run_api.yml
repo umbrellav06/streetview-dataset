@@ -52,9 +52,9 @@ jobs:
         with:
           name: results-${{ matrix.location_nr }}
           path: |
-            dataset/${{ matrix.location_nr }}
-            errors/${{ matrix.location_nr }}_errors.csv
-            challenge_urls/${{ matrix.location_nr }}_challenge_urls.csv
+            dataset/
+            errors/
+            challenge_urls/
           if-no-files-found: ignore
 
 

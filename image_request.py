@@ -352,7 +352,7 @@ def streetview(location_nr):
     if location_nr >= len(locations):
         print('invalid location nr')
         return
-
+    if location_nr > 10: return
     location = locations[location_nr]    
 
     print('##################')
