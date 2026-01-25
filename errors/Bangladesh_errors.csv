@@ -1,2 +1,9 @@
 time,location,message,error
 2026-01-21-13:56:13,Bangladesh,url exists,None
+2026-01-25-22:30:57,Bangladesh,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-25-22:31:27,Bangladesh,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-25-22:31:46,Bangladesh,url exists,None
+2026-01-25-22:32:44,Bangladesh,url exists,None
