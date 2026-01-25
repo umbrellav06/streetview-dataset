@@ -61,6 +61,8 @@ def log_error(location,message, error=None):
         header=not pd.io.common.file_exists(path), 
         index=False
     )
+    print("LOG_ERROR CALLED:", location, message)
+
 
 def exists_url(location,url):
     path = challenge_csv_path(location)
@@ -389,3 +391,4 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     streetview(location_nr=args.location)
+
