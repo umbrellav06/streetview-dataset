@@ -4,3 +4,12 @@ Call log:
 "
 2026-01-21-12:23:55,Tunisia,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-01-25-23:01:55,Tunisia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-25-23:02:25,Tunisia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-25-23:03:18,Tunisia,url exists,None
+2026-01-25-23:04:37,Tunisia,url exists,None
+2026-01-25-23:05:57,Tunisia,url exists,None
+2026-01-25-23:06:12,Tunisia,url exists,None
