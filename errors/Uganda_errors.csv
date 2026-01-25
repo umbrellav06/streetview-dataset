@@ -1,3 +1,5 @@
 time,location,message,error
 2026-01-23-07:06:08,Uganda,url exists,None
 2026-01-23-07:06:15,Uganda,url exists,None
+2026-01-25-22:55:45,Uganda,no popup,Timeout 30000ms exceeded.
+2026-01-25-22:58:22,Uganda,no popup,Timeout 30000ms exceeded.
