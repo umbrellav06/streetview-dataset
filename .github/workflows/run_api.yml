@@ -48,7 +48,6 @@ jobs:
         run: python image_request.py --location "${{ matrix.location_nr }}"
 
       - name: Upload results
-        working-directory: ${{ github.workspace }}
         uses: actions/upload-artifact@v4
         with:
           name: results-${{ matrix.location_nr }}
@@ -105,9 +104,11 @@ jobs:
           done
 
       - name: Cleanup artifacts folder
+        working-directory: ${{ github.workspace }}
         run: rm -rf artifacts
 
       - name: Commit and push all changes
+        working-directory: ${{ github.workspace }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
