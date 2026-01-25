@@ -21,3 +21,4 @@ for datei in dateien:
         print(f"Treffer in Datei: {os.path.basename(datei)}")
         print(treffer)
         print("-" * 40)
+

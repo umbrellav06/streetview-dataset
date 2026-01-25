@@ -348,7 +348,8 @@ def streetview(location_nr):
     # "Costa Rica","Dominican Republic","Eswatini","Jordan","Kazakhstan"
     location_nr = int(location_nr)
     if location_nr >= len(locations):
-        location_nr = random.randint(0,len(locations)-1)
+        print('invalid location nr')
+        return
 
     location = locations[location_nr]    
 
