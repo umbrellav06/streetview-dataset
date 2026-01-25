@@ -314,7 +314,7 @@ def process_single(browser, location, index):
     map_title = map_title.encode("ascii", "ignore").decode()
     map_title = re.sub(r"[^A-Za-z0-9_]", "", map_title)
 
-    name = datetime.now().strftime("%Y-%m-%d") +'_'+map_title+'_'+''.join(random.choices(string.ascii_letters, k=6)) + ".jpg"
+    name = datetime.now().strftime("%Y-%m-%d") +'_'+map_title+'_'+ url[-16:] +".jpg"
     path = os.path.join(folder, name)
 
     streetview.screenshot(path=path)
@@ -362,7 +362,7 @@ def streetview(location_nr):
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         success_count = 0
-        for i in range(1):
+        for i in range(15):
             if process_single(browser, location, i):
                 success_count += 1
 
