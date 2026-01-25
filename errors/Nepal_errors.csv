@@ -1,2 +1,15 @@
 time,location,message,error
 2026-01-21-13:56:00,Nepal,url exists,None
+2026-01-25-22:50:59,Nepal,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-25-22:51:29,Nepal,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-25-22:52:55,Nepal,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-25-22:53:25,Nepal,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-25-22:54:05,Nepal,url exists,None
+2026-01-25-22:54:46,Nepal,url exists,None
+2026-01-25-22:55:11,Nepal,url exists,None
