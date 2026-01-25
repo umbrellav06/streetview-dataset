@@ -5,3 +5,9 @@ Call log:
 "
 2026-01-21-12:33:42,Taiwan,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-01-25-22:59:16,Taiwan,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-25-22:59:46,Taiwan,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-25-23:00:14,Taiwan,url exists,None
