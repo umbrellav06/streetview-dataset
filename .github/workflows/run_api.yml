@@ -1,5 +1,8 @@
 name: Run Image Request
 
+permissions:
+  contents: write
+
 concurrency:
   group: streetview-dataset
   cancel-in-progress: false
@@ -27,8 +30,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v5
