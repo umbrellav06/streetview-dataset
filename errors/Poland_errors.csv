@@ -1,2 +1,12 @@
 time,location,message,error
 2026-01-23-04:09:41,Poland,url exists,None
+2026-01-25-22:46:26,Poland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-25-22:46:56,Poland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-25-22:48:41,Poland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-25-22:49:11,Poland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
