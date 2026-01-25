@@ -81,27 +81,51 @@ jobs:
       - name: Merge artifacts into repo folders
         working-directory: ${{ github.workspace }}
         run: |
+          echo "=== DEBUG: Inhalt von artifacts/ ==="
+          ls -R artifacts/ || echo "Keine artifacts gefunden"
+      
           mkdir -p dataset errors challenge_urls
 
           # Wenn ein Pattern keine Treffer hat, wird es leer statt als Literal
           shopt -s nullglob
-
+      
+          echo "=== DEBUG: Gefundene dataset-Ordner ==="
+          ls artifacts/*/dataset/* || echo "Keine dataset-Ordner gefunden"
+          
           # Kopiere alle dataset-Unterordner
           for d in artifacts/*/dataset/*; do
             if [ -d "$d" ]; then
+              echo "Kopiere Dataset-Ordner: $d"
               cp -r "$d" dataset/
             fi
           done
-
+      
+          echo "=== DEBUG: Gefundene Fehler-CSV ==="
+          ls artifacts/*/errors/*.csv || echo "Keine Fehler-CSV gefunden"
+          
           # Kopiere alle *_errors.csv
           for e in artifacts/*/errors/*.csv; do
+            echo "Kopiere Fehler-CSV: $e"
             cp "$e" errors/
           done
-
+      
+          echo "=== DEBUG: Gefundene challenge_urls-CSV ==="
+          ls artifacts/*/challenge_urls/*.csv || echo "Keine challenge_urls-CSV gefunden"
+          
           # Kopiere alle *_challenge_urls.csv
           for c in artifacts/*/challenge_urls/*.csv; do
+            echo "Kopiere challenge_urls-CSV: $c"
             cp "$c" challenge_urls/
           done
+      
+          echo "=== DEBUG: Inhalt nach Merge ==="
+          echo "--- dataset/ ---"
+          ls -R dataset/
+          echo "--- errors/ ---"
+          ls -R errors/
+          echo "--- challenge_urls/ ---"
+          ls -R challenge_urls/
+      
 
       - name: Cleanup artifacts folder
         working-directory: ${{ github.workspace }}
