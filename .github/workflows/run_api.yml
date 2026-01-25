@@ -59,6 +59,7 @@ jobs:
 
 
   commit-and-push:
+    if: always()
     runs-on: ubuntu-latest
     needs: run-country
 
