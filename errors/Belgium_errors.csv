@@ -1,2 +1,4 @@
 time,location,message,error
 2026-01-21-13:53:37,Belgium,world,None
+2026-01-25-22:10:39,Belgium,no popup,Timeout 30000ms exceeded.
+2026-01-25-22:10:39,Belgium,no images,None
