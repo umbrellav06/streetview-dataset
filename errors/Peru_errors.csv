@@ -1,2 +1,5 @@
 time,location,message,error
 2026-01-21-14:05:06,Peru,url exists,None
+2026-01-25-22:53:22,Peru,no popup,Timeout 30000ms exceeded.
+2026-01-25-22:54:35,Peru,url exists,None
+2026-01-25-22:56:17,Peru,url exists,None
