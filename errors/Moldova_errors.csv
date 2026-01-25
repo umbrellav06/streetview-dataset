@@ -9,3 +9,11 @@ Call log:
 "
 2026-01-21-17:16:46,Moldova,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-01-25-22:54:19,Moldova,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-25-22:54:49,Moldova,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-25-22:56:55,Moldova,url exists,None
+2026-01-25-22:57:45,Moldova,url exists,None
+2026-01-25-22:58:32,Moldova,url exists,None
