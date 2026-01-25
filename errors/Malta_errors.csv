@@ -4,3 +4,10 @@ Call log:
 "
 2026-01-21-12:22:39,Malta,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-01-25-22:45:56,Malta,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-25-22:46:26,Malta,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-25-22:47:03,Malta,no popup,Timeout 30000ms exceeded.
+2026-01-25-22:50:24,Malta,url exists,None
