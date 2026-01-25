@@ -5,10 +5,10 @@ on:
     workflows: ["Run Image Request"] 
     types: 
       - completed
+  workflow_dispatch:
 
 jobs:
   push-to-hf:
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
 
     permissions:
