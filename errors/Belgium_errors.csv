@@ -3,3 +3,11 @@ time,location,message,error
 2026-01-25-22:10:39,Belgium,no popup,Timeout 30000ms exceeded.
 2026-01-25-22:10:39,Belgium,no images,None
 2026-01-25-22:31:37,Belgium,url exists,None
+2026-01-25-22:52:17,Belgium,url exists,None
+2026-01-25-22:53:41,Belgium,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-25-22:54:11,Belgium,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-25-22:55:36,Belgium,url exists,None
+2026-01-25-22:55:43,Belgium,url exists,None
