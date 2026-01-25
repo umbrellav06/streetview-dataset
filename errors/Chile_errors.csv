@@ -1,3 +1,9 @@
 time,location,message,error
 2026-01-21-12:20:00,Chile,url exists,None
 2026-01-21-12:20:02,Chile,world,None
+2026-01-25-22:52:53,Chile,url exists,None
+2026-01-25-22:56:50,Chile,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-25-22:57:20,Chile,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
