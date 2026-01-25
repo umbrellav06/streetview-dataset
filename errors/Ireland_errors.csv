@@ -1,2 +1,8 @@
 time,location,message,error
 2026-01-21-21:58:28,Ireland,url exists,None
+2026-01-25-22:54:58,Ireland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-25-22:55:28,Ireland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-25-22:55:35,Ireland,url exists,None
