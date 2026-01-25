@@ -1,3 +1,10 @@
 time,location,message,error
 2026-01-21-13:53:49,Bosnia and Herzegovina,world,None
 2026-01-21-13:53:50,Bosnia and Herzegovina,world,None
+2026-01-25-22:52:19,Bosnia and Herzegovina,url exists,None
+2026-01-25-22:54:12,Bosnia and Herzegovina,url exists,None
+2026-01-25-22:55:12,Bosnia and Herzegovina,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-25-22:55:42,Bosnia and Herzegovina,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
