@@ -302,6 +302,7 @@ def process_single(browser, location, index):
         context.close()
         return False
     
+    add_url(location,url)
     page.wait_for_timeout(1000)
 
     # Screenshot
@@ -317,7 +318,6 @@ def process_single(browser, location, index):
     streetview.screenshot(path=path)
 
     context.close()
-    add_url(location,url)
     return True
 
 
