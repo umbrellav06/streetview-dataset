@@ -52,3 +52,16 @@ Call lo"
 2026-01-26-19:13:39,Chile,no popup,Timeout 30000ms exceeded.
 2026-01-26-19:14:11,Chile,url exists,None
 2026-01-26-19:14:22,Chile,url exists,None
+2026-01-26-21:49:40,Chile,world,None
+2026-01-26-21:50:00,Chile,url exists,None
+2026-01-26-21:50:39,Chile,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-21:51:09,Chile,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-21:51:31,Chile,url exists,None
+2026-01-26-21:51:54,Chile,url exists,None
+2026-01-26-21:52:03,Chile,url exists,None
+2026-01-26-21:52:11,Chile,url exists,None
+2026-01-26-21:52:45,Chile,url exists,None
+2026-01-26-21:53:33,Chile,url exists,None
