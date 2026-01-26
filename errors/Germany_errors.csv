@@ -11,3 +11,5 @@ Call log:
 Call log:"
 2026-01-26-04:40:29,Germany,url exists,None
 2026-01-26-04:42:19,Germany,url exists,None
+2026-01-26-07:08:06,Germany,no popup,Timeout 30000ms exceeded.
+2026-01-26-07:10:32,Germany,url exists,None
