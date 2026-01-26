@@ -26,3 +26,13 @@ Call log:"
 2026-01-26-14:05:40,Denmark,url exists,None
 2026-01-26-14:06:54,Denmark,url exists,None
 2026-01-26-14:08:42,Denmark,url exists,None
+2026-01-26-16:14:14,Denmark,url exists,None
+2026-01-26-16:15:22,Denmark,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-16:15:52,Denmark,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-16:16:12,Denmark,url exists,None
+2026-01-26-16:17:08,Denmark,url exists,None
+2026-01-26-16:17:50,Denmark,url exists,None
+2026-01-26-16:18:17,Denmark,url exists,None
