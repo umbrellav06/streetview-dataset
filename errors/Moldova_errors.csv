@@ -60,3 +60,27 @@ Call log:"
 2026-01-26-14:09:23,Moldova,url exists,None
 2026-01-26-14:09:30,Moldova,url exists,None
 2026-01-26-14:09:37,Moldova,url exists,None
+2026-01-26-16:06:01,Moldova,url exists,None
+2026-01-26-16:06:08,Moldova,url exists,None
+2026-01-26-16:07:34,Moldova,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-16:08:04,Moldova,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-16:08:11,Moldova,url exists,None
+2026-01-26-16:08:18,Moldova,url exists,None
+2026-01-26-16:08:27,Moldova,url exists,None
+2026-01-26-16:08:34,Moldova,url exists,None
+2026-01-26-16:08:45,Moldova,url exists,None
+2026-01-26-16:08:52,Moldova,url exists,None
+2026-01-26-16:09:32,Moldova,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-16:10:02,Moldova,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-16:10:43,Moldova,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-16:11:13,Moldova,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-16:11:26,Moldova,url exists,None
