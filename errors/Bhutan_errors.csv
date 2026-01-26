@@ -8,3 +8,11 @@ time,location,message,error
 2026-01-25-22:42:00,Bhutan,url exists,None
 2026-01-25-22:42:07,Bhutan,url exists,None
 2026-01-25-22:42:15,Bhutan,url exists,None
+2026-01-26-04:42:23,Bhutan,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-04:42:53,Bhutan,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-04:44:37,Bhutan,url exists,None
+2026-01-26-04:44:57,Bhutan,url exists,None
+2026-01-26-04:45:04,Bhutan,url exists,None
