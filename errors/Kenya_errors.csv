@@ -80,3 +80,18 @@ Call log:"
 2026-01-26-14:01:24,Kenya,url exists,None
 2026-01-26-14:01:40,Kenya,url exists,None
 2026-01-26-14:01:47,Kenya,url exists,None
+2026-01-26-16:03:52,Kenya,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-16:04:22,Kenya,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-16:04:29,Kenya,url exists,None
+2026-01-26-16:04:51,Kenya,url exists,None
+2026-01-26-16:05:17,Kenya,url exists,None
+2026-01-26-16:05:24,Kenya,url exists,None
+2026-01-26-16:05:33,Kenya,url exists,None
+2026-01-26-16:05:41,Kenya,url exists,None
+2026-01-26-16:06:14,Kenya,url exists,None
+2026-01-26-16:06:27,Kenya,url exists,None
+2026-01-26-16:07:13,Kenya,url exists,None
+2026-01-26-16:07:20,Kenya,url exists,None
