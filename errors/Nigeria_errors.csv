@@ -64,3 +64,26 @@ Call log:
 2026-01-26-14:07:02,Nigeria,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
 2026-01-26-14:07:57,Nigeria,url exists,None
+2026-01-26-16:03:14,Nigeria,url exists,None
+2026-01-26-16:03:53,Nigeria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-16:04:23,Nigeria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-16:05:02,Nigeria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-16:05:32,Nigeria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-16:06:09,Nigeria,url exists,None
+2026-01-26-16:06:49,Nigeria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-16:07:19,Nigeria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-16:07:27,Nigeria,url exists,None
+2026-01-26-16:07:37,Nigeria,url exists,None
+2026-01-26-16:07:46,Nigeria,url exists,None
+2026-01-26-16:07:54,Nigeria,url exists,None
+2026-01-26-16:08:05,Nigeria,url exists,None
+2026-01-26-16:09:38,Nigeria,no popup,Timeout 30000ms exceeded.
