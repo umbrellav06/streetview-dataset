@@ -7,3 +7,9 @@ Call log:"
 2026-01-25-22:59:24,United Kingdom,no popup,Timeout 30000ms exceeded.
 2026-01-26-04:58:47,United Kingdom,url exists,None
 2026-01-26-10:21:57,United Kingdom,url exists,None
+2026-01-26-14:04:30,United Kingdom,url exists,None
+2026-01-26-14:06:37,United Kingdom,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-14:07:07,United Kingdom,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
