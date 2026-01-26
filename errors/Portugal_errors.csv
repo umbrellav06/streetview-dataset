@@ -36,3 +36,11 @@ Call log:
 Call log:"
 2026-01-26-16:02:25,Portugal,url exists,None
 2026-01-26-16:03:14,Portugal,url exists,None
+2026-01-26-19:25:29,Portugal,url exists,None
+2026-01-26-19:26:35,Portugal,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-19:27:05,Portugal,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-19:27:07,Portugal,world,None
+2026-01-26-19:27:22,Portugal,world,None
