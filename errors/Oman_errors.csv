@@ -11,3 +11,14 @@ Call log:"
 2026-01-26-10:11:11,Oman,url exists,None
 2026-01-26-10:11:18,Oman,url exists,None
 2026-01-26-10:11:46,Oman,url exists,None
+2026-01-26-14:04:07,Oman,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-26-14:04:58,Oman,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-14:05:28,Oman,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-14:05:35,Oman,url exists,None
+2026-01-26-14:05:56,Oman,url exists,None
+2026-01-26-14:06:36,Oman,url exists,None
+2026-01-26-14:06:43,Oman,url exists,None
