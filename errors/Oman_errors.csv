@@ -22,3 +22,11 @@ Call log:"
 2026-01-26-14:05:56,Oman,url exists,None
 2026-01-26-14:06:36,Oman,url exists,None
 2026-01-26-14:06:43,Oman,url exists,None
+2026-01-26-16:03:32,Oman,url exists,None
+2026-01-26-16:04:27,Oman,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-16:04:57,Oman,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-16:05:20,Oman,url exists,None
+2026-01-26-16:07:24,Oman,url exists,None
