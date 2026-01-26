@@ -6,3 +6,12 @@ time,location,message,error
 2026-01-25-22:40:49,Denmark,url exists,None
 2026-01-26-04:38:49,Denmark,url exists,None
 2026-01-26-04:40:17,Denmark,url exists,None
+2026-01-26-07:13:16,Denmark,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-07:13:46,Denmark,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-07:14:33,Denmark,url exists,None
+2026-01-26-07:14:47,Denmark,url exists,None
+2026-01-26-07:14:54,Denmark,url exists,None
+2026-01-26-07:16:25,Denmark,url exists,None
