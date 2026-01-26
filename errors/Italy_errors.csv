@@ -7,3 +7,15 @@ Call log:
 2026-01-26-10:16:26,Italy,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
 2026-01-26-10:16:33,Italy,url exists,None
+2026-01-26-13:58:13,Italy,url exists,None
+2026-01-26-13:59:19,Italy,url exists,None
+2026-01-26-14:01:04,Italy,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-14:01:34,Italy,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-14:03:03,Italy,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-14:03:33,Italy,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
