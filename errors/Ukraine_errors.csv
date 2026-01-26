@@ -21,3 +21,9 @@ Call log:"
 2026-01-26-14:17:31,Ukraine,url exists,None
 2026-01-26-14:17:38,Ukraine,url exists,None
 2026-01-26-14:17:47,Ukraine,url exists,None
+2026-01-26-16:15:51,Ukraine,url exists,None
+2026-01-26-16:17:55,Ukraine,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-16:18:25,Ukraine,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
