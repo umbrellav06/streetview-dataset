@@ -19,3 +19,13 @@ Call log:"
 2026-01-26-10:05:43,Hungary,url exists,None
 2026-01-26-10:05:50,Hungary,url exists,None
 2026-01-26-10:06:00,Hungary,url exists,None
+2026-01-26-13:58:42,Hungary,url exists,None
+2026-01-26-13:59:51,Hungary,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-14:00:21,Hungary,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-14:00:56,Hungary,url exists,None
+2026-01-26-14:01:20,Hungary,url exists,None
+2026-01-26-14:01:45,Hungary,url exists,None
+2026-01-26-14:01:53,Hungary,url exists,None
