@@ -7,3 +7,18 @@ Call log:
 Call log:"
 2026-01-26-04:43:29,Norway,url exists,None
 2026-01-26-04:45:20,Norway,url exists,None
+2026-01-26-07:25:48,Norway,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-07:26:18,Norway,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-07:28:00,Norway,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-07:28:30,Norway,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-07:29:40,Norway,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-07:30:10,Norway,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
