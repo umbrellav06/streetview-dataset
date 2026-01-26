@@ -33,3 +33,17 @@ Call lo"
 2026-01-26-16:14:24,Uruguay,url exists,None
 2026-01-26-16:14:35,Uruguay,url exists,None
 2026-01-26-16:15:08,Uruguay,url exists,None
+2026-01-26-19:17:13,Uruguay,url exists,None
+2026-01-26-19:17:39,Uruguay,url exists,None
+2026-01-26-19:17:50,Uruguay,url exists,None
+2026-01-26-19:18:31,Uruguay,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-19:19:01,Uruguay,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-19:19:52,Uruguay,url exists,None
+2026-01-26-19:19:59,Uruguay,url exists,None
+2026-01-26-19:20:19,Uruguay,url exists,None
+2026-01-26-19:20:33,Uruguay,url exists,None
+2026-01-26-19:20:50,Uruguay,url exists,None
+2026-01-26-19:21:27,Uruguay,no popup,Timeout 30000ms exceeded.
