@@ -25,3 +25,15 @@ Call log:
 Call log:"
 2026-01-26-10:08:17,Czech Republic,url exists,None
 2026-01-26-10:08:58,Czech Republic,url exists,None
+2026-01-26-14:11:45,Czech Republic,url exists,None
+2026-01-26-14:11:52,Czech Republic,url exists,None
+2026-01-26-14:13:07,Czech Republic,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-14:13:37,Czech Republic,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-14:14:12,Czech Republic,url exists,None
+2026-01-26-14:14:21,Czech Republic,url exists,None
+2026-01-26-14:15:10,Czech Republic,url exists,None
+2026-01-26-14:16:32,Czech Republic,no popup,Timeout 30000ms exceeded.
+2026-01-26-14:16:42,Czech Republic,url exists,None
