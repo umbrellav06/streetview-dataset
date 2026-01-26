@@ -34,3 +34,18 @@ Call log:"
 2026-01-26-10:02:13,Belgium,url exists,None
 2026-01-26-10:03:09,Belgium,url exists,None
 2026-01-26-10:03:20,Belgium,url exists,None
+2026-01-26-14:10:16,Belgium,url exists,None
+2026-01-26-14:10:56,Belgium,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-14:11:26,Belgium,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-14:11:47,Belgium,url exists,None
+2026-01-26-14:11:54,Belgium,url exists,None
+2026-01-26-14:12:03,Belgium,url exists,None
+2026-01-26-14:12:14,Belgium,url exists,None
+2026-01-26-14:12:25,Belgium,url exists,None
+2026-01-26-14:13:04,Belgium,url exists,None
+2026-01-26-14:13:17,Belgium,url exists,None
+2026-01-26-14:14:00,Belgium,url exists,None
+2026-01-26-14:14:13,Belgium,url exists,None
