@@ -1,3 +1,9 @@
 time,location,message,error
 2026-01-22-21:50:33,Mexico,url exists,None
 2026-01-26-04:45:23,Mexico,url exists,None
+2026-01-26-07:29:47,Mexico,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-07:30:17,Mexico,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-07:31:43,Mexico,url exists,None
