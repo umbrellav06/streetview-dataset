@@ -13,3 +13,12 @@ Call log:
 Call log:"
 2026-01-25-23:03:22,Switzerland,url exists,None
 2026-01-25-23:03:32,Switzerland,url exists,None
+2026-01-26-04:43:57,Switzerland,url exists,None
+2026-01-26-04:44:32,Switzerland,url exists,None
+2026-01-26-04:46:13,Switzerland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-04:46:43,Switzerland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-04:47:12,Switzerland,url exists,None
+2026-01-26-04:48:04,Switzerland,url exists,None
