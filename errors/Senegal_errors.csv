@@ -8,3 +8,12 @@ Call log:"
 2026-01-25-23:02:41,Senegal,url exists,None
 2026-01-25-23:02:48,Senegal,url exists,None
 2026-01-25-23:03:04,Senegal,url exists,None
+2026-01-26-04:50:30,Senegal,url exists,None
+2026-01-26-04:51:45,Senegal,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-04:52:15,Senegal,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-04:53:55,Senegal,url exists,None
+2026-01-26-04:54:07,Senegal,url exists,None
+2026-01-26-04:55:01,Senegal,url exists,None
