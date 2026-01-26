@@ -3,3 +3,9 @@ time,location,message,error
 2026-01-23-07:06:15,Uganda,url exists,None
 2026-01-25-22:55:45,Uganda,no popup,Timeout 30000ms exceeded.
 2026-01-25-22:58:22,Uganda,no popup,Timeout 30000ms exceeded.
+2026-01-26-04:58:11,Uganda,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-04:58:41,Uganda,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-05:00:17,Uganda,url exists,None
