@@ -52,3 +52,16 @@ Call log:
 2026-01-26-07:29:03,Tunisia,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
 2026-01-26-07:29:34,Tunisia,url exists,None
+2026-01-26-10:09:48,Tunisia,url exists,None
+2026-01-26-10:10:25,Tunisia,url exists,None
+2026-01-26-10:11:05,Tunisia,url exists,None
+2026-01-26-10:11:14,Tunisia,url exists,None
+2026-01-26-10:13:03,Tunisia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-10:13:33,Tunisia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-10:13:41,Tunisia,url exists,None
+2026-01-26-10:13:48,Tunisia,url exists,None
+2026-01-26-10:13:55,Tunisia,url exists,None
+2026-01-26-10:14:08,Tunisia,url exists,None
