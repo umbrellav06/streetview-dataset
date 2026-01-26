@@ -54,3 +54,6 @@ Call log:"
 2026-01-26-19:30:19,Lithuania,world,None
 2026-01-26-19:30:40,Lithuania,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
 "
+2026-01-26-21:59:08,Lithuania,url exists,None
+2026-01-26-22:00:55,Lithuania,url exists,None
+2026-01-26-22:01:02,Lithuania,url exists,None
