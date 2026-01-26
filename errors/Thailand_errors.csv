@@ -17,3 +17,7 @@ Call log:"
 2026-01-26-10:11:23,Thailand,url exists,None
 2026-01-26-10:12:41,Thailand,url exists,None
 2026-01-26-10:13:22,Thailand,url exists,None
+2026-01-26-14:14:29,Thailand,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-26-14:15:01,Thailand,url exists,None
+2026-01-26-14:15:51,Thailand,url exists,None
