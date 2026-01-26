@@ -43,3 +43,18 @@ Call log:"
 2026-01-26-19:25:53,Qatar,url exists,None
 2026-01-26-19:26:42,Qatar,url exists,None
 2026-01-26-19:29:16,Qatar,url exists,None
+2026-01-26-22:00:58,Qatar,url exists,None
+2026-01-26-22:01:06,Qatar,url exists,None
+2026-01-26-22:01:14,Qatar,url exists,None
+2026-01-26-22:01:22,Qatar,url exists,None
+2026-01-26-22:01:32,Qatar,url exists,None
+2026-01-26-22:01:39,Qatar,url exists,None
+2026-01-26-22:01:50,Qatar,url exists,None
+2026-01-26-22:02:27,Qatar,no popup,Timeout 30000ms exceeded.
+2026-01-26-22:04:03,Qatar,no popup,Timeout 30000ms exceeded.
+2026-01-26-22:05:19,Qatar,url exists,None
+2026-01-26-22:06:01,Qatar,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-22:06:31,Qatar,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
