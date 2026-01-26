@@ -17,3 +17,17 @@ Call log:
 "
 2026-01-26-07:25:04,Romania,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-01-26-10:16:07,Romania,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-10:16:37,Romania,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-10:17:29,Romania,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-10:17:59,Romania,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-10:18:06,Romania,url exists,None
+2026-01-26-10:18:13,Romania,url exists,None
+2026-01-26-10:18:20,Romania,url exists,None
+2026-01-26-10:18:46,Romania,url exists,None
