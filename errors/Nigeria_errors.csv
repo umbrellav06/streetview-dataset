@@ -54,3 +54,13 @@ Call log:
 "
 2026-01-26-10:13:40,Nigeria,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-01-26-14:05:08,Nigeria,url exists,None
+2026-01-26-14:05:15,Nigeria,url exists,None
+2026-01-26-14:05:41,Nigeria,url exists,None
+2026-01-26-14:05:52,Nigeria,url exists,None
+2026-01-26-14:06:32,Nigeria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-14:07:02,Nigeria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-14:07:57,Nigeria,url exists,None
