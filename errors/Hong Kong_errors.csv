@@ -27,3 +27,9 @@ Call log:
 "
 2026-01-26-07:14:29,Hong Kong,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-01-26-10:10:13,Hong Kong,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-10:10:43,Hong Kong,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-10:13:21,Hong Kong,url exists,None
