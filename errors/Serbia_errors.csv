@@ -37,3 +37,14 @@ Call log:"
 2026-01-26-16:08:35,Serbia,url exists,None
 2026-01-26-16:08:42,Serbia,url exists,None
 2026-01-26-16:10:57,Serbia,url exists,None
+2026-01-26-19:20:38,Serbia,url exists,None
+2026-01-26-19:21:34,Serbia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-19:22:04,Serbia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-19:22:11,Serbia,url exists,None
+2026-01-26-19:22:51,Serbia,url exists,None
+2026-01-26-19:22:58,Serbia,url exists,None
+2026-01-26-19:23:06,Serbia,url exists,None
+2026-01-26-19:25:00,Serbia,url exists,None
