@@ -32,3 +32,11 @@ Call log:"
 2026-01-26-16:04:47,Malta,url exists,None
 2026-01-26-16:05:15,Malta,url exists,None
 2026-01-26-16:05:22,Malta,url exists,None
+2026-01-26-19:24:19,Malta,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-19:24:49,Malta,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-19:25:33,Malta,url exists,None
+2026-01-26-19:25:40,Malta,url exists,None
+2026-01-26-19:26:05,Malta,url exists,None
