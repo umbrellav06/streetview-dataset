@@ -15,3 +15,9 @@ Call log:
 2026-01-26-14:02:02,Canada,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
 2026-01-26-14:02:33,Canada,url exists,None
+2026-01-26-16:00:31,Canada,url exists,None
+2026-01-26-16:01:10,Canada,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-16:01:40,Canada,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
