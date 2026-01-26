@@ -34,3 +34,12 @@ Call log:
 "
 2026-01-26-19:30:35,Singapore,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-01-26-22:02:48,Singapore,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-22:03:18,Singapore,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-22:03:37,Singapore,url exists,None
+2026-01-26-22:03:44,Singapore,url exists,None
+2026-01-26-22:04:41,Singapore,url exists,None
+2026-01-26-22:05:59,Singapore,url exists,None
