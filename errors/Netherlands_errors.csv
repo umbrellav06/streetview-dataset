@@ -6,3 +6,10 @@ Call log:
 Call log:"
 2026-01-26-04:46:32,Netherlands,url exists,None
 2026-01-26-10:01:42,Netherlands,url exists,None
+2026-01-26-14:07:52,Netherlands,url exists,None
+2026-01-26-14:08:48,Netherlands,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-14:09:18,Netherlands,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-14:11:02,Netherlands,url exists,None
