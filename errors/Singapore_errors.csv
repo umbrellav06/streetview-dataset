@@ -12,3 +12,8 @@ Call log:"
 2026-01-26-10:19:25,Singapore,url exists,None
 2026-01-26-10:20:02,Singapore,url exists,None
 2026-01-26-10:21:06,Singapore,url exists,None
+2026-01-26-14:10:27,Singapore,url exists,None
+2026-01-26-14:12:35,Singapore,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-26-14:12:42,Singapore,url exists,None
+2026-01-26-14:13:10,Singapore,url exists,None
