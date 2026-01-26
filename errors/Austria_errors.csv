@@ -19,3 +19,16 @@ time,location,message,error
 2026-01-26-07:20:45,Austria,url exists,None
 2026-01-26-07:21:03,Austria,url exists,None
 2026-01-26-07:21:13,Austria,url exists,None
+2026-01-26-10:00:14,Austria,url exists,None
+2026-01-26-10:01:09,Austria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-10:01:39,Austria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-10:01:46,Austria,url exists,None
+2026-01-26-10:02:42,Austria,url exists,None
+2026-01-26-10:02:51,Austria,url exists,None
+2026-01-26-10:02:58,Austria,url exists,None
+2026-01-26-10:03:05,Austria,url exists,None
+2026-01-26-10:03:36,Austria,url exists,None
+2026-01-26-10:04:10,Austria,url exists,None
