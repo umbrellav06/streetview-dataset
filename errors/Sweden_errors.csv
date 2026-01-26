@@ -4,3 +4,9 @@ time,location,message,error
 2026-01-26-10:20:27,Sweden,url exists,None
 2026-01-26-10:21:03,Sweden,url exists,None
 2026-01-26-10:23:03,Sweden,url exists,None
+2026-01-26-14:13:25,Sweden,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-14:13:55,Sweden,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-14:14:15,Sweden,url exists,None
