@@ -8,3 +8,6 @@ time,location,message,error
 2026-01-26-10:07:06,Greece,url exists,None
 2026-01-26-10:07:14,Greece,url exists,None
 2026-01-26-10:07:59,Greece,url exists,None
+2026-01-26-14:18:50,Greece,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-26-14:18:51,Greece,world,None
