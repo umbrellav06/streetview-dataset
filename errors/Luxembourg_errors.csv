@@ -1,3 +1,13 @@
 time,location,message,error
 2026-01-21-13:59:00,Luxembourg,url exists,None
 2026-01-25-22:49:34,Luxembourg,url exists,None
+2026-01-26-04:50:22,Luxembourg,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-04:50:52,Luxembourg,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-04:51:07,Luxembourg,world,None
+2026-01-26-04:51:28,Luxembourg,url exists,None
+2026-01-26-04:51:59,Luxembourg,url exists,None
+2026-01-26-04:53:08,Luxembourg,url exists,None
+2026-01-26-04:53:48,Luxembourg,url exists,None
