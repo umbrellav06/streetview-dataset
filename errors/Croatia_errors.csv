@@ -1,3 +1,13 @@
 time,location,message,error
 2026-01-21-12:26:47,Croatia,world,None
 2026-01-25-22:42:42,Croatia,no popup,Timeout 30000ms exceeded.
+2026-01-26-04:51:42,Croatia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-04:52:12,Croatia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-04:53:47,Croatia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-04:54:17,Croatia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
