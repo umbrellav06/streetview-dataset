@@ -31,3 +31,18 @@ Call log:"
 2026-01-26-10:18:13,Romania,url exists,None
 2026-01-26-10:18:20,Romania,url exists,None
 2026-01-26-10:18:46,Romania,url exists,None
+2026-01-26-14:16:03,Romania,url exists,None
+2026-01-26-14:16:42,Romania,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-14:17:12,Romania,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-14:17:33,Romania,url exists,None
+2026-01-26-14:18:13,Romania,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-14:18:43,Romania,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-14:19:24,Romania,url exists,None
+2026-01-26-14:19:37,Romania,url exists,None
+2026-01-26-14:20:23,Romania,url exists,None
