@@ -98,3 +98,20 @@ Call log:"
 2026-01-26-16:16:06,Tunisia,url exists,None
 2026-01-26-16:16:13,Tunisia,url exists,None
 2026-01-26-16:16:30,Tunisia,url exists,None
+2026-01-26-19:19:00,Tunisia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-19:19:30,Tunisia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-19:19:37,Tunisia,url exists,None
+2026-01-26-19:19:43,Tunisia,url exists,None
+2026-01-26-19:20:06,Tunisia,url exists,None
+2026-01-26-19:20:13,Tunisia,url exists,None
+2026-01-26-19:20:20,Tunisia,url exists,None
+2026-01-26-19:20:30,Tunisia,url exists,None
+2026-01-26-19:20:59,Tunisia,url exists,None
+2026-01-26-19:21:07,Tunisia,url exists,None
+2026-01-26-19:21:18,Tunisia,url exists,None
+2026-01-26-19:21:25,Tunisia,url exists,None
+2026-01-26-19:21:39,Tunisia,url exists,None
+2026-01-26-19:22:04,Tunisia,url exists,None
