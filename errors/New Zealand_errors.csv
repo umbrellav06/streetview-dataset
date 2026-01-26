@@ -31,3 +31,11 @@ Call log:"
 2026-01-26-19:16:14,New Zealand,url exists,None
 2026-01-26-19:17:26,New Zealand,url exists,None
 2026-01-26-19:18:08,New Zealand,url exists,None
+2026-01-26-21:50:10,New Zealand,url exists,None
+2026-01-26-21:50:32,New Zealand,url exists,None
+2026-01-26-21:50:40,New Zealand,url exists,None
+2026-01-26-21:51:01,New Zealand,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-26-21:51:19,New Zealand,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-26-21:52:21,New Zealand,url exists,None
