@@ -35,3 +35,15 @@ Call log:"
 2026-01-26-16:14:21,Hungary,url exists,None
 2026-01-26-16:15:42,Hungary,url exists,None
 2026-01-26-16:15:50,Hungary,url exists,None
+2026-01-26-19:11:55,Hungary,url exists,None
+2026-01-26-19:12:48,Hungary,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-19:13:18,Hungary,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-19:13:53,Hungary,url exists,None
+2026-01-26-19:14:00,Hungary,url exists,None
+2026-01-26-19:14:45,Hungary,url exists,None
+2026-01-26-19:14:53,Hungary,url exists,None
+2026-01-26-19:15:04,Hungary,url exists,None
+2026-01-26-19:15:40,Hungary,url exists,None
