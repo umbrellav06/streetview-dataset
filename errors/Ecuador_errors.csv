@@ -23,3 +23,20 @@ Call log:"
 2026-01-26-10:17:51,Ecuador,url exists,None
 2026-01-26-10:18:28,Ecuador,no popup,Timeout 30000ms exceeded.
 2026-01-26-10:19:05,Ecuador,no popup,Timeout 30000ms exceeded.
+2026-01-26-14:14:30,Ecuador,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-14:15:00,Ecuador,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-14:15:19,Ecuador,url exists,None
+2026-01-26-14:15:26,Ecuador,url exists,None
+2026-01-26-14:15:49,Ecuador,url exists,None
+2026-01-26-14:15:56,Ecuador,url exists,None
+2026-01-26-14:16:06,Ecuador,url exists,None
+2026-01-26-14:17:05,Ecuador,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-14:17:35,Ecuador,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-14:18:04,Ecuador,url exists,None
+2026-01-26-14:18:11,Ecuador,url exists,None
