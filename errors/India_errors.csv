@@ -33,3 +33,10 @@ Call log:
 "
 2026-01-26-10:07:43,India,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-01-26-14:07:21,India,url exists,None
+2026-01-26-14:08:44,India,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-14:09:14,India,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-14:09:35,India,url exists,None
