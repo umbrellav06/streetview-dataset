@@ -8,3 +8,10 @@ Call log:"
 2026-01-25-22:43:21,Indonesia,url exists,None
 2026-01-26-04:44:31,Indonesia,url exists,None
 2026-01-26-04:45:45,Indonesia,url exists,None
+2026-01-26-07:09:00,Indonesia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-07:09:30,Indonesia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-07:10:31,Indonesia,url exists,None
+2026-01-26-07:10:38,Indonesia,url exists,None
