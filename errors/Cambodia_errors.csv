@@ -32,3 +32,18 @@ Call log:"
 2026-01-26-10:12:11,Cambodia,url exists,None
 2026-01-26-10:13:59,Cambodia,url exists,None
 2026-01-26-10:14:11,Cambodia,url exists,None
+2026-01-26-14:07:25,Cambodia,url exists,None
+2026-01-26-14:07:32,Cambodia,url exists,None
+2026-01-26-14:08:11,Cambodia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-14:08:41,Cambodia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-14:09:07,Cambodia,url exists,None
+2026-01-26-14:09:34,Cambodia,url exists,None
+2026-01-26-14:09:44,Cambodia,url exists,None
+2026-01-26-14:10:08,Cambodia,url exists,None
+2026-01-26-14:10:21,Cambodia,url exists,None
+2026-01-26-14:10:34,Cambodia,url exists,None
+2026-01-26-14:10:47,Cambodia,url exists,None
+2026-01-26-14:12:09,Cambodia,url exists,None
