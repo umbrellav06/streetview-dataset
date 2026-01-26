@@ -32,3 +32,28 @@ Call log:"
 2026-01-26-10:03:05,Austria,url exists,None
 2026-01-26-10:03:36,Austria,url exists,None
 2026-01-26-10:04:10,Austria,url exists,None
+2026-01-26-13:58:59,Austria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-13:59:29,Austria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-13:59:48,Austria,url exists,None
+2026-01-26-13:59:55,Austria,url exists,None
+2026-01-26-14:00:35,Austria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-14:01:05,Austria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-14:01:12,Austria,url exists,None
+2026-01-26-14:01:52,Austria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-14:02:22,Austria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-14:02:31,Austria,url exists,None
+2026-01-26-14:02:40,Austria,url exists,None
+2026-01-26-14:02:50,Austria,url exists,None
+2026-01-26-14:03:31,Austria,url exists,None
+2026-01-26-14:03:38,Austria,url exists,None
+2026-01-26-14:03:45,Austria,url exists,None
+2026-01-26-14:04:00,Austria,url exists,None
