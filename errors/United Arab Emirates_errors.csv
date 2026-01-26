@@ -25,3 +25,17 @@ time,location,message,error
 2026-01-26-10:12:07,United Arab Emirates,no popup,Timeout 30000ms exceeded.
 2026-01-26-10:12:44,United Arab Emirates,no popup,Timeout 30000ms exceeded.
 2026-01-26-10:13:28,United Arab Emirates,url exists,None
+2026-01-26-14:09:05,United Arab Emirates,url exists,None
+2026-01-26-14:09:12,United Arab Emirates,url exists,None
+2026-01-26-14:09:37,United Arab Emirates,url exists,None
+2026-01-26-14:10:52,United Arab Emirates,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-14:11:22,United Arab Emirates,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-14:11:52,United Arab Emirates,url exists,None
+2026-01-26-14:11:59,United Arab Emirates,url exists,None
+2026-01-26-14:12:06,United Arab Emirates,url exists,None
+2026-01-26-14:12:38,United Arab Emirates,url exists,None
+2026-01-26-14:12:45,United Arab Emirates,url exists,None
+2026-01-26-14:12:58,United Arab Emirates,url exists,None
