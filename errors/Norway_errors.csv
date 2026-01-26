@@ -36,3 +36,15 @@ Call log:"
 2026-01-26-19:23:23,Norway,url exists,None
 2026-01-26-19:24:15,Norway,url exists,None
 2026-01-26-19:24:49,Norway,url exists,None
+2026-01-26-22:05:28,Norway,url exists,None
+2026-01-26-22:06:22,Norway,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-22:06:52,Norway,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-22:06:59,Norway,url exists,None
+2026-01-26-22:07:17,Norway,world,None
+2026-01-26-22:07:18,Norway,world,None
+2026-01-26-22:07:26,Norway,url exists,None
+2026-01-26-22:07:51,Norway,url exists,None
+2026-01-26-22:08:18,Norway,url exists,None
