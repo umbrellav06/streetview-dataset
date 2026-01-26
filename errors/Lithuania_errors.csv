@@ -22,3 +22,16 @@ Call log:"
 2026-01-26-10:06:57,Lithuania,world,None
 2026-01-26-10:07:11,Lithuania,world,None
 2026-01-26-10:07:12,Lithuania,world,None
+2026-01-26-14:03:28,Lithuania,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-14:03:58,Lithuania,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-14:04:43,Lithuania,url exists,None
+2026-01-26-14:05:32,Lithuania,url exists,None
+2026-01-26-14:05:39,Lithuania,url exists,None
+2026-01-26-14:07:23,Lithuania,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-14:07:53,Lithuania,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
