@@ -32,3 +32,12 @@ Call log:"
 2026-01-26-19:18:15,Uganda,url exists,None
 2026-01-26-19:19:02,Uganda,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
 Call lo"
+2026-01-26-22:01:19,Uganda,url exists,None
+2026-01-26-22:01:41,Uganda,url exists,None
+2026-01-26-22:02:52,Uganda,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-22:03:22,Uganda,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-22:03:29,Uganda,url exists,None
+2026-01-26-22:05:33,Uganda,url exists,None
