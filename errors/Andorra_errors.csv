@@ -77,3 +77,23 @@ time,location,message,error
 2026-01-26-16:08:45,Andorra,url exists,None
 2026-01-26-16:09:00,Andorra,url exists,None
 2026-01-26-16:09:17,Andorra,url exists,None
+2026-01-26-19:22:06,Andorra,url exists,None
+2026-01-26-19:22:13,Andorra,url exists,None
+2026-01-26-19:22:21,Andorra,url exists,None
+2026-01-26-19:22:30,Andorra,url exists,None
+2026-01-26-19:23:10,Andorra,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-19:23:40,Andorra,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-19:23:50,Andorra,url exists,None
+2026-01-26-19:24:27,Andorra,no popup,Timeout 30000ms exceeded.
+2026-01-26-19:24:37,Andorra,url exists,None
+2026-01-26-19:24:50,Andorra,url exists,None
+2026-01-26-19:24:57,Andorra,url exists,None
+2026-01-26-19:25:09,Andorra,url exists,None
+2026-01-26-19:25:16,Andorra,url exists,None
+2026-01-26-19:25:32,Andorra,url exists,None
+2026-01-26-19:25:49,Andorra,url exists,None
+2026-01-26-19:26:07,Andorra,url exists,None
+2026-01-26-19:26:08,Andorra,no images,None
