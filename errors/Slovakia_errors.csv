@@ -17,3 +17,12 @@ Call log:"
 2026-01-26-10:12:16,Slovakia,world,None
 2026-01-26-10:13:40,Slovakia,url exists,None
 2026-01-26-10:14:16,Slovakia,url exists,None
+2026-01-26-14:11:55,Slovakia,url exists,None
+2026-01-26-14:12:15,Slovakia,url exists,None
+2026-01-26-14:13:29,Slovakia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-14:13:59,Slovakia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-14:14:23,Slovakia,url exists,None
+2026-01-26-14:14:31,Slovakia,url exists,None
