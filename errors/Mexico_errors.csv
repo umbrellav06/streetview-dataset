@@ -11,3 +11,21 @@ Call log:"
 2026-01-26-10:05:20,Mexico,url exists,None
 2026-01-26-10:06:15,Mexico,url exists,None
 2026-01-26-10:07:12,Mexico,world,None
+2026-01-26-14:15:00,Mexico,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-14:15:30,Mexico,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-14:16:03,Mexico,url exists,None
+2026-01-26-14:16:25,Mexico,url exists,None
+2026-01-26-14:16:33,Mexico,url exists,None
+2026-01-26-14:17:52,Mexico,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-14:18:22,Mexico,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-14:19:20,Mexico,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-14:19:50,Mexico,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
