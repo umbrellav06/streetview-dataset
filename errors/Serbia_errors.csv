@@ -17,3 +17,20 @@ Call log:"
 2026-01-26-10:20:53,Serbia,url exists,None
 2026-01-26-10:21:23,Serbia,url exists,None
 2026-01-26-10:21:55,Serbia,url exists,None
+2026-01-26-13:58:16,Serbia,url exists,None
+2026-01-26-13:59:22,Serbia,url exists,None
+2026-01-26-14:01:21,Serbia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-14:01:51,Serbia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-14:03:04,Serbia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-14:03:34,Serbia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-14:04:29,Serbia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-14:04:59,Serbia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
