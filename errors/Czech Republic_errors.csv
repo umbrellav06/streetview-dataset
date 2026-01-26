@@ -6,3 +6,9 @@ time,location,message,error
 2026-01-26-04:37:08,Czech Republic,world,None
 2026-01-26-04:37:53,Czech Republic,url exists,None
 2026-01-26-04:39:59,Czech Republic,url exists,None
+2026-01-26-07:13:35,Czech Republic,url exists,None
+2026-01-26-07:15:21,Czech Republic,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-07:15:51,Czech Republic,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
