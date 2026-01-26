@@ -32,3 +32,14 @@ Call log:"
 2026-01-26-16:00:02,Estonia,url exists,None
 2026-01-26-16:00:09,Estonia,url exists,None
 2026-01-26-16:00:19,Estonia,url exists,None
+2026-01-26-19:06:12,Estonia,url exists,None
+2026-01-26-19:07:22,Estonia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-19:07:52,Estonia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-19:07:59,Estonia,url exists,None
+2026-01-26-19:08:24,Estonia,url exists,None
+2026-01-26-19:09:28,Estonia,url exists,None
+2026-01-26-19:09:59,Estonia,url exists,None
+2026-01-26-19:10:10,Estonia,url exists,None
