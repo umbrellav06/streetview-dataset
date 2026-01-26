@@ -65,3 +65,17 @@ Call log:
 Call log:"
 2026-01-26-19:23:20,Laos,url exists,None
 2026-01-26-19:23:34,Laos,url exists,None
+2026-01-26-21:58:38,Laos,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-21:59:08,Laos,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-26-21:59:15,Laos,url exists,None
+2026-01-26-21:59:49,Laos,url exists,None
+2026-01-26-22:00:11,Laos,url exists,None
+2026-01-26-22:00:19,Laos,url exists,None
+2026-01-26-22:00:26,Laos,url exists,None
+2026-01-26-22:00:55,Laos,url exists,None
+2026-01-26-22:01:02,Laos,url exists,None
+2026-01-26-22:01:14,Laos,url exists,None
+2026-01-26-22:01:44,Laos,url exists,None
