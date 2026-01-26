@@ -1,3 +1,9 @@
 time,location,message,error
 2026-01-21-17:14:24,Thailand,world,None
 2026-01-25-23:01:32,Thailand,url exists,None
+2026-01-26-05:01:04,Thailand,world,None
+2026-01-26-05:02:28,Thailand,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-26-05:02:58,Thailand,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
