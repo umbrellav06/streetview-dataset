@@ -77,3 +77,17 @@ Call log:"
 2026-01-27-07:07:46,Estonia,url exists,None
 2026-01-27-07:09:29,Estonia,url exists,None
 2026-01-27-07:09:36,Estonia,url exists,None
+2026-01-27-10:03:34,Estonia,url exists,None
+2026-01-27-10:03:41,Estonia,url exists,None
+2026-01-27-10:04:05,Estonia,url exists,None
+2026-01-27-10:04:30,Estonia,url exists,None
+2026-01-27-10:05:10,Estonia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-10:05:40,Estonia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-10:05:49,Estonia,url exists,None
+2026-01-27-10:06:00,Estonia,url exists,None
+2026-01-27-10:06:26,Estonia,url exists,None
+2026-01-27-10:06:38,Estonia,url exists,None
+2026-01-27-10:07:12,Estonia,url exists,None
