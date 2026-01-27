@@ -108,3 +108,17 @@ Call log:
 "
 2026-01-27-14:05:10,Uruguay,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-01-27-16:11:05,Uruguay,url exists,None
+2026-01-27-16:11:12,Uruguay,url exists,None
+2026-01-27-16:11:20,Uruguay,url exists,None
+2026-01-27-16:11:57,Uruguay,no popup,Timeout 30000ms exceeded.
+2026-01-27-16:12:33,Uruguay,url exists,None
+2026-01-27-16:12:43,Uruguay,url exists,None
+2026-01-27-16:12:50,Uruguay,url exists,None
+2026-01-27-16:13:00,Uruguay,url exists,None
+2026-01-27-16:13:13,Uruguay,url exists,None
+2026-01-27-16:13:44,Uruguay,url exists,None
+2026-01-27-16:14:00,Uruguay,url exists,None
+2026-01-27-16:14:07,Uruguay,url exists,None
+2026-01-27-16:14:14,Uruguay,url exists,None
+2026-01-27-16:14:21,Uruguay,url exists,None
