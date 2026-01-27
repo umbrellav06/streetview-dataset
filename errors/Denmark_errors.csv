@@ -114,3 +114,18 @@ Call log:
 Call log:"
 2026-01-27-16:01:48,Denmark,url exists,None
 2026-01-27-16:01:59,Denmark,url exists,None
+2026-01-27-19:22:25,Denmark,url exists,None
+2026-01-27-19:22:46,Denmark,url exists,None
+2026-01-27-19:22:53,Denmark,url exists,None
+2026-01-27-19:23:17,Denmark,url exists,None
+2026-01-27-19:24:14,Denmark,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-19:24:44,Denmark,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-19:24:52,Denmark,url exists,None
+2026-01-27-19:24:59,Denmark,url exists,None
+2026-01-27-19:25:10,Denmark,url exists,None
+2026-01-27-19:25:17,Denmark,url exists,None
+2026-01-27-19:25:24,Denmark,url exists,None
+2026-01-27-19:25:31,Denmark,url exists,None
