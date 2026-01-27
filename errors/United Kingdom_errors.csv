@@ -24,3 +24,10 @@ Call log:
 2026-01-27-04:36:25,United Kingdom,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
 2026-01-27-04:37:00,United Kingdom,url exists,None
+2026-01-27-07:23:27,United Kingdom,url exists,None
+2026-01-27-07:25:04,United Kingdom,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-07:25:34,United Kingdom,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-07:26:10,United Kingdom,url exists,None
