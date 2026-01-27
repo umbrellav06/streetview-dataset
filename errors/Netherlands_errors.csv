@@ -71,3 +71,13 @@ Call log:"
 2026-01-27-14:20:18,Netherlands,url exists,None
 2026-01-27-14:20:26,Netherlands,url exists,None
 2026-01-27-14:20:35,Netherlands,url exists,None
+2026-01-27-16:08:59,Netherlands,url exists,None
+2026-01-27-16:10:19,Netherlands,url exists,None
+2026-01-27-16:10:26,Netherlands,url exists,None
+2026-01-27-16:11:06,Netherlands,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-16:11:36,Netherlands,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-16:11:43,Netherlands,url exists,None
+2026-01-27-16:12:31,Netherlands,url exists,None
