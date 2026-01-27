@@ -63,3 +63,20 @@ Call log:"
 2026-01-27-14:07:48,Spain,url exists,None
 2026-01-27-14:09:21,Spain,url exists,None
 2026-01-27-15:59:04,Spain,url exists,None
+2026-01-27-19:37:39,Spain,url exists,None
+2026-01-27-19:38:33,Spain,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-19:39:03,Spain,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-19:40:11,Spain,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-19:40:41,Spain,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-19:41:35,Spain,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-19:42:05,Spain,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-19:42:12,Spain,url exists,None
