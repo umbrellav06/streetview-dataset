@@ -40,3 +40,14 @@ Call log:
 Call log:"
 2026-01-26-22:07:29,Philippines,url exists,None
 2026-01-26-22:07:39,Philippines,url exists,None
+2026-01-27-04:29:23,Philippines,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-04:29:53,Philippines,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-04:31:47,Philippines,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-04:32:17,Philippines,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-04:32:48,Philippines,url exists,None
