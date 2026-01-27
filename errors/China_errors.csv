@@ -104,3 +104,13 @@ Call log:
 "
 2026-01-27-19:22:02,China,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-01-27-21:46:18,China,url exists,None
+2026-01-27-21:46:53,China,url exists,None
+2026-01-27-21:47:01,China,url exists,None
+2026-01-27-21:47:10,China,url exists,None
+2026-01-27-21:47:20,China,url exists,None
+2026-01-27-21:47:57,China,no popup,Timeout 30000ms exceeded.
+2026-01-27-21:48:33,China,url exists,None
+2026-01-27-21:48:46,China,url exists,None
+2026-01-27-21:48:59,China,url exists,None
+2026-01-27-21:49:06,China,url exists,None
