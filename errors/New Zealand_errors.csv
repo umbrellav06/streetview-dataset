@@ -82,3 +82,22 @@ Call log:"
 2026-01-27-16:04:00,New Zealand,url exists,None
 2026-01-27-16:04:48,New Zealand,url exists,None
 2026-01-27-16:05:20,New Zealand,url exists,None
+2026-01-27-19:28:22,New Zealand,url exists,None
+2026-01-27-19:28:29,New Zealand,url exists,None
+2026-01-27-19:28:38,New Zealand,url exists,None
+2026-01-27-19:28:47,New Zealand,url exists,None
+2026-01-27-19:29:28,New Zealand,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-19:29:58,New Zealand,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-19:30:37,New Zealand,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-19:31:07,New Zealand,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-19:31:17,New Zealand,url exists,None
+2026-01-27-19:31:28,New Zealand,url exists,None
+2026-01-27-19:31:39,New Zealand,url exists,None
+2026-01-27-19:32:19,New Zealand,url exists,None
+2026-01-27-19:33:01,New Zealand,url exists,None
