@@ -36,3 +36,14 @@ Call log:
 2026-01-26-21:57:37,Japan,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
 2026-01-26-21:58:22,Japan,url exists,None
+2026-01-27-04:15:28,Japan,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-04:15:58,Japan,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-04:16:43,Japan,url exists,None
+2026-01-27-04:18:05,Japan,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-04:18:35,Japan,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
