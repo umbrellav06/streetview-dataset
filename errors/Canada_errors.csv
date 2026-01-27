@@ -59,3 +59,10 @@ Call log:"
 2026-01-27-16:07:46,Canada,url exists,None
 2026-01-27-16:08:12,Canada,url exists,None
 2026-01-27-16:08:38,Canada,url exists,None
+2026-01-27-19:22:51,Canada,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-19:23:21,Canada,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-19:23:54,Canada,url exists,None
+2026-01-27-19:25:17,Canada,url exists,None
