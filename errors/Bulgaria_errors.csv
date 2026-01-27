@@ -123,3 +123,14 @@ Call log:
 2026-01-27-19:31:09,Bulgaria,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
 2026-01-27-19:31:41,Bulgaria,url exists,None
+2026-01-27-21:40:19,Bulgaria,url exists,None
+2026-01-27-21:40:26,Bulgaria,url exists,None
+2026-01-27-21:41:23,Bulgaria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-21:41:53,Bulgaria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-21:42:12,Bulgaria,world,None
+2026-01-27-21:42:20,Bulgaria,url exists,None
+2026-01-27-21:44:01,Bulgaria,url exists,None
+2026-01-27-21:44:11,Bulgaria,url exists,None
