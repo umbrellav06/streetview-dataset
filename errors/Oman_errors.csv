@@ -89,3 +89,14 @@ Call log:
 "
 2026-01-27-16:07:50,Oman,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-01-27-19:23:38,Oman,url exists,None
+2026-01-27-19:24:16,Oman,url exists,None
+2026-01-27-19:24:24,Oman,url exists,None
+2026-01-27-19:25:21,Oman,url exists,None
+2026-01-27-19:25:51,Oman,url exists,None
+2026-01-27-19:27:14,Oman,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-19:27:44,Oman,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-19:28:15,Oman,url exists,None
