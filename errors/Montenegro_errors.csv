@@ -153,3 +153,27 @@ Call log:"
 2026-01-27-10:12:44,Montenegro,url exists,None
 2026-01-27-10:12:51,Montenegro,url exists,None
 2026-01-27-10:12:51,Montenegro,no images,None
+2026-01-27-14:11:55,Montenegro,url exists,None
+2026-01-27-14:12:02,Montenegro,url exists,None
+2026-01-27-14:12:09,Montenegro,url exists,None
+2026-01-27-14:12:49,Montenegro,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-14:13:19,Montenegro,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-14:13:20,Montenegro,world,None
+2026-01-27-14:13:29,Montenegro,url exists,None
+2026-01-27-14:13:38,Montenegro,url exists,None
+2026-01-27-14:13:40,Montenegro,world,None
+2026-01-27-14:13:49,Montenegro,url exists,None
+2026-01-27-14:13:59,Montenegro,url exists,None
+2026-01-27-14:14:12,Montenegro,url exists,None
+2026-01-27-14:14:23,Montenegro,url exists,None
+2026-01-27-14:14:41,Montenegro,url exists,None
+2026-01-27-14:14:43,Montenegro,world,None
+2026-01-27-14:15:25,Montenegro,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-14:15:55,Montenegro,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-14:15:55,Montenegro,no images,None
