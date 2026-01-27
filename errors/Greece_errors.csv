@@ -33,3 +33,12 @@ Call log:"
 2026-01-26-21:53:16,Greece,url exists,None
 2026-01-26-21:53:26,Greece,url exists,None
 2026-01-26-21:54:05,Greece,url exists,None
+2026-01-27-04:24:57,Greece,url exists,None
+2026-01-27-04:25:37,Greece,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-04:26:07,Greece,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-04:26:14,Greece,url exists,None
+2026-01-27-04:26:37,Greece,url exists,None
+2026-01-27-04:28:17,Greece,url exists,None
