@@ -102,3 +102,15 @@ Call log:
 2026-01-27-14:06:36,Denmark,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
 2026-01-27-14:06:50,Denmark,url exists,None
+2026-01-27-15:58:45,Denmark,url exists,None
+2026-01-27-15:58:52,Denmark,url exists,None
+2026-01-27-15:59:16,Denmark,url exists,None
+2026-01-27-16:00:01,Denmark,url exists,None
+2026-01-27-16:00:08,Denmark,url exists,None
+2026-01-27-16:00:48,Denmark,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-16:01:18,Denmark,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-16:01:48,Denmark,url exists,None
+2026-01-27-16:01:59,Denmark,url exists,None
