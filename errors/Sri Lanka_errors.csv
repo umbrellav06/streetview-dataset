@@ -137,3 +137,20 @@ Call log:
 Call log:"
 2026-01-27-14:14:00,Sri Lanka,url exists,None
 2026-01-27-14:14:14,Sri Lanka,url exists,None
+2026-01-27-16:11:47,Sri Lanka,url exists,None
+2026-01-27-16:11:54,Sri Lanka,url exists,None
+2026-01-27-16:12:01,Sri Lanka,url exists,None
+2026-01-27-16:12:25,Sri Lanka,url exists,None
+2026-01-27-16:13:05,Sri Lanka,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-16:13:35,Sri Lanka,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-16:14:01,Sri Lanka,url exists,None
+2026-01-27-16:14:11,Sri Lanka,url exists,None
+2026-01-27-16:14:22,Sri Lanka,url exists,None
+2026-01-27-16:14:29,Sri Lanka,url exists,None
+2026-01-27-16:14:41,Sri Lanka,url exists,None
+2026-01-27-16:14:48,Sri Lanka,url exists,None
+2026-01-27-16:14:55,Sri Lanka,url exists,None
+2026-01-27-16:15:33,Sri Lanka,no popup,Timeout 30000ms exceeded.
