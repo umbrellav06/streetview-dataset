@@ -63,3 +63,12 @@ Call log:"
 2026-01-27-19:20:09,France,url exists,None
 2026-01-27-19:22:28,France,url exists,None
 2026-01-27-19:22:36,France,url exists,None
+2026-01-27-21:45:43,France,url exists,None
+2026-01-27-21:46:35,France,url exists,None
+2026-01-27-21:46:42,France,url exists,None
+2026-01-27-21:46:51,France,url exists,None
+2026-01-27-21:47:31,France,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-21:48:01,France,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
