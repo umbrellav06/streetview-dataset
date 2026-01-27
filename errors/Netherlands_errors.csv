@@ -86,3 +86,15 @@ Call log:"
 2026-01-27-19:40:12,Netherlands,url exists,None
 2026-01-27-19:40:21,Netherlands,url exists,None
 2026-01-27-19:41:13,Netherlands,url exists,None
+2026-01-27-21:45:41,Netherlands,url exists,None
+2026-01-27-21:47:15,Netherlands,url exists,None
+2026-01-27-21:47:22,Netherlands,url exists,None
+2026-01-27-21:48:03,Netherlands,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-21:48:33,Netherlands,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-21:48:40,Netherlands,url exists,None
+2026-01-27-21:48:47,Netherlands,url exists,None
+2026-01-27-21:49:47,Netherlands,no popup,Timeout 30000ms exceeded.
+2026-01-27-21:49:58,Netherlands,url exists,None
