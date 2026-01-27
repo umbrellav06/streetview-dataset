@@ -41,3 +41,17 @@ Call log:"
 2026-01-27-04:21:55,Spain,url exists,None
 2026-01-27-04:23:04,Spain,url exists,None
 2026-01-27-04:23:14,Spain,url exists,None
+2026-01-27-07:22:09,Spain,url exists,None
+2026-01-27-07:23:03,Spain,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-07:23:33,Spain,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-07:23:40,Spain,url exists,None
+2026-01-27-07:24:20,Spain,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-07:24:50,Spain,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-07:25:15,Spain,url exists,None
+2026-01-27-07:26:41,Spain,url exists,None
