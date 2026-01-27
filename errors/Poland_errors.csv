@@ -53,3 +53,11 @@ Call log:
 "
 2026-01-27-16:03:18,Poland,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-01-27-19:34:20,Poland,url exists,None
+2026-01-27-19:35:11,Poland,no popup,Timeout 30000ms exceeded.
+2026-01-27-19:35:18,Poland,url exists,None
+2026-01-27-19:36:33,Poland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-19:37:03,Poland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
