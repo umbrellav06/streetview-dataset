@@ -90,3 +90,11 @@ Call log:"
 2026-01-27-16:14:01,Portugal,url exists,None
 2026-01-27-16:14:26,Portugal,url exists,None
 2026-01-27-16:14:33,Portugal,url exists,None
+2026-01-27-19:34:34,Portugal,url exists,None
+2026-01-27-19:35:13,Portugal,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-19:35:43,Portugal,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-19:35:50,Portugal,url exists,None
+2026-01-27-19:37:50,Portugal,url exists,None
