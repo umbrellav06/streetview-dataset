@@ -105,3 +105,18 @@ Call log:"
 2026-01-27-14:07:35,Ireland,url exists,None
 2026-01-27-14:08:48,Ireland,no popup,Timeout 30000ms exceeded.
 2026-01-27-14:09:04,Ireland,url exists,None
+2026-01-27-15:54:42,Ireland,url exists,None
+2026-01-27-15:54:49,Ireland,url exists,None
+2026-01-27-15:54:56,Ireland,url exists,None
+2026-01-27-15:55:04,Ireland,url exists,None
+2026-01-27-15:55:44,Ireland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-15:56:14,Ireland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-15:56:43,Ireland,url exists,None
+2026-01-27-15:56:50,Ireland,url exists,None
+2026-01-27-15:57:52,Ireland,no popup,Timeout 30000ms exceeded.
+2026-01-27-15:58:29,Ireland,no popup,Timeout 30000ms exceeded.
+2026-01-27-15:59:25,Ireland,url exists,None
+2026-01-27-15:59:32,Ireland,url exists,None
