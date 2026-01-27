@@ -71,3 +71,14 @@ Call log:
 "
 2026-01-27-14:24:17,New Zealand,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-01-27-16:00:45,New Zealand,url exists,None
+2026-01-27-16:00:52,New Zealand,url exists,None
+2026-01-27-16:01:45,New Zealand,url exists,None
+2026-01-27-16:03:03,New Zealand,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-16:03:33,New Zealand,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-16:04:00,New Zealand,url exists,None
+2026-01-27-16:04:48,New Zealand,url exists,None
+2026-01-27-16:05:20,New Zealand,url exists,None
