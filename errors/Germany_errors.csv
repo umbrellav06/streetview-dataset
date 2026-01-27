@@ -62,3 +62,11 @@ Call log:
 2026-01-27-19:33:39,Germany,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
 2026-01-27-19:34:12,Germany,url exists,None
+2026-01-27-21:40:32,Germany,url exists,None
+2026-01-27-21:40:39,Germany,url exists,None
+2026-01-27-21:41:02,Germany,url exists,None
+2026-01-27-21:41:27,Germany,url exists,None
+2026-01-27-21:41:34,Germany,url exists,None
+2026-01-27-21:41:44,Germany,url exists,None
+2026-01-27-21:41:52,Germany,url exists,None
+2026-01-27-21:42:29,Germany,no popup,Timeout 30000ms exceeded.
