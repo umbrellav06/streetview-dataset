@@ -50,3 +50,11 @@ Call log:"
 2026-01-27-04:22:37,Croatia,url exists,None
 2026-01-27-04:23:06,Croatia,url exists,None
 2026-01-27-07:15:47,Croatia,world,None
+2026-01-27-10:10:28,Croatia,url exists,None
+2026-01-27-10:10:35,Croatia,url exists,None
+2026-01-27-10:11:35,Croatia,url exists,None
+2026-01-27-10:13:20,Croatia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-10:13:50,Croatia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
