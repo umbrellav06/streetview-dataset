@@ -50,3 +50,18 @@ Call log:"
 2026-01-26-21:56:36,Ireland,url exists,None
 2026-01-26-21:57:23,Ireland,url exists,None
 2026-01-26-21:57:30,Ireland,url exists,None
+2026-01-27-04:18:40,Ireland,url exists,None
+2026-01-27-04:19:01,Ireland,url exists,None
+2026-01-27-04:19:08,Ireland,url exists,None
+2026-01-27-04:19:16,Ireland,url exists,None
+2026-01-27-04:19:26,Ireland,url exists,None
+2026-01-27-04:19:55,Ireland,url exists,None
+2026-01-27-04:20:56,Ireland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-04:21:26,Ireland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-04:21:33,Ireland,url exists,None
+2026-01-27-04:21:40,Ireland,url exists,None
+2026-01-27-04:22:17,Ireland,no popup,Timeout 30000ms exceeded.
+2026-01-27-04:22:55,Ireland,url exists,None
