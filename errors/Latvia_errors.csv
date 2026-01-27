@@ -86,3 +86,18 @@ time,location,message,error
 2026-01-27-10:11:18,Latvia,url exists,None
 2026-01-27-10:11:26,Latvia,url exists,None
 2026-01-27-10:11:33,Latvia,url exists,None
+2026-01-27-14:18:29,Latvia,url exists,None
+2026-01-27-14:19:37,Latvia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-14:20:07,Latvia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-14:20:14,Latvia,url exists,None
+2026-01-27-14:20:21,Latvia,url exists,None
+2026-01-27-14:20:28,Latvia,url exists,None
+2026-01-27-14:20:35,Latvia,url exists,None
+2026-01-27-14:20:43,Latvia,url exists,None
+2026-01-27-14:20:50,Latvia,url exists,None
+2026-01-27-14:21:02,Latvia,url exists,None
+2026-01-27-14:21:37,Latvia,url exists,None
+2026-01-27-14:22:08,Latvia,url exists,None
