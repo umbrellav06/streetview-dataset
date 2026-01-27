@@ -48,3 +48,7 @@ Call log:
 Call log:"
 2026-01-27-07:23:10,Australia,url exists,None
 2026-01-27-07:23:50,Australia,url exists,None
+2026-01-27-09:59:56,Australia,url exists,None
+2026-01-27-10:00:17,Australia,url exists,None
+2026-01-27-10:00:25,Australia,url exists,None
+2026-01-27-10:01:02,Australia,no popup,Timeout 30000ms exceeded.
