@@ -96,3 +96,24 @@ Call log:"
 2026-01-27-19:40:46,Taiwan,url exists,None
 2026-01-27-19:40:55,Taiwan,url exists,None
 2026-01-27-19:41:06,Taiwan,url exists,None
+2026-01-27-21:58:04,Taiwan,url exists,None
+2026-01-27-21:58:11,Taiwan,url exists,None
+2026-01-27-21:59:06,Taiwan,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-21:59:36,Taiwan,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-22:00:16,Taiwan,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-22:00:46,Taiwan,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-22:01:04,Taiwan,world,None
+2026-01-27-22:02:02,Taiwan,url exists,None
+2026-01-27-22:02:42,Taiwan,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-22:03:12,Taiwan,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-22:03:20,Taiwan,url exists,None
+2026-01-27-22:03:30,Taiwan,url exists,None
