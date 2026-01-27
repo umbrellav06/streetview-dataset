@@ -54,3 +54,19 @@ Call log:"
 2026-01-27-16:08:02,United Kingdom,url exists,None
 2026-01-27-16:08:29,United Kingdom,url exists,None
 2026-01-27-16:08:56,United Kingdom,url exists,None
+2026-01-27-19:32:46,United Kingdom,url exists,None
+2026-01-27-19:32:53,United Kingdom,url exists,None
+2026-01-27-19:33:12,United Kingdom,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-01-27-19:33:53,United Kingdom,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-19:34:23,United Kingdom,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-19:34:30,United Kingdom,url exists,None
+2026-01-27-19:35:11,United Kingdom,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-19:35:41,United Kingdom,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-19:37:23,United Kingdom,url exists,None
