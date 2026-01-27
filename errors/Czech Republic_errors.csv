@@ -126,3 +126,17 @@ Call log:"
 2026-01-27-16:01:44,Czech Republic,url exists,None
 2026-01-27-16:01:55,Czech Republic,url exists,None
 2026-01-27-16:02:08,Czech Republic,url exists,None
+2026-01-27-19:18:44,Czech Republic,url exists,None
+2026-01-27-19:18:51,Czech Republic,url exists,None
+2026-01-27-19:19:48,Czech Republic,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-27-19:20:18,Czech Republic,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-27-19:20:27,Czech Republic,url exists,None
+2026-01-27-19:20:36,Czech Republic,url exists,None
+2026-01-27-19:21:06,Czech Republic,url exists,None
+2026-01-27-19:21:15,Czech Republic,url exists,None
+2026-01-27-19:22:16,Czech Republic,url exists,None
+2026-01-27-19:22:55,Czech Republic,url exists,None
+2026-01-27-19:23:07,Czech Republic,url exists,None
