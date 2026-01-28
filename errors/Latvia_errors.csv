@@ -230,3 +230,20 @@ Call log:"
 2026-01-28-19:14:49,Latvia,url exists,None
 2026-01-28-19:14:56,Latvia,url exists,None
 2026-01-28-19:14:56,Latvia,no images,None
+2026-01-28-22:02:36,Latvia,url exists,None
+2026-01-28-22:02:43,Latvia,url exists,None
+2026-01-28-22:02:51,Latvia,url exists,None
+2026-01-28-22:02:58,Latvia,url exists,None
+2026-01-28-22:03:08,Latvia,url exists,None
+2026-01-28-22:03:15,Latvia,url exists,None
+2026-01-28-22:03:22,Latvia,url exists,None
+2026-01-28-22:03:34,Latvia,url exists,None
+2026-01-28-22:04:34,Latvia,no popup,Timeout 30000ms exceeded.
+2026-01-28-22:05:11,Latvia,no popup,Timeout 30000ms exceeded.
+2026-01-28-22:05:51,Latvia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-22:06:21,Latvia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-22:06:53,Latvia,url exists,None
+2026-01-28-22:07:00,Latvia,url exists,None
