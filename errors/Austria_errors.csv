@@ -340,3 +340,23 @@ Call log:
 "
 2026-01-28-19:27:50,Austria,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-01-28-21:57:34,Austria,url exists,None
+2026-01-28-21:58:14,Austria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-21:58:44,Austria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-21:58:51,Austria,url exists,None
+2026-01-28-21:58:58,Austria,url exists,None
+2026-01-28-21:59:05,Austria,url exists,None
+2026-01-28-21:59:15,Austria,url exists,None
+2026-01-28-21:59:25,Austria,url exists,None
+2026-01-28-21:59:37,Austria,url exists,None
+2026-01-28-21:59:44,Austria,url exists,None
+2026-01-28-21:59:51,Austria,url exists,None
+2026-01-28-21:59:58,Austria,url exists,None
+2026-01-28-22:00:13,Austria,url exists,None
+2026-01-28-22:00:20,Austria,url exists,None
+2026-01-28-22:00:31,Austria,url exists,None
+2026-01-28-22:01:08,Austria,no popup,Timeout 30000ms exceeded.
+2026-01-28-22:01:09,Austria,no images,None
