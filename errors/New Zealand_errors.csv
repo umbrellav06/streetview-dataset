@@ -168,3 +168,19 @@ Call log:"
 2026-01-28-16:14:14,New Zealand,no popup,Timeout 30000ms exceeded.
 2026-01-28-16:15:01,New Zealand,url exists,None
 2026-01-28-16:15:49,New Zealand,url exists,None
+2026-01-28-19:09:53,New Zealand,url exists,None
+2026-01-28-19:10:00,New Zealand,url exists,None
+2026-01-28-19:10:39,New Zealand,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-19:11:09,New Zealand,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-19:11:51,New Zealand,url exists,None
+2026-01-28-19:12:17,New Zealand,url exists,None
+2026-01-28-19:13:59,New Zealand,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-19:14:29,New Zealand,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-19:14:59,New Zealand,url exists,None
+2026-01-28-19:15:10,New Zealand,url exists,None
