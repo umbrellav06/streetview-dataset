@@ -147,3 +147,17 @@ Call log:
 "
 2026-01-28-07:09:48,China,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-01-28-10:00:27,China,url exists,None
+2026-01-28-10:00:37,China,url exists,None
+2026-01-28-10:00:44,China,url exists,None
+2026-01-28-10:00:51,China,url exists,None
+2026-01-28-10:00:58,China,url exists,None
+2026-01-28-10:01:05,China,url exists,None
+2026-01-28-10:01:15,China,url exists,None
+2026-01-28-10:01:23,China,url exists,None
+2026-01-28-10:01:34,China,url exists,None
+2026-01-28-10:01:47,China,url exists,None
+2026-01-28-10:01:54,China,url exists,None
+2026-01-28-10:02:08,China,url exists,None
+2026-01-28-10:03:12,China,no popup,Timeout 30000ms exceeded.
+2026-01-28-10:03:19,China,url exists,None
