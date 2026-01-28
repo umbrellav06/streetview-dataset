@@ -168,3 +168,17 @@ Call log:"
 2026-01-28-16:08:19,Netherlands,url exists,None
 2026-01-28-16:08:26,Netherlands,url exists,None
 2026-01-28-16:08:36,Netherlands,url exists,None
+2026-01-28-19:19:16,Netherlands,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-19:19:46,Netherlands,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-19:19:53,Netherlands,url exists,None
+2026-01-28-19:20:16,Netherlands,url exists,None
+2026-01-28-19:20:23,Netherlands,url exists,None
+2026-01-28-19:20:30,Netherlands,url exists,None
+2026-01-28-19:21:03,Netherlands,url exists,None
+2026-01-28-19:22:01,Netherlands,url exists,None
+2026-01-28-19:22:33,Netherlands,url exists,None
+2026-01-28-19:22:41,Netherlands,url exists,None
+2026-01-28-19:22:54,Netherlands,url exists,None
