@@ -134,3 +134,21 @@ Call log:"
 2026-01-28-07:20:26,Malaysia,url exists,None
 2026-01-28-07:20:42,Malaysia,url exists,None
 2026-01-28-07:20:57,Malaysia,url exists,None
+2026-01-28-10:04:40,Malaysia,url exists,None
+2026-01-28-10:05:19,Malaysia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-10:05:49,Malaysia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-10:05:56,Malaysia,url exists,None
+2026-01-28-10:06:04,Malaysia,url exists,None
+2026-01-28-10:06:13,Malaysia,url exists,None
+2026-01-28-10:06:43,Malaysia,url exists,None
+2026-01-28-10:07:37,Malaysia,url exists,None
+2026-01-28-10:07:47,Malaysia,url exists,None
+2026-01-28-10:07:59,Malaysia,url exists,None
+2026-01-28-10:09:40,Malaysia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-10:10:10,Malaysia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
