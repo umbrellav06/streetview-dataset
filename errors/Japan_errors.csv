@@ -119,3 +119,15 @@ Call log:
 2026-01-28-14:08:55,Japan,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
 2026-01-28-14:09:40,Japan,url exists,None
+2026-01-28-16:10:44,Japan,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-16:11:14,Japan,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-16:11:21,Japan,url exists,None
+2026-01-28-16:12:44,Japan,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-16:13:14,Japan,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-16:13:22,Japan,url exists,None
