@@ -195,3 +195,17 @@ Call log:"
 2026-01-28-16:15:27,Malta,url exists,None
 2026-01-28-16:15:43,Malta,url exists,None
 2026-01-28-16:16:20,Malta,no popup,Timeout 30000ms exceeded.
+2026-01-28-19:05:56,Malta,world,None
+2026-01-28-19:07:01,Malta,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-19:07:31,Malta,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-19:07:38,Malta,url exists,None
+2026-01-28-19:07:59,Malta,url exists,None
+2026-01-28-19:08:06,Malta,url exists,None
+2026-01-28-19:08:13,Malta,url exists,None
+2026-01-28-19:08:20,Malta,url exists,None
+2026-01-28-19:08:27,Malta,url exists,None
+2026-01-28-19:08:34,Malta,url exists,None
+2026-01-28-19:09:03,Malta,url exists,None
