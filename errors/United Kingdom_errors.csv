@@ -102,3 +102,19 @@ Call log:"
 2026-01-28-16:23:44,United Kingdom,url exists,None
 2026-01-28-16:24:44,United Kingdom,url exists,None
 2026-01-28-16:25:12,United Kingdom,url exists,None
+2026-01-28-19:22:52,United Kingdom,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-19:23:22,United Kingdom,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-19:24:28,United Kingdom,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-19:24:58,United Kingdom,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-19:25:04,United Kingdom,url exists,None
+2026-01-28-19:25:11,United Kingdom,url exists,None
+2026-01-28-19:25:35,United Kingdom,url exists,None
+2026-01-28-19:25:42,United Kingdom,url exists,None
+2026-01-28-19:26:30,United Kingdom,url exists,None
+2026-01-28-19:27:22,United Kingdom,url exists,None
