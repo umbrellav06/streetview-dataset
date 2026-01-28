@@ -155,3 +155,21 @@ Call log:
 Call log:"
 2026-01-28-16:25:23,Norway,url exists,None
 2026-01-28-16:25:54,Norway,url exists,None
+2026-01-28-19:16:36,Norway,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-19:17:06,Norway,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-19:17:38,Norway,url exists,None
+2026-01-28-19:17:59,Norway,url exists,None
+2026-01-28-19:18:07,Norway,url exists,None
+2026-01-28-19:18:15,Norway,url exists,None
+2026-01-28-19:18:24,Norway,url exists,None
+2026-01-28-19:19:28,Norway,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-19:19:58,Norway,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-19:20:08,Norway,url exists,None
+2026-01-28-19:20:20,Norway,url exists,None
+2026-01-28-19:20:32,Norway,url exists,None
