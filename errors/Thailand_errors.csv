@@ -131,3 +131,15 @@ Call log:
 "
 2026-01-28-16:25:40,Thailand,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-01-28-19:16:13,Thailand,url exists,None
+2026-01-28-19:16:20,Thailand,url exists,None
+2026-01-28-19:17:32,Thailand,url exists,None
+2026-01-28-19:17:41,Thailand,url exists,None
+2026-01-28-19:17:51,Thailand,url exists,None
+2026-01-28-19:18:02,Thailand,url exists,None
+2026-01-28-19:18:39,Thailand,no popup,Timeout 30000ms exceeded.
+2026-01-28-19:19:44,Thailand,no popup,Timeout 30000ms exceeded.
+2026-01-28-19:20:21,Thailand,no popup,Timeout 30000ms exceeded.
+2026-01-28-19:20:34,Thailand,url exists,None
+2026-01-28-19:20:50,Thailand,url exists,None
+2026-01-28-19:21:05,Thailand,url exists,None
