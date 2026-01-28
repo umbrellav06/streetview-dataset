@@ -295,3 +295,23 @@ Call log:"
 2026-01-28-19:17:36,Switzerland,url exists,None
 2026-01-28-19:17:53,Switzerland,url exists,None
 2026-01-28-19:17:53,Switzerland,no images,None
+2026-01-28-22:14:15,Switzerland,url exists,None
+2026-01-28-22:14:22,Switzerland,url exists,None
+2026-01-28-22:14:31,Switzerland,url exists,None
+2026-01-28-22:14:41,Switzerland,url exists,None
+2026-01-28-22:15:21,Switzerland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-22:15:51,Switzerland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-22:16:01,Switzerland,url exists,None
+2026-01-28-22:16:11,Switzerland,url exists,None
+2026-01-28-22:16:22,Switzerland,url exists,None
+2026-01-28-22:17:00,Switzerland,no popup,Timeout 30000ms exceeded.
+2026-01-28-22:17:12,Switzerland,url exists,None
+2026-01-28-22:17:26,Switzerland,url exists,None
+2026-01-28-22:17:40,Switzerland,url exists,None
+2026-01-28-22:17:55,Switzerland,url exists,None
+2026-01-28-22:18:06,Switzerland,url exists,None
+2026-01-28-22:18:22,Switzerland,url exists,None
+2026-01-28-22:18:23,Switzerland,no images,None
