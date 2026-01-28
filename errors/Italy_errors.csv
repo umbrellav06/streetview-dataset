@@ -151,3 +151,22 @@ Call log:
 "
 2026-01-28-19:20:56,Italy,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-01-28-22:04:10,Italy,url exists,None
+2026-01-28-22:05:04,Italy,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-22:05:34,Italy,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-22:05:41,Italy,url exists,None
+2026-01-28-22:05:49,Italy,url exists,None
+2026-01-28-22:05:58,Italy,url exists,None
+2026-01-28-22:06:07,Italy,url exists,None
+2026-01-28-22:06:19,Italy,url exists,None
+2026-01-28-22:06:29,Italy,url exists,None
+2026-01-28-22:07:38,Italy,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-22:08:08,Italy,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-22:08:21,Italy,url exists,None
+2026-01-28-22:08:34,Italy,url exists,None
