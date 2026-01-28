@@ -320,3 +320,27 @@ Call log:"
 2026-01-28-16:06:28,Albania,url exists,None
 2026-01-28-16:06:35,Albania,url exists,None
 2026-01-28-16:06:36,Albania,no images,None
+2026-01-28-19:06:07,Albania,url exists,None
+2026-01-28-19:06:15,Albania,url exists,None
+2026-01-28-19:06:23,Albania,url exists,None
+2026-01-28-19:06:31,Albania,url exists,None
+2026-01-28-19:06:41,Albania,url exists,None
+2026-01-28-19:07:50,Albania,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-19:08:20,Albania,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-19:08:27,Albania,url exists,None
+2026-01-28-19:08:38,Albania,url exists,None
+2026-01-28-19:08:45,Albania,url exists,None
+2026-01-28-19:08:52,Albania,url exists,None
+2026-01-28-19:09:35,Albania,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-19:10:05,Albania,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-19:10:19,Albania,url exists,None
+2026-01-28-19:10:33,Albania,url exists,None
+2026-01-28-19:10:48,Albania,url exists,None
+2026-01-28-19:11:25,Albania,no popup,Timeout 30000ms exceeded.
+2026-01-28-19:11:25,Albania,no images,None
