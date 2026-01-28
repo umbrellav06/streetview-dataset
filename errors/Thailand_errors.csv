@@ -112,3 +112,22 @@ Call lo"
 2026-01-28-14:22:38,Thailand,url exists,None
 2026-01-28-14:22:45,Thailand,url exists,None
 2026-01-28-14:23:19,Thailand,url exists,None
+2026-01-28-16:21:19,Thailand,url exists,None
+2026-01-28-16:21:26,Thailand,url exists,None
+2026-01-28-16:21:34,Thailand,url exists,None
+2026-01-28-16:21:42,Thailand,url exists,None
+2026-01-28-16:22:12,Thailand,url exists,None
+2026-01-28-16:22:44,Thailand,url exists,None
+2026-01-28-16:23:24,Thailand,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-16:23:54,Thailand,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-16:24:05,Thailand,url exists,None
+2026-01-28-16:24:17,Thailand,url exists,None
+2026-01-28-16:24:28,Thailand,url exists,None
+2026-01-28-16:25:10,Thailand,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-16:25:40,Thailand,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
