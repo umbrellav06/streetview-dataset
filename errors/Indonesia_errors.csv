@@ -132,3 +132,13 @@ Call log:"
 2026-01-28-14:03:20,Indonesia,url exists,None
 2026-01-28-14:04:15,Indonesia,url exists,None
 2026-01-28-14:04:27,Indonesia,url exists,None
+2026-01-28-16:05:09,Indonesia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-16:05:39,Indonesia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-16:05:58,Indonesia,url exists,None
+2026-01-28-16:06:35,Indonesia,url exists,None
+2026-01-28-16:06:42,Indonesia,url exists,None
+2026-01-28-16:06:51,Indonesia,url exists,None
+2026-01-28-16:08:00,Indonesia,url exists,None
