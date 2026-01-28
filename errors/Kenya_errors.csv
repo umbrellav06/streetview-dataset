@@ -365,3 +365,23 @@ Call log:"
 2026-01-28-16:21:59,Kenya,url exists,None
 2026-01-28-16:22:13,Kenya,url exists,None
 2026-01-28-16:22:14,Kenya,no images,None
+2026-01-28-19:17:00,Kenya,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-19:17:30,Kenya,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-19:17:38,Kenya,url exists,None
+2026-01-28-19:17:45,Kenya,url exists,None
+2026-01-28-19:17:53,Kenya,url exists,None
+2026-01-28-19:18:00,Kenya,url exists,None
+2026-01-28-19:18:09,Kenya,url exists,None
+2026-01-28-19:18:19,Kenya,url exists,None
+2026-01-28-19:18:30,Kenya,url exists,None
+2026-01-28-19:18:42,Kenya,url exists,None
+2026-01-28-19:19:19,Kenya,no popup,Timeout 30000ms exceeded.
+2026-01-28-19:19:56,Kenya,no popup,Timeout 30000ms exceeded.
+2026-01-28-19:20:08,Kenya,url exists,None
+2026-01-28-19:20:22,Kenya,url exists,None
+2026-01-28-19:20:36,Kenya,url exists,None
+2026-01-28-19:20:52,Kenya,url exists,None
+2026-01-28-19:20:52,Kenya,no images,None
