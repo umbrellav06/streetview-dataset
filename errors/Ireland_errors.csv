@@ -195,3 +195,16 @@ Call log:"
 2026-01-28-10:02:33,Ireland,url exists,None
 2026-01-28-10:02:41,Ireland,url exists,None
 2026-01-28-10:03:12,Ireland,url exists,None
+2026-01-28-14:01:47,Ireland,url exists,None
+2026-01-28-14:02:41,Ireland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-14:03:11,Ireland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-14:03:32,Ireland,url exists,None
+2026-01-28-14:03:40,Ireland,url exists,None
+2026-01-28-14:03:49,Ireland,url exists,None
+2026-01-28-14:03:59,Ireland,url exists,None
+2026-01-28-14:04:30,Ireland,url exists,None
+2026-01-28-14:04:41,Ireland,url exists,None
+2026-01-28-14:04:53,Ireland,url exists,None
