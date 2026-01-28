@@ -101,3 +101,18 @@ Call log:"
 2026-01-28-04:26:43,Indonesia,url exists,None
 2026-01-28-04:27:09,Indonesia,url exists,None
 2026-01-28-04:29:50,Indonesia,url exists,None
+2026-01-28-07:05:33,Indonesia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-07:06:03,Indonesia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-07:06:23,Indonesia,url exists,None
+2026-01-28-07:07:03,Indonesia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-07:07:33,Indonesia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-07:08:09,Indonesia,url exists,None
+2026-01-28-07:08:17,Indonesia,url exists,None
+2026-01-28-07:08:26,Indonesia,url exists,None
+2026-01-28-07:09:38,Indonesia,url exists,None
