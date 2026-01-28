@@ -104,3 +104,17 @@ Call log:"
 2026-01-28-14:03:38,Hong Kong,url exists,None
 2026-01-28-14:03:47,Hong Kong,url exists,None
 2026-01-28-14:04:33,Hong Kong,url exists,None
+2026-01-28-16:10:37,Hong Kong,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-16:11:07,Hong Kong,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-16:11:59,Hong Kong,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-16:12:29,Hong Kong,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-16:12:36,Hong Kong,url exists,None
+2026-01-28-16:13:26,Hong Kong,url exists,None
+2026-01-28-16:13:34,Hong Kong,url exists,None
+2026-01-28-16:14:38,Hong Kong,url exists,None
