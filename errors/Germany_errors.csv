@@ -80,3 +80,19 @@ Call log:"
 2026-01-28-07:05:53,Germany,url exists,None
 2026-01-28-07:06:30,Germany,url exists,None
 2026-01-28-07:06:59,Germany,url exists,None
+2026-01-28-10:05:20,Germany,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-10:05:50,Germany,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-10:07:21,Germany,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-10:07:51,Germany,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-10:07:57,Germany,url exists,None
+2026-01-28-10:08:04,Germany,url exists,None
+2026-01-28-10:08:47,Germany,url exists,None
+2026-01-28-10:08:55,Germany,url exists,None
+2026-01-28-10:09:05,Germany,url exists,None
+2026-01-28-10:09:15,Germany,url exists,None
