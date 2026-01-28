@@ -195,3 +195,21 @@ Call log:"
 2026-01-28-04:15:34,Colombia,url exists,None
 2026-01-28-04:15:48,Colombia,url exists,None
 2026-01-28-04:15:56,Colombia,url exists,None
+2026-01-28-07:10:15,Colombia,url exists,None
+2026-01-28-07:10:22,Colombia,url exists,None
+2026-01-28-07:10:29,Colombia,url exists,None
+2026-01-28-07:11:09,Colombia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-07:11:39,Colombia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-07:11:48,Colombia,url exists,None
+2026-01-28-07:11:57,Colombia,url exists,None
+2026-01-28-07:12:34,Colombia,url exists,None
+2026-01-28-07:13:09,Colombia,url exists,None
+2026-01-28-07:13:19,Colombia,url exists,None
+2026-01-28-07:13:32,Colombia,url exists,None
+2026-01-28-07:13:46,Colombia,url exists,None
+2026-01-28-07:14:23,Colombia,no popup,Timeout 30000ms exceeded.
+2026-01-28-07:14:38,Colombia,url exists,None
+2026-01-28-07:14:53,Colombia,url exists,None
