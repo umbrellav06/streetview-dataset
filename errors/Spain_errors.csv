@@ -99,3 +99,14 @@ Call log:"
 2026-01-28-14:16:43,Spain,url exists,None
 2026-01-28-14:17:48,Spain,url exists,None
 2026-01-28-14:17:55,Spain,url exists,None
+2026-01-28-16:15:38,Spain,url exists,None
+2026-01-28-16:16:01,Spain,url exists,None
+2026-01-28-16:16:08,Spain,url exists,None
+2026-01-28-16:16:36,Spain,url exists,None
+2026-01-28-16:17:26,Spain,url exists,None
+2026-01-28-16:18:58,Spain,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-16:19:28,Spain,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-16:19:39,Spain,url exists,None
