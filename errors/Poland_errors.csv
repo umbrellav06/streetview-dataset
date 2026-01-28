@@ -89,3 +89,19 @@ Call log:"
 2026-01-28-14:10:33,Poland,url exists,None
 2026-01-28-14:10:57,Poland,url exists,None
 2026-01-28-14:11:43,Poland,url exists,None
+2026-01-28-16:16:58,Poland,url exists,None
+2026-01-28-16:18:21,Poland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-16:18:51,Poland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-16:18:58,Poland,url exists,None
+2026-01-28-16:19:21,Poland,url exists,None
+2026-01-28-16:20:01,Poland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-16:20:31,Poland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-16:21:11,Poland,url exists,None
+2026-01-28-16:21:18,Poland,url exists,None
+2026-01-28-16:21:47,Poland,url exists,None
