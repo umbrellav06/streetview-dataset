@@ -58,3 +58,15 @@ Call log:"
 2026-01-27-21:59:00,Sweden,url exists,None
 2026-01-27-22:01:28,Sweden,url exists,None
 2026-01-27-22:01:38,Sweden,url exists,None
+2026-01-28-04:23:02,Sweden,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-04:23:32,Sweden,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-04:24:57,Sweden,url exists,None
+2026-01-28-04:25:51,Sweden,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-04:26:21,Sweden,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-04:26:56,Sweden,url exists,None
