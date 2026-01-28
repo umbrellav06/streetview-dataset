@@ -261,3 +261,21 @@ Call log:"
 2026-01-28-14:03:58,Luxembourg,url exists,None
 2026-01-28-14:04:16,Luxembourg,url exists,None
 2026-01-28-14:04:16,Luxembourg,no images,None
+2026-01-28-16:09:53,Luxembourg,url exists,None
+2026-01-28-16:10:00,Luxembourg,url exists,None
+2026-01-28-16:10:07,Luxembourg,url exists,None
+2026-01-28-16:10:14,Luxembourg,url exists,None
+2026-01-28-16:10:54,Luxembourg,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-16:11:24,Luxembourg,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-16:11:31,Luxembourg,url exists,None
+2026-01-28-16:11:38,Luxembourg,url exists,None
+2026-01-28-16:11:45,Luxembourg,url exists,None
+2026-01-28-16:11:56,Luxembourg,url exists,None
+2026-01-28-16:12:03,Luxembourg,url exists,None
+2026-01-28-16:12:40,Luxembourg,url exists,None
+2026-01-28-16:12:47,Luxembourg,url exists,None
+2026-01-28-16:13:01,Luxembourg,url exists,None
+2026-01-28-16:13:08,Luxembourg,url exists,None
