@@ -117,3 +117,14 @@ Call log:"
 2026-01-28-19:17:54,Russia,no popup,Timeout 30000ms exceeded.
 2026-01-28-19:18:06,Russia,url exists,None
 2026-01-28-19:18:44,Russia,no popup,Timeout 30000ms exceeded.
+2026-01-28-22:16:36,Russia,url exists,None
+2026-01-28-22:17:12,Russia,url exists,None
+2026-01-28-22:17:19,Russia,url exists,None
+2026-01-28-22:17:28,Russia,url exists,None
+2026-01-28-22:18:58,Russia,url exists,None
+2026-01-28-22:19:05,Russia,url exists,None
+2026-01-28-22:20:06,Russia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-22:20:36,Russia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
