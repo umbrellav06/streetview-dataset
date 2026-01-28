@@ -134,3 +134,19 @@ Call log:"
 2026-01-28-14:11:16,Slovakia,no popup,Timeout 30000ms exceeded.
 2026-01-28-14:11:51,Slovakia,url exists,None
 2026-01-28-14:12:02,Slovakia,url exists,None
+2026-01-28-16:22:12,Slovakia,url exists,None
+2026-01-28-16:22:19,Slovakia,url exists,None
+2026-01-28-16:22:45,Slovakia,url exists,None
+2026-01-28-16:23:32,Slovakia,url exists,None
+2026-01-28-16:23:41,Slovakia,url exists,None
+2026-01-28-16:23:50,Slovakia,url exists,None
+2026-01-28-16:24:02,Slovakia,url exists,None
+2026-01-28-16:24:15,Slovakia,url exists,None
+2026-01-28-16:24:27,Slovakia,url exists,None
+2026-01-28-16:25:09,Slovakia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-16:25:39,Slovakia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-16:25:52,Slovakia,url exists,None
+2026-01-28-16:26:06,Slovakia,url exists,None
