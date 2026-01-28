@@ -100,3 +100,15 @@ Call log:
 Call log:"
 2026-01-28-04:22:42,Italy,url exists,None
 2026-01-28-04:23:32,Italy,url exists,None
+2026-01-28-07:14:20,Italy,url exists,None
+2026-01-28-07:14:27,Italy,url exists,None
+2026-01-28-07:14:51,Italy,url exists,None
+2026-01-28-07:15:48,Italy,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-07:16:18,Italy,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-07:16:20,Italy,world,None
+2026-01-28-07:17:06,Italy,url exists,None
+2026-01-28-07:17:56,Italy,url exists,None
+2026-01-28-07:18:06,Italy,url exists,None
