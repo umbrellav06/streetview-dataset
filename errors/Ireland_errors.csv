@@ -229,3 +229,14 @@ Call log:
 "
 2026-01-28-16:08:48,Ireland,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-01-28-19:10:08,Ireland,url exists,None
+2026-01-28-19:10:15,Ireland,url exists,None
+2026-01-28-19:10:22,Ireland,url exists,None
+2026-01-28-19:10:29,Ireland,url exists,None
+2026-01-28-19:11:09,Ireland,url exists,None
+2026-01-28-19:11:16,Ireland,url exists,None
+2026-01-28-19:11:44,Ireland,url exists,None
+2026-01-28-19:12:11,Ireland,url exists,None
+2026-01-28-19:12:22,Ireland,url exists,None
+2026-01-28-19:12:59,Ireland,no popup,Timeout 30000ms exceeded.
+2026-01-28-19:13:11,Ireland,url exists,None
