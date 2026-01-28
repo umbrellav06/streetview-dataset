@@ -240,3 +240,23 @@ Call log:"
 2026-01-28-07:12:20,Peru,url exists,None
 2026-01-28-07:12:37,Peru,url exists,None
 2026-01-28-07:12:37,Peru,no images,None
+2026-01-28-10:18:27,Peru,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-10:18:57,Peru,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-10:19:04,Peru,url exists,None
+2026-01-28-10:19:11,Peru,url exists,None
+2026-01-28-10:19:18,Peru,url exists,None
+2026-01-28-10:19:27,Peru,url exists,None
+2026-01-28-10:19:34,Peru,url exists,None
+2026-01-28-10:19:41,Peru,url exists,None
+2026-01-28-10:19:48,Peru,url exists,None
+2026-01-28-10:19:55,Peru,url exists,None
+2026-01-28-10:20:02,Peru,url exists,None
+2026-01-28-10:20:15,Peru,url exists,None
+2026-01-28-10:20:22,Peru,url exists,None
+2026-01-28-10:20:59,Peru,no popup,Timeout 30000ms exceeded.
+2026-01-28-10:21:36,Peru,no popup,Timeout 30000ms exceeded.
+2026-01-28-10:21:51,Peru,url exists,None
+2026-01-28-10:21:52,Peru,no images,None
