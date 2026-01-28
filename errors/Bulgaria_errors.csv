@@ -160,3 +160,18 @@ Call log:"
 2026-01-28-07:09:11,Bulgaria,url exists,None
 2026-01-28-07:09:21,Bulgaria,url exists,None
 2026-01-28-07:09:28,Bulgaria,url exists,None
+2026-01-28-10:06:59,Bulgaria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-10:07:29,Bulgaria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-10:07:36,Bulgaria,url exists,None
+2026-01-28-10:07:43,Bulgaria,url exists,None
+2026-01-28-10:08:18,Bulgaria,world,None
+2026-01-28-10:08:25,Bulgaria,url exists,None
+2026-01-28-10:08:32,Bulgaria,url exists,None
+2026-01-28-10:08:59,Bulgaria,url exists,None
+2026-01-28-10:09:07,Bulgaria,url exists,None
+2026-01-28-10:09:18,Bulgaria,url exists,None
+2026-01-28-10:09:29,Bulgaria,url exists,None
+2026-01-28-10:09:36,Bulgaria,url exists,None
