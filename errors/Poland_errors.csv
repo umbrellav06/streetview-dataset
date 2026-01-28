@@ -105,3 +105,13 @@ Call log:"
 2026-01-28-16:21:11,Poland,url exists,None
 2026-01-28-16:21:18,Poland,url exists,None
 2026-01-28-16:21:47,Poland,url exists,None
+2026-01-28-19:10:32,Poland,url exists,None
+2026-01-28-19:10:39,Poland,url exists,None
+2026-01-28-19:11:51,Poland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-19:12:21,Poland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-19:12:29,Poland,url exists,None
+2026-01-28-19:12:36,Poland,url exists,None
+2026-01-28-19:13:43,Poland,url exists,None
