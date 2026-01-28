@@ -122,3 +122,17 @@ Call log:
 Call log:"
 2026-01-27-21:44:34,Malta,url exists,None
 2026-01-27-21:44:46,Malta,url exists,None
+2026-01-28-04:19:13,Malta,url exists,None
+2026-01-28-04:19:20,Malta,url exists,None
+2026-01-28-04:20:42,Malta,url exists,None
+2026-01-28-04:21:57,Malta,no popup,Timeout 30000ms exceeded.
+2026-01-28-04:22:34,Malta,no popup,Timeout 30000ms exceeded.
+2026-01-28-04:23:14,Malta,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-04:23:44,Malta,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-04:23:51,Malta,url exists,None
+2026-01-28-04:24:02,Malta,url exists,None
+2026-01-28-04:25:05,Malta,no popup,Timeout 30000ms exceeded.
+2026-01-28-04:25:19,Malta,url exists,None
