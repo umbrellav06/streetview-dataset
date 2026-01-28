@@ -107,3 +107,15 @@ Call log:"
 2026-01-28-04:27:29,Lithuania,url exists,None
 2026-01-28-04:28:31,Lithuania,url exists,None
 2026-01-28-04:29:02,Lithuania,url exists,None
+2026-01-28-07:23:26,Lithuania,url exists,None
+2026-01-28-07:23:32,Lithuania,url exists,None
+2026-01-28-07:23:40,Lithuania,url exists,None
+2026-01-28-07:25:24,Lithuania,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-07:25:54,Lithuania,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-07:27:16,Lithuania,world,None
+2026-01-28-07:27:24,Lithuania,url exists,None
+2026-01-28-07:27:33,Lithuania,url exists,None
+2026-01-28-07:28:02,Lithuania,url exists,None
