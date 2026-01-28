@@ -195,3 +195,21 @@ Call log:"
 2026-01-28-14:19:28,Denmark,url exists,None
 2026-01-28-14:19:40,Denmark,url exists,None
 2026-01-28-14:19:55,Denmark,url exists,None
+2026-01-28-16:10:26,Denmark,url exists,None
+2026-01-28-16:10:33,Denmark,url exists,None
+2026-01-28-16:10:41,Denmark,url exists,None
+2026-01-28-16:10:49,Denmark,url exists,None
+2026-01-28-16:10:58,Denmark,url exists,None
+2026-01-28-16:11:00,Denmark,world,None
+2026-01-28-16:11:10,Denmark,url exists,None
+2026-01-28-16:11:47,Denmark,no popup,Timeout 30000ms exceeded.
+2026-01-28-16:12:54,Denmark,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-16:13:24,Denmark,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-16:13:36,Denmark,url exists,None
+2026-01-28-16:13:48,Denmark,url exists,None
+2026-01-28-16:14:03,Denmark,url exists,None
+2026-01-28-16:14:16,Denmark,url exists,None
+2026-01-28-16:14:30,Denmark,url exists,None
