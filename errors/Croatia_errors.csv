@@ -79,3 +79,10 @@ Call log:"
 2026-01-28-04:16:46,Croatia,url exists,None
 2026-01-28-04:17:09,Croatia,url exists,None
 2026-01-28-04:19:35,Croatia,url exists,None
+2026-01-28-07:19:50,Croatia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-07:20:20,Croatia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-07:21:06,Croatia,url exists,None
+2026-01-28-07:22:29,Croatia,url exists,None
