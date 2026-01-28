@@ -186,3 +186,19 @@ Call log:"
 2026-01-28-04:15:33,Bolivia,url exists,None
 2026-01-28-04:15:48,Bolivia,url exists,None
 2026-01-28-04:16:03,Bolivia,url exists,None
+2026-01-28-07:04:53,Bolivia,url exists,None
+2026-01-28-07:05:33,Bolivia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-07:06:03,Bolivia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-07:06:10,Bolivia,url exists,None
+2026-01-28-07:06:18,Bolivia,url exists,None
+2026-01-28-07:06:55,Bolivia,no popup,Timeout 30000ms exceeded.
+2026-01-28-07:07:05,Bolivia,url exists,None
+2026-01-28-07:07:14,Bolivia,url exists,None
+2026-01-28-07:07:26,Bolivia,url exists,None
+2026-01-28-07:08:06,Bolivia,url exists,None
+2026-01-28-07:08:18,Bolivia,url exists,None
+2026-01-28-07:09:02,Bolivia,url exists,None
+2026-01-28-07:09:17,Bolivia,url exists,None
