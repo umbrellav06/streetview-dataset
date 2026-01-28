@@ -104,3 +104,12 @@ Call log:"
 2026-01-28-19:06:53,Croatia,url exists,None
 2026-01-28-19:07:00,Croatia,url exists,None
 2026-01-28-19:07:07,Croatia,url exists,None
+2026-01-28-21:57:36,Croatia,url exists,None
+2026-01-28-21:57:43,Croatia,url exists,None
+2026-01-28-21:58:47,Croatia,url exists,None
+2026-01-28-22:00:07,Croatia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-22:00:37,Croatia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-22:00:46,Croatia,url exists,None
