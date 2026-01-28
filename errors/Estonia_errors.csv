@@ -180,3 +180,24 @@ Call log:"
 2026-01-28-07:11:33,Estonia,url exists,None
 2026-01-28-07:11:44,Estonia,url exists,None
 2026-01-28-07:11:57,Estonia,url exists,None
+2026-01-28-10:05:15,Estonia,url exists,None
+2026-01-28-10:05:55,Estonia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-10:06:25,Estonia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-10:06:32,Estonia,url exists,None
+2026-01-28-10:06:39,Estonia,url exists,None
+2026-01-28-10:07:37,Estonia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-28-10:08:07,Estonia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-28-10:08:15,Estonia,url exists,None
+2026-01-28-10:08:23,Estonia,url exists,None
+2026-01-28-10:08:30,Estonia,url exists,None
+2026-01-28-10:08:37,Estonia,url exists,None
+2026-01-28-10:08:44,Estonia,url exists,None
+2026-01-28-10:08:51,Estonia,url exists,None
+2026-01-28-10:08:58,Estonia,url exists,None
+2026-01-28-10:09:35,Estonia,url exists,None
