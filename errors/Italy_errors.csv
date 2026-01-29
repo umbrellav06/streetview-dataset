@@ -180,3 +180,45 @@ Call log:
 2026-01-29-05:08:01,Italy,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
 2026-01-29-05:08:50,Italy,url exists,None
+2026-01-29-08:08:33,Italy,searching,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-08:09:03,Italy,searching,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-08:09:33,Italy,searching,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-08:10:03,Italy,searching,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-08:10:33,Italy,searching,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-08:11:03,Italy,searching,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-08:11:33,Italy,searching,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-08:12:03,Italy,searching,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-08:12:33,Italy,searching,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-08:13:04,Italy,searching,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-08:13:34,Italy,searching,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-08:14:04,Italy,searching,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-08:14:34,Italy,searching,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-08:14:41,Italy,url exists,None
+2026-01-29-08:14:48,Italy,url exists,None
+2026-01-29-08:14:48,Italy,no images,None
