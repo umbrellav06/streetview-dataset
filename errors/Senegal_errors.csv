@@ -409,3 +409,23 @@ Call log:"
 2026-01-29-19:52:29,Senegal,url exists,None
 2026-01-29-19:52:47,Senegal,url exists,None
 2026-01-29-19:52:47,Senegal,no images,None
+2026-01-29-22:00:24,Senegal,url exists,None
+2026-01-29-22:00:31,Senegal,url exists,None
+2026-01-29-22:00:39,Senegal,url exists,None
+2026-01-29-22:00:47,Senegal,url exists,None
+2026-01-29-22:01:27,Senegal,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-22:01:57,Senegal,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-22:02:07,Senegal,url exists,None
+2026-01-29-22:02:17,Senegal,url exists,None
+2026-01-29-22:02:28,Senegal,url exists,None
+2026-01-29-22:02:40,Senegal,url exists,None
+2026-01-29-22:02:47,Senegal,url exists,None
+2026-01-29-22:02:54,Senegal,url exists,None
+2026-01-29-22:03:31,Senegal,no popup,Timeout 30000ms exceeded.
+2026-01-29-22:03:38,Senegal,url exists,None
+2026-01-29-22:03:55,Senegal,url exists,None
+2026-01-29-22:04:11,Senegal,url exists,None
+2026-01-29-22:04:11,Senegal,no images,None
