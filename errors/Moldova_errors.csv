@@ -402,3 +402,23 @@ Call log:"
 2026-01-29-14:23:23,Moldova,url exists,None
 2026-01-29-14:23:35,Moldova,url exists,None
 2026-01-29-14:23:36,Moldova,no images,None
+2026-01-29-17:11:49,Moldova,url exists,None
+2026-01-29-17:11:56,Moldova,url exists,None
+2026-01-29-17:12:03,Moldova,url exists,None
+2026-01-29-17:12:10,Moldova,url exists,None
+2026-01-29-17:12:18,Moldova,url exists,None
+2026-01-29-17:12:28,Moldova,url exists,None
+2026-01-29-17:13:09,Moldova,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-17:13:39,Moldova,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-17:13:46,Moldova,url exists,None
+2026-01-29-17:13:53,Moldova,url exists,None
+2026-01-29-17:14:07,Moldova,url exists,None
+2026-01-29-17:14:19,Moldova,url exists,None
+2026-01-29-17:14:32,Moldova,url exists,None
+2026-01-29-17:15:10,Moldova,no popup,Timeout 30000ms exceeded.
+2026-01-29-17:15:24,Moldova,url exists,None
+2026-01-29-17:16:01,Moldova,no popup,Timeout 30000ms exceeded.
+2026-01-29-17:16:02,Moldova,no images,None
