@@ -405,3 +405,27 @@ Call log:"
 2026-01-29-17:16:03,Belgium,url exists,None
 2026-01-29-17:16:19,Belgium,url exists,None
 2026-01-29-17:16:19,Belgium,no images,None
+2026-01-29-19:45:14,Belgium,url exists,None
+2026-01-29-19:45:22,Belgium,url exists,None
+2026-01-29-19:45:30,Belgium,url exists,None
+2026-01-29-19:45:39,Belgium,url exists,None
+2026-01-29-19:45:49,Belgium,url exists,None
+2026-01-29-19:45:59,Belgium,url exists,None
+2026-01-29-19:46:10,Belgium,url exists,None
+2026-01-29-19:46:23,Belgium,url exists,None
+2026-01-29-19:47:06,Belgium,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-19:47:36,Belgium,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-19:47:49,Belgium,url exists,None
+2026-01-29-19:48:02,Belgium,url exists,None
+2026-01-29-19:48:45,Belgium,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-19:49:15,Belgium,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-19:49:29,Belgium,url exists,None
+2026-01-29-19:49:37,Belgium,url exists,None
+2026-01-29-19:49:52,Belgium,url exists,None
+2026-01-29-19:49:52,Belgium,no images,None
