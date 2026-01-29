@@ -143,3 +143,21 @@ Call log:"
 2026-01-29-11:06:54,Croatia,url exists,None
 2026-01-29-11:08:12,Croatia,url exists,None
 2026-01-29-11:08:23,Croatia,url exists,None
+2026-01-29-14:15:55,Croatia,url exists,None
+2026-01-29-14:16:45,Croatia,url exists,None
+2026-01-29-14:17:24,Croatia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-14:17:54,Croatia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-14:18:18,Croatia,url exists,None
+2026-01-29-14:18:57,Croatia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-14:19:27,Croatia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-14:19:34,Croatia,url exists,None
+2026-01-29-14:20:00,Croatia,url exists,None
+2026-01-29-14:20:10,Croatia,url exists,None
+2026-01-29-14:20:22,Croatia,url exists,None
+2026-01-29-14:20:29,Croatia,url exists,None
