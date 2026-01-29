@@ -405,3 +405,23 @@ Call log:"
 2026-01-29-17:24:45,Sri Lanka,url exists,None
 2026-01-29-17:25:02,Sri Lanka,url exists,None
 2026-01-29-17:25:03,Sri Lanka,no images,None
+2026-01-29-20:03:30,Sri Lanka,url exists,None
+2026-01-29-20:03:37,Sri Lanka,url exists,None
+2026-01-29-20:03:45,Sri Lanka,url exists,None
+2026-01-29-20:04:22,Sri Lanka,no popup,Timeout 30000ms exceeded.
+2026-01-29-20:04:31,Sri Lanka,url exists,None
+2026-01-29-20:04:38,Sri Lanka,url exists,None
+2026-01-29-20:04:49,Sri Lanka,url exists,None
+2026-01-29-20:04:56,Sri Lanka,url exists,None
+2026-01-29-20:05:03,Sri Lanka,url exists,None
+2026-01-29-20:05:17,Sri Lanka,url exists,None
+2026-01-29-20:05:24,Sri Lanka,url exists,None
+2026-01-29-20:05:38,Sri Lanka,url exists,None
+2026-01-29-20:05:45,Sri Lanka,url exists,None
+2026-01-29-20:05:52,Sri Lanka,url exists,None
+2026-01-29-20:06:37,Sri Lanka,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-20:07:07,Sri Lanka,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-20:07:08,Sri Lanka,no images,None
