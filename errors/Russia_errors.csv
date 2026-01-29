@@ -184,3 +184,25 @@ Call log:"
 2026-01-29-19:59:45,Russia,url exists,None
 2026-01-29-19:59:53,Russia,url exists,None
 2026-01-29-20:00:01,Russia,url exists,None
+2026-01-29-22:10:07,Russia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-22:10:37,Russia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-22:10:57,Russia,url exists,None
+2026-01-29-22:11:04,Russia,url exists,None
+2026-01-29-22:11:13,Russia,url exists,None
+2026-01-29-22:11:21,Russia,url exists,None
+2026-01-29-22:12:02,Russia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-22:12:32,Russia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-22:12:43,Russia,url exists,None
+2026-01-29-22:13:42,Russia,url exists,None
+2026-01-29-22:14:18,Russia,url exists,None
+2026-01-29-22:15:00,Russia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-22:15:30,Russia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
