@@ -176,3 +176,16 @@ Call log:
 2026-01-29-08:01:52,Indonesia,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
 2026-01-29-08:02:02,Indonesia,url exists,None
+2026-01-29-11:21:51,Indonesia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-11:22:21,Indonesia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-11:22:28,Indonesia,url exists,None
+2026-01-29-11:22:35,Indonesia,url exists,None
+2026-01-29-11:23:00,Indonesia,url exists,None
+2026-01-29-11:23:08,Indonesia,url exists,None
+2026-01-29-11:24:19,Indonesia,url exists,None
+2026-01-29-11:24:52,Indonesia,url exists,None
+2026-01-29-11:25:29,Indonesia,no popup,Timeout 30000ms exceeded.
+2026-01-29-11:26:32,Indonesia,no popup,Timeout 30000ms exceeded.
