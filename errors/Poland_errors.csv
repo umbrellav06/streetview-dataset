@@ -159,3 +159,11 @@ Call log:"
 2026-01-29-17:12:47,Poland,url exists,None
 2026-01-29-17:13:37,Poland,url exists,None
 2026-01-29-17:14:33,Poland,url exists,None
+2026-01-29-19:50:43,Poland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-19:51:13,Poland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-19:51:19,Poland,url exists,None
+2026-01-29-19:52:11,Poland,url exists,None
+2026-01-29-19:53:32,Poland,url exists,None
