@@ -407,3 +407,23 @@ Call log:"
 2026-01-29-17:19:15,Switzerland,url exists,None
 2026-01-29-17:19:22,Switzerland,url exists,None
 2026-01-29-17:19:22,Switzerland,no images,None
+2026-01-29-20:00:54,Switzerland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-20:01:24,Switzerland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-20:01:31,Switzerland,url exists,None
+2026-01-29-20:01:38,Switzerland,url exists,None
+2026-01-29-20:01:45,Switzerland,url exists,None
+2026-01-29-20:01:52,Switzerland,url exists,None
+2026-01-29-20:02:02,Switzerland,url exists,None
+2026-01-29-20:02:13,Switzerland,url exists,None
+2026-01-29-20:02:23,Switzerland,url exists,None
+2026-01-29-20:02:31,Switzerland,url exists,None
+2026-01-29-20:02:43,Switzerland,url exists,None
+2026-01-29-20:02:55,Switzerland,url exists,None
+2026-01-29-20:03:08,Switzerland,url exists,None
+2026-01-29-20:03:15,Switzerland,url exists,None
+2026-01-29-20:03:23,Switzerland,url exists,None
+2026-01-29-20:03:40,Switzerland,url exists,None
+2026-01-29-20:03:40,Switzerland,no images,None
