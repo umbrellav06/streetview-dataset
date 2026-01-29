@@ -464,3 +464,27 @@ Call log:"
 2026-01-29-19:47:14,Albania,url exists,None
 2026-01-29-19:47:31,Albania,url exists,None
 2026-01-29-19:47:31,Albania,no images,None
+2026-01-29-22:01:12,Albania,url exists,None
+2026-01-29-22:01:19,Albania,url exists,None
+2026-01-29-22:01:27,Albania,url exists,None
+2026-01-29-22:02:07,Albania,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-22:02:37,Albania,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-22:02:44,Albania,url exists,None
+2026-01-29-22:03:52,Albania,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-22:04:22,Albania,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-22:04:31,Albania,url exists,None
+2026-01-29-22:04:41,Albania,url exists,None
+2026-01-29-22:04:48,Albania,url exists,None
+2026-01-29-22:05:02,Albania,url exists,None
+2026-01-29-22:05:13,Albania,url exists,None
+2026-01-29-22:05:28,Albania,url exists,None
+2026-01-29-22:05:43,Albania,url exists,None
+2026-01-29-22:05:59,Albania,url exists,None
+2026-01-29-22:06:16,Albania,url exists,None
+2026-01-29-22:06:17,Albania,no images,None
