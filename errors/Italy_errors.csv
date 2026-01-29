@@ -264,3 +264,18 @@ Call log:
 2026-01-29-17:12:54,Italy,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
 2026-01-29-17:13:57,Italy,url exists,None
+2026-01-29-19:54:42,Italy,url exists,None
+2026-01-29-19:54:49,Italy,url exists,None
+2026-01-29-19:55:29,Italy,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-19:55:59,Italy,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-19:56:06,Italy,url exists,None
+2026-01-29-19:56:28,Italy,url exists,None
+2026-01-29-19:56:36,Italy,url exists,None
+2026-01-29-19:56:43,Italy,url exists,None
+2026-01-29-19:56:50,Italy,url exists,None
+2026-01-29-19:56:57,Italy,url exists,None
+2026-01-29-19:57:25,Italy,url exists,None
+2026-01-29-19:58:16,Italy,url exists,None
