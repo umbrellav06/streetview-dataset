@@ -198,3 +198,12 @@ Call log:
 "
 2026-01-29-11:23:51,Philippines,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-01-29-14:13:06,Philippines,url exists,None
+2026-01-29-14:13:13,Philippines,url exists,None
+2026-01-29-14:13:55,Philippines,url exists,None
+2026-01-29-14:14:22,Philippines,url exists,None
+2026-01-29-14:14:53,Philippines,url exists,None
+2026-01-29-14:15:30,Philippines,no popup,Timeout 30000ms exceeded.
+2026-01-29-14:15:42,Philippines,url exists,None
+2026-01-29-14:15:53,Philippines,url exists,None
+2026-01-29-14:16:34,Philippines,url exists,None
