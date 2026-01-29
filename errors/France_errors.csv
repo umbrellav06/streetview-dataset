@@ -170,3 +170,14 @@ Call log:"
 2026-01-29-19:48:59,France,url exists,None
 2026-01-29-19:49:10,France,url exists,None
 2026-01-29-19:49:47,France,no popup,Timeout 30000ms exceeded.
+2026-01-29-22:05:09,France,url exists,None
+2026-01-29-22:05:52,France,url exists,None
+2026-01-29-22:06:00,France,url exists,None
+2026-01-29-22:07:00,France,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-22:07:30,France,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-22:07:40,France,url exists,None
+2026-01-29-22:09:16,France,url exists,None
+2026-01-29-22:09:49,France,url exists,None
