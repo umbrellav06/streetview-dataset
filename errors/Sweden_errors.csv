@@ -153,3 +153,16 @@ Call log:"
 2026-01-29-17:18:07,Sweden,url exists,None
 2026-01-29-17:18:21,Sweden,url exists,None
 2026-01-29-17:18:28,Sweden,url exists,None
+2026-01-29-19:57:46,Sweden,url exists,None
+2026-01-29-19:58:37,Sweden,url exists,None
+2026-01-29-19:58:44,Sweden,url exists,None
+2026-01-29-19:58:54,Sweden,url exists,None
+2026-01-29-19:59:23,Sweden,url exists,None
+2026-01-29-19:59:31,Sweden,url exists,None
+2026-01-29-20:00:00,Sweden,url exists,None
+2026-01-29-20:00:35,Sweden,url exists,None
+2026-01-29-20:01:15,Sweden,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-20:01:45,Sweden,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
