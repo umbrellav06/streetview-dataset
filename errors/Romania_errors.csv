@@ -360,3 +360,23 @@ Call log:"
 2026-01-29-17:17:54,Romania,url exists,None
 2026-01-29-17:18:07,Romania,url exists,None
 2026-01-29-17:18:53,Romania,url exists,None
+2026-01-29-19:58:03,Romania,url exists,None
+2026-01-29-19:58:10,Romania,url exists,None
+2026-01-29-19:58:17,Romania,url exists,None
+2026-01-29-19:58:25,Romania,url exists,None
+2026-01-29-19:58:32,Romania,url exists,None
+2026-01-29-19:58:43,Romania,url exists,None
+2026-01-29-19:59:20,Romania,no popup,Timeout 30000ms exceeded.
+2026-01-29-19:59:57,Romania,no popup,Timeout 30000ms exceeded.
+2026-01-29-20:00:08,Romania,url exists,None
+2026-01-29-20:00:15,Romania,url exists,None
+2026-01-29-20:00:23,Romania,url exists,None
+2026-01-29-20:01:02,Romania,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-20:01:32,Romania,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-20:01:46,Romania,url exists,None
+2026-01-29-20:02:00,Romania,url exists,None
+2026-01-29-20:02:07,Romania,url exists,None
+2026-01-29-20:02:07,Romania,no images,None
