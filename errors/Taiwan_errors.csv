@@ -217,3 +217,17 @@ Call log:"
 2026-01-29-08:19:35,Taiwan,url exists,None
 2026-01-29-08:20:54,Taiwan,no popup,Timeout 30000ms exceeded.
 2026-01-29-08:21:26,Taiwan,url exists,None
+2026-01-29-11:18:31,Taiwan,url exists,None
+2026-01-29-11:18:52,Taiwan,url exists,None
+2026-01-29-11:19:00,Taiwan,url exists,None
+2026-01-29-11:19:01,Taiwan,world,None
+2026-01-29-11:19:10,Taiwan,url exists,None
+2026-01-29-11:19:19,Taiwan,url exists,None
+2026-01-29-11:19:46,Taiwan,url exists,None
+2026-01-29-11:19:56,Taiwan,url exists,None
+2026-01-29-11:20:58,Taiwan,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-11:21:28,Taiwan,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-11:22:06,Taiwan,url exists,None
