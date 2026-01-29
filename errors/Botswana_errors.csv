@@ -361,3 +361,23 @@ time,location,message,error
 2026-01-29-08:01:03,Botswana,url exists,None
 2026-01-29-08:01:40,Botswana,no popup,Timeout 30000ms exceeded.
 2026-01-29-08:01:40,Botswana,no images,None
+2026-01-29-11:05:41,Botswana,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-11:06:11,Botswana,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-11:06:18,Botswana,url exists,None
+2026-01-29-11:06:20,Botswana,world,None
+2026-01-29-11:06:27,Botswana,url exists,None
+2026-01-29-11:06:28,Botswana,world,None
+2026-01-29-11:06:35,Botswana,url exists,None
+2026-01-29-11:06:47,Botswana,url exists,None
+2026-01-29-11:06:56,Botswana,url exists,None
+2026-01-29-11:07:06,Botswana,url exists,None
+2026-01-29-11:07:17,Botswana,url exists,None
+2026-01-29-11:07:30,Botswana,url exists,None
+2026-01-29-11:07:41,Botswana,url exists,None
+2026-01-29-11:07:55,Botswana,url exists,None
+2026-01-29-11:08:08,Botswana,url exists,None
+2026-01-29-11:08:23,Botswana,url exists,None
+2026-01-29-11:08:23,Botswana,no images,None
