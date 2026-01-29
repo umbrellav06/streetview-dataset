@@ -322,3 +322,27 @@ Call log:"
 2026-01-28-22:02:48,Moldova,url exists,None
 2026-01-28-22:02:55,Moldova,url exists,None
 2026-01-28-22:02:56,Moldova,no images,None
+2026-01-29-05:03:37,Moldova,url exists,None
+2026-01-29-05:03:44,Moldova,url exists,None
+2026-01-29-05:03:52,Moldova,url exists,None
+2026-01-29-05:03:59,Moldova,url exists,None
+2026-01-29-05:04:08,Moldova,url exists,None
+2026-01-29-05:04:48,Moldova,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-05:05:18,Moldova,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-05:05:28,Moldova,url exists,None
+2026-01-29-05:06:05,Moldova,no popup,Timeout 30000ms exceeded.
+2026-01-29-05:06:12,Moldova,url exists,None
+2026-01-29-05:06:19,Moldova,url exists,None
+2026-01-29-05:07:00,Moldova,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-05:07:30,Moldova,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-05:07:37,Moldova,url exists,None
+2026-01-29-05:08:00,Moldova,url exists,None
+2026-01-29-05:08:14,Moldova,url exists,None
+2026-01-29-05:08:31,Moldova,url exists,None
+2026-01-29-05:08:32,Moldova,no images,None
