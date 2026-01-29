@@ -217,3 +217,17 @@ Call log:"
 2026-01-29-14:23:27,Thailand,no popup,Timeout 30000ms exceeded.
 2026-01-29-14:23:35,Thailand,url exists,None
 2026-01-29-14:23:42,Thailand,url exists,None
+2026-01-29-17:26:05,Thailand,url exists,None
+2026-01-29-17:26:26,Thailand,url exists,None
+2026-01-29-17:27:05,Thailand,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-17:27:35,Thailand,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-17:27:59,Thailand,url exists,None
+2026-01-29-17:28:06,Thailand,url exists,None
+2026-01-29-17:28:32,Thailand,url exists,None
+2026-01-29-17:28:41,Thailand,url exists,None
+2026-01-29-17:28:49,Thailand,url exists,None
+2026-01-29-17:28:56,Thailand,url exists,None
+2026-01-29-17:29:09,Thailand,url exists,None
