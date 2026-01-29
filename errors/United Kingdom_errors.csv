@@ -198,3 +198,15 @@ Call log:"
 2026-01-29-20:02:04,United Kingdom,url exists,None
 2026-01-29-20:02:12,United Kingdom,url exists,None
 2026-01-29-20:03:36,United Kingdom,url exists,None
+2026-01-29-22:09:22,United Kingdom,url exists,None
+2026-01-29-22:09:29,United Kingdom,url exists,None
+2026-01-29-22:11:14,United Kingdom,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-22:11:44,United Kingdom,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-22:11:51,United Kingdom,url exists,None
+2026-01-29-22:11:58,United Kingdom,url exists,None
+2026-01-29-22:12:07,United Kingdom,url exists,None
+2026-01-29-22:13:06,United Kingdom,no popup,Timeout 30000ms exceeded.
+2026-01-29-22:14:04,United Kingdom,url exists,None
