@@ -503,3 +503,23 @@ Call log:"
 2026-01-29-17:28:05,Nigeria,url exists,None
 2026-01-29-17:28:20,Nigeria,url exists,None
 2026-01-29-17:28:20,Nigeria,no images,None
+2026-01-29-19:49:00,Nigeria,url exists,None
+2026-01-29-19:49:37,Nigeria,no popup,Timeout 30000ms exceeded.
+2026-01-29-19:49:45,Nigeria,url exists,None
+2026-01-29-19:49:54,Nigeria,url exists,None
+2026-01-29-19:50:03,Nigeria,url exists,None
+2026-01-29-19:51:12,Nigeria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-19:51:42,Nigeria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-19:51:52,Nigeria,url exists,None
+2026-01-29-19:51:59,Nigeria,url exists,None
+2026-01-29-19:52:11,Nigeria,url exists,None
+2026-01-29-19:52:25,Nigeria,url exists,None
+2026-01-29-19:52:38,Nigeria,url exists,None
+2026-01-29-19:52:51,Nigeria,url exists,None
+2026-01-29-19:53:05,Nigeria,url exists,None
+2026-01-29-19:53:21,Nigeria,url exists,None
+2026-01-29-19:53:37,Nigeria,url exists,None
+2026-01-29-19:53:38,Nigeria,no images,None
