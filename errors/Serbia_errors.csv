@@ -301,3 +301,21 @@ Call log:"
 2026-01-29-20:04:57,Serbia,url exists,None
 2026-01-29-20:05:14,Serbia,url exists,None
 2026-01-29-20:05:14,Serbia,no images,None
+2026-01-29-22:15:02,Serbia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-22:15:32,Serbia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-22:15:38,Serbia,url exists,None
+2026-01-29-22:15:59,Serbia,url exists,None
+2026-01-29-22:16:07,Serbia,url exists,None
+2026-01-29-22:16:15,Serbia,url exists,None
+2026-01-29-22:16:24,Serbia,url exists,None
+2026-01-29-22:16:34,Serbia,url exists,None
+2026-01-29-22:16:45,Serbia,url exists,None
+2026-01-29-22:17:22,Serbia,no popup,Timeout 30000ms exceeded.
+2026-01-29-22:17:34,Serbia,url exists,None
+2026-01-29-22:17:46,Serbia,url exists,None
+2026-01-29-22:17:53,Serbia,url exists,None
+2026-01-29-22:18:08,Serbia,url exists,None
+2026-01-29-22:18:10,Serbia,world,None
