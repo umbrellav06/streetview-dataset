@@ -395,3 +395,23 @@ Call log:
 Call log:"
 2026-01-29-08:01:56,Algeria,url exists,None
 2026-01-29-08:01:56,Algeria,no images,None
+2026-01-29-11:09:49,Algeria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-11:10:19,Algeria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-11:10:26,Algeria,url exists,None
+2026-01-29-11:10:33,Algeria,url exists,None
+2026-01-29-11:10:40,Algeria,url exists,None
+2026-01-29-11:10:48,Algeria,url exists,None
+2026-01-29-11:10:58,Algeria,url exists,None
+2026-01-29-11:11:08,Algeria,url exists,None
+2026-01-29-11:11:20,Algeria,url exists,None
+2026-01-29-11:11:32,Algeria,url exists,None
+2026-01-29-11:11:45,Algeria,url exists,None
+2026-01-29-11:11:58,Algeria,url exists,None
+2026-01-29-11:12:13,Algeria,url exists,None
+2026-01-29-11:12:29,Algeria,url exists,None
+2026-01-29-11:12:45,Algeria,url exists,None
+2026-01-29-11:13:01,Algeria,url exists,None
+2026-01-29-11:13:01,Algeria,no images,None
