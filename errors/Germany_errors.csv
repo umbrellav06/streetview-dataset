@@ -177,3 +177,16 @@ Call log:"
 2026-01-29-17:28:03,Germany,url exists,None
 2026-01-29-17:28:15,Germany,url exists,None
 2026-01-29-17:29:18,Germany,url exists,None
+2026-01-29-19:49:17,Germany,url exists,None
+2026-01-29-19:49:57,Germany,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-19:50:27,Germany,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-19:50:35,Germany,url exists,None
+2026-01-29-19:51:36,Germany,url exists,None
+2026-01-29-19:51:43,Germany,url exists,None
+2026-01-29-19:51:53,Germany,url exists,None
+2026-01-29-19:52:24,Germany,url exists,None
+2026-01-29-19:52:31,Germany,url exists,None
+2026-01-29-19:52:38,Germany,url exists,None
