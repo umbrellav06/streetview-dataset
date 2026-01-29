@@ -166,3 +166,17 @@ Call log:"
 2026-01-29-14:28:31,Uganda,url exists,None
 2026-01-29-14:28:44,Uganda,url exists,None
 2026-01-29-14:28:56,Uganda,url exists,None
+2026-01-29-17:15:51,Uganda,url exists,None
+2026-01-29-17:15:58,Uganda,url exists,None
+2026-01-29-17:16:55,Uganda,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-17:17:25,Uganda,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-17:17:32,Uganda,url exists,None
+2026-01-29-17:18:15,Uganda,url exists,None
+2026-01-29-17:18:22,Uganda,url exists,None
+2026-01-29-17:18:30,Uganda,url exists,None
+2026-01-29-17:18:40,Uganda,url exists,None
+2026-01-29-17:18:52,Uganda,url exists,None
+2026-01-29-17:20:15,Uganda,no popup,Timeout 30000ms exceeded.
