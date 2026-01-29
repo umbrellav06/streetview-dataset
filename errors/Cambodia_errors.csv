@@ -403,3 +403,23 @@ Call log:"
 2026-01-29-19:47:32,Cambodia,no popup,Timeout 30000ms exceeded.
 2026-01-29-19:48:09,Cambodia,no popup,Timeout 30000ms exceeded.
 2026-01-29-19:48:09,Cambodia,no images,None
+2026-01-29-21:56:04,Cambodia,url exists,None
+2026-01-29-21:56:11,Cambodia,url exists,None
+2026-01-29-21:56:47,Cambodia,url exists,None
+2026-01-29-21:56:54,Cambodia,url exists,None
+2026-01-29-21:57:18,Cambodia,url exists,None
+2026-01-29-21:57:28,Cambodia,url exists,None
+2026-01-29-21:57:35,Cambodia,url exists,None
+2026-01-29-21:57:42,Cambodia,url exists,None
+2026-01-29-21:57:49,Cambodia,url exists,None
+2026-01-29-21:58:29,Cambodia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-21:58:59,Cambodia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-21:59:06,Cambodia,url exists,None
+2026-01-29-21:59:13,Cambodia,url exists,None
+2026-01-29-21:59:20,Cambodia,url exists,None
+2026-01-29-21:59:27,Cambodia,url exists,None
+2026-01-29-21:59:45,Cambodia,url exists,None
+2026-01-29-21:59:45,Cambodia,no images,None
