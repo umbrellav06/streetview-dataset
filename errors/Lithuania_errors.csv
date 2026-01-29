@@ -157,3 +157,15 @@ Call log:"
 2026-01-28-22:00:11,Lithuania,url exists,None
 2026-01-28-22:00:45,Lithuania,url exists,None
 2026-01-28-22:00:57,Lithuania,url exists,None
+2026-01-29-05:05:08,Lithuania,url exists,None
+2026-01-29-05:05:48,Lithuania,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-05:06:18,Lithuania,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-05:06:52,Lithuania,url exists,None
+2026-01-29-05:06:59,Lithuania,url exists,None
+2026-01-29-05:07:42,Lithuania,url exists,None
+2026-01-29-05:07:51,Lithuania,url exists,None
+2026-01-29-05:08:28,Lithuania,no popup,Timeout 30000ms exceeded.
+2026-01-29-05:08:35,Lithuania,url exists,None
