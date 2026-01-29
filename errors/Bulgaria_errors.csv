@@ -241,3 +241,20 @@ Call log:
 "
 2026-01-29-05:11:35,Bulgaria,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-01-29-08:14:11,Bulgaria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-08:14:41,Bulgaria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-08:14:48,Bulgaria,url exists,None
+2026-01-29-08:14:55,Bulgaria,url exists,None
+2026-01-29-08:15:02,Bulgaria,url exists,None
+2026-01-29-08:15:29,Bulgaria,url exists,None
+2026-01-29-08:15:38,Bulgaria,url exists,None
+2026-01-29-08:16:07,Bulgaria,url exists,None
+2026-01-29-08:16:14,Bulgaria,url exists,None
+2026-01-29-08:16:51,Bulgaria,no popup,Timeout 30000ms exceeded.
+2026-01-29-08:16:58,Bulgaria,url exists,None
+2026-01-29-08:17:11,Bulgaria,url exists,None
+2026-01-29-08:17:25,Bulgaria,url exists,None
+2026-01-29-08:17:33,Bulgaria,url exists,None
