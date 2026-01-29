@@ -170,3 +170,13 @@ Call log:
 Call log:"
 2026-01-28-22:08:21,Italy,url exists,None
 2026-01-28-22:08:34,Italy,url exists,None
+2026-01-29-05:04:36,Italy,url exists,None
+2026-01-29-05:05:28,Italy,url exists,None
+2026-01-29-05:05:36,Italy,url exists,None
+2026-01-29-05:06:23,Italy,url exists,None
+2026-01-29-05:07:31,Italy,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-05:08:01,Italy,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-05:08:50,Italy,url exists,None
