@@ -357,3 +357,23 @@ Call log:"
 2026-01-29-14:19:19,Israel,url exists,None
 2026-01-29-14:19:35,Israel,url exists,None
 2026-01-29-14:19:35,Israel,no images,None
+2026-01-29-17:13:00,Israel,url exists,None
+2026-01-29-17:13:07,Israel,url exists,None
+2026-01-29-17:13:14,Israel,url exists,None
+2026-01-29-17:13:21,Israel,url exists,None
+2026-01-29-17:13:28,Israel,url exists,None
+2026-01-29-17:13:35,Israel,url exists,None
+2026-01-29-17:13:42,Israel,url exists,None
+2026-01-29-17:14:20,Israel,no popup,Timeout 30000ms exceeded.
+2026-01-29-17:14:27,Israel,url exists,None
+2026-01-29-17:14:39,Israel,url exists,None
+2026-01-29-17:14:53,Israel,url exists,None
+2026-01-29-17:15:36,Israel,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-17:16:06,Israel,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-17:16:13,Israel,url exists,None
+2026-01-29-17:16:28,Israel,url exists,None
+2026-01-29-17:16:35,Israel,url exists,None
+2026-01-29-17:16:35,Israel,no images,None
