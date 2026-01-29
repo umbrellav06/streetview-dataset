@@ -245,3 +245,22 @@ Call log:"
 2026-01-29-14:27:05,Italy,url exists,None
 2026-01-29-14:27:14,Italy,url exists,None
 2026-01-29-14:28:02,Italy,world,None
+2026-01-29-17:08:18,Italy,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-17:08:48,Italy,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-17:08:55,Italy,url exists,None
+2026-01-29-17:09:02,Italy,url exists,None
+2026-01-29-17:10:16,Italy,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-17:10:46,Italy,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-17:10:53,Italy,url exists,None
+2026-01-29-17:12:24,Italy,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-17:12:54,Italy,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-17:13:57,Italy,url exists,None
