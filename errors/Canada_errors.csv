@@ -184,3 +184,17 @@ Call log:"
 2026-01-29-11:17:54,Canada,url exists,None
 2026-01-29-11:18:31,Canada,url exists,None
 2026-01-29-11:18:44,Canada,url exists,None
+2026-01-29-14:28:02,Canada,url exists,None
+2026-01-29-14:28:42,Canada,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-14:29:12,Canada,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-14:30:02,Canada,url exists,None
+2026-01-29-14:30:09,Canada,url exists,None
+2026-01-29-14:30:18,Canada,url exists,None
+2026-01-29-14:30:27,Canada,url exists,None
+2026-01-29-14:30:35,Canada,url exists,None
+2026-01-29-14:30:46,Canada,url exists,None
+2026-01-29-14:31:48,Canada,no popup,Timeout 30000ms exceeded.
+2026-01-29-14:32:28,Canada,url exists,None
