@@ -233,3 +233,18 @@ Call log:
 2026-01-29-11:26:47,Netherlands,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
 2026-01-29-11:26:59,Netherlands,url exists,None
+2026-01-29-14:12:58,Netherlands,url exists,None
+2026-01-29-14:13:20,Netherlands,url exists,None
+2026-01-29-14:13:27,Netherlands,url exists,None
+2026-01-29-14:13:35,Netherlands,url exists,None
+2026-01-29-14:13:42,Netherlands,url exists,None
+2026-01-29-14:14:15,Netherlands,url exists,None
+2026-01-29-14:14:52,Netherlands,no popup,Timeout 30000ms exceeded.
+2026-01-29-14:15:54,Netherlands,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-14:16:24,Netherlands,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-14:16:35,Netherlands,url exists,None
+2026-01-29-14:16:47,Netherlands,url exists,None
+2026-01-29-14:16:54,Netherlands,url exists,None
