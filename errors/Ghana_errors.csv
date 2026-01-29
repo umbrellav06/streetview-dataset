@@ -448,3 +448,23 @@ Call log:"
 2026-01-29-20:01:56,Ghana,url exists,None
 2026-01-29-20:02:13,Ghana,url exists,None
 2026-01-29-20:02:14,Ghana,no images,None
+2026-01-29-22:03:48,Ghana,url exists,None
+2026-01-29-22:04:28,Ghana,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-22:04:58,Ghana,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-22:05:05,Ghana,url exists,None
+2026-01-29-22:05:12,Ghana,url exists,None
+2026-01-29-22:05:21,Ghana,url exists,None
+2026-01-29-22:05:58,Ghana,no popup,Timeout 30000ms exceeded.
+2026-01-29-22:06:06,Ghana,url exists,None
+2026-01-29-22:06:17,Ghana,url exists,None
+2026-01-29-22:06:28,Ghana,url exists,None
+2026-01-29-22:07:05,Ghana,no popup,Timeout 30000ms exceeded.
+2026-01-29-22:07:17,Ghana,url exists,None
+2026-01-29-22:07:30,Ghana,url exists,None
+2026-01-29-22:07:44,Ghana,url exists,None
+2026-01-29-22:08:21,Ghana,no popup,Timeout 30000ms exceeded.
+2026-01-29-22:08:58,Ghana,no popup,Timeout 30000ms exceeded.
+2026-01-29-22:08:58,Ghana,no images,None
