@@ -233,3 +233,15 @@ Call log:
 2026-01-29-11:13:13,Italy,url exists,None
 2026-01-29-11:13:28,Italy,url exists,None
 2026-01-29-11:13:42,Italy,url exists,None
+2026-01-29-14:24:30,Italy,url exists,None
+2026-01-29-14:24:32,Italy,world,None
+2026-01-29-14:25:56,Italy,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-14:26:26,Italy,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-14:26:47,Italy,url exists,None
+2026-01-29-14:26:56,Italy,url exists,None
+2026-01-29-14:27:05,Italy,url exists,None
+2026-01-29-14:27:14,Italy,url exists,None
+2026-01-29-14:28:02,Italy,world,None
