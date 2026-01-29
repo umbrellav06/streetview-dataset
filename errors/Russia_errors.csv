@@ -147,3 +147,13 @@ Call log:
 2026-01-29-08:08:40,Russia,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
 2026-01-29-08:08:50,Russia,url exists,None
+2026-01-29-11:10:42,Russia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-11:11:12,Russia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-11:11:32,Russia,url exists,None
+2026-01-29-11:11:39,Russia,url exists,None
+2026-01-29-11:11:47,Russia,url exists,None
+2026-01-29-11:13:11,Russia,url exists,None
+2026-01-29-11:14:25,Russia,url exists,None
