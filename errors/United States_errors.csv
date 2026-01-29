@@ -90,3 +90,15 @@ Call log:
 "
 2026-01-29-08:05:59,United States,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-01-29-11:11:25,United States,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-11:11:55,United States,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-11:12:34,United States,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-11:13:04,United States,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-11:14:01,United States,url exists,None
+2026-01-29-11:15:06,United States,url exists,None
