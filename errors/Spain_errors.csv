@@ -212,3 +212,12 @@ Call log:"
 2026-01-29-20:01:19,Spain,url exists,None
 2026-01-29-20:01:21,Spain,world,None
 2026-01-29-20:01:28,Spain,url exists,None
+2026-01-29-22:08:42,Spain,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-22:09:12,Spain,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-22:09:31,Spain,url exists,None
+2026-01-29-22:09:52,Spain,url exists,None
+2026-01-29-22:10:34,Spain,url exists,None
+2026-01-29-22:10:43,Spain,url exists,None
