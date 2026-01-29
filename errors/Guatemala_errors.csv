@@ -388,3 +388,27 @@ Call log:"
 2026-01-29-08:06:41,Guatemala,url exists,None
 2026-01-29-08:06:57,Guatemala,url exists,None
 2026-01-29-08:06:58,Guatemala,no images,None
+2026-01-29-11:05:37,Guatemala,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-11:06:07,Guatemala,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-11:06:14,Guatemala,url exists,None
+2026-01-29-11:06:21,Guatemala,url exists,None
+2026-01-29-11:06:28,Guatemala,url exists,None
+2026-01-29-11:06:37,Guatemala,url exists,None
+2026-01-29-11:06:47,Guatemala,url exists,None
+2026-01-29-11:06:58,Guatemala,url exists,None
+2026-01-29-11:07:09,Guatemala,url exists,None
+2026-01-29-11:07:21,Guatemala,url exists,None
+2026-01-29-11:07:35,Guatemala,url exists,None
+2026-01-29-11:07:48,Guatemala,url exists,None
+2026-01-29-11:08:01,Guatemala,url exists,None
+2026-01-29-11:08:14,Guatemala,url exists,None
+2026-01-29-11:08:57,Guatemala,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-11:09:27,Guatemala,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-11:09:42,Guatemala,url exists,None
+2026-01-29-11:09:42,Guatemala,no images,None
