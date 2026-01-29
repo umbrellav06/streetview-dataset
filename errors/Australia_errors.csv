@@ -159,3 +159,26 @@ Call log:"
 2026-01-29-08:05:13,Australia,url exists,None
 2026-01-29-08:05:50,Australia,no popup,Timeout 30000ms exceeded.
 2026-01-29-08:05:58,Australia,url exists,None
+2026-01-29-11:13:58,Australia,url exists,None
+2026-01-29-11:14:37,Australia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-11:15:07,Australia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-11:15:47,Australia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-11:16:17,Australia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-11:16:24,Australia,url exists,None
+2026-01-29-11:16:32,Australia,url exists,None
+2026-01-29-11:17:12,Australia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-11:17:42,Australia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-11:17:50,Australia,url exists,None
+2026-01-29-11:18:36,Australia,url exists,None
+2026-01-29-11:19:31,Australia,url exists,None
+2026-01-29-11:19:43,Australia,url exists,None
+2026-01-29-11:19:55,Australia,url exists,None
