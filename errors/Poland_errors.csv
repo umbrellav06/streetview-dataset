@@ -144,3 +144,12 @@ Call log:
 "
 2026-01-29-11:19:38,Poland,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-01-29-14:18:54,Poland,url exists,None
+2026-01-29-14:19:15,Poland,url exists,None
+2026-01-29-14:19:23,Poland,url exists,None
+2026-01-29-14:19:32,Poland,url exists,None
+2026-01-29-14:19:42,Poland,url exists,None
+2026-01-29-14:19:52,Poland,url exists,None
+2026-01-29-14:20:29,Poland,no popup,Timeout 30000ms exceeded.
+2026-01-29-14:21:08,Poland,url exists,None
+2026-01-29-14:21:22,Poland,url exists,None
