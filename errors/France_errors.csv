@@ -158,3 +158,15 @@ Call log:"
 2026-01-29-17:10:00,France,url exists,None
 2026-01-29-17:10:11,France,url exists,None
 2026-01-29-17:10:19,France,url exists,None
+2026-01-29-19:45:48,France,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-29-19:46:18,France,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-29-19:46:38,France,url exists,None
+2026-01-29-19:46:45,France,url exists,None
+2026-01-29-19:47:27,France,url exists,None
+2026-01-29-19:48:50,France,url exists,None
+2026-01-29-19:48:59,France,url exists,None
+2026-01-29-19:49:10,France,url exists,None
+2026-01-29-19:49:47,France,no popup,Timeout 30000ms exceeded.
