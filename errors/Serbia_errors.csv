@@ -392,3 +392,21 @@ Call log:"
 2026-01-30-16:26:47,Serbia,url exists,None
 2026-01-30-16:27:04,Serbia,url exists,None
 2026-01-30-16:27:04,Serbia,no images,None
+2026-01-30-19:52:02,Serbia,url exists,None
+2026-01-30-19:52:09,Serbia,url exists,None
+2026-01-30-19:52:49,Serbia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-19:53:19,Serbia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-19:53:26,Serbia,url exists,None
+2026-01-30-19:53:33,Serbia,url exists,None
+2026-01-30-19:54:10,Serbia,no popup,Timeout 30000ms exceeded.
+2026-01-30-19:54:17,Serbia,url exists,None
+2026-01-30-19:54:24,Serbia,url exists,None
+2026-01-30-19:54:35,Serbia,url exists,None
+2026-01-30-19:54:42,Serbia,url exists,None
+2026-01-30-19:54:49,Serbia,url exists,None
+2026-01-30-19:55:02,Serbia,url exists,None
+2026-01-30-19:55:38,Serbia,url exists,None
+2026-01-30-19:55:51,Serbia,url exists,None
