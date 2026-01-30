@@ -480,3 +480,23 @@ Call log:"
 2026-01-29-21:57:55,Austria,url exists,None
 2026-01-29-21:58:10,Austria,url exists,None
 2026-01-29-21:58:10,Austria,no images,None
+2026-01-30-05:13:04,Austria,url exists,None
+2026-01-30-05:13:11,Austria,url exists,None
+2026-01-30-05:13:51,Austria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-05:14:21,Austria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-05:14:28,Austria,url exists,None
+2026-01-30-05:14:37,Austria,url exists,None
+2026-01-30-05:14:47,Austria,url exists,None
+2026-01-30-05:14:57,Austria,url exists,None
+2026-01-30-05:15:07,Austria,url exists,None
+2026-01-30-05:15:18,Austria,url exists,None
+2026-01-30-05:15:55,Austria,url exists,None
+2026-01-30-05:16:10,Austria,url exists,None
+2026-01-30-05:16:23,Austria,url exists,None
+2026-01-30-05:16:38,Austria,url exists,None
+2026-01-30-05:16:54,Austria,url exists,None
+2026-01-30-05:17:01,Austria,url exists,None
+2026-01-30-05:17:01,Austria,no images,None
