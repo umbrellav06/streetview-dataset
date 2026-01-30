@@ -507,3 +507,27 @@ Call log:"
 2026-01-30-14:19:39,Belgium,url exists,None
 2026-01-30-14:19:57,Belgium,url exists,None
 2026-01-30-14:19:57,Belgium,no images,None
+2026-01-30-16:10:13,Belgium,url exists,None
+2026-01-30-16:10:20,Belgium,url exists,None
+2026-01-30-16:10:27,Belgium,url exists,None
+2026-01-30-16:10:35,Belgium,url exists,None
+2026-01-30-16:11:15,Belgium,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-16:11:45,Belgium,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-16:11:52,Belgium,url exists,None
+2026-01-30-16:12:00,Belgium,url exists,None
+2026-01-30-16:12:10,Belgium,url exists,None
+2026-01-30-16:12:21,Belgium,url exists,None
+2026-01-30-16:12:58,Belgium,no popup,Timeout 30000ms exceeded.
+2026-01-30-16:13:40,Belgium,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-16:14:10,Belgium,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-16:14:11,Belgium,world,None
+2026-01-30-16:14:25,Belgium,url exists,None
+2026-01-30-16:14:32,Belgium,url exists,None
+2026-01-30-16:14:46,Belgium,url exists,None
+2026-01-30-16:14:46,Belgium,no images,None
