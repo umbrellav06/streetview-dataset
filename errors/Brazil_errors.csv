@@ -303,3 +303,15 @@ Call log:"
 2026-01-30-16:12:36,Brazil,url exists,None
 2026-01-30-16:13:13,Brazil,no popup,Timeout 30000ms exceeded.
 2026-01-30-16:14:34,Brazil,url exists,None
+2026-01-30-19:48:21,Brazil,url exists,None
+2026-01-30-19:48:43,Brazil,url exists,None
+2026-01-30-19:48:50,Brazil,url exists,None
+2026-01-30-19:49:57,Brazil,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-19:50:27,Brazil,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-19:50:36,Brazil,url exists,None
+2026-01-30-19:50:43,Brazil,url exists,None
+2026-01-30-19:51:51,Brazil,url exists,None
+2026-01-30-19:53:07,Brazil,url exists,None
