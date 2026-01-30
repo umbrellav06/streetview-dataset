@@ -381,3 +381,21 @@ Call log:"
 2026-01-30-14:21:16,Singapore,no popup,Timeout 30000ms exceeded.
 2026-01-30-14:21:29,Singapore,url exists,None
 2026-01-30-14:21:45,Singapore,url exists,None
+2026-01-30-16:10:18,Singapore,url exists,None
+2026-01-30-16:10:25,Singapore,url exists,None
+2026-01-30-16:11:06,Singapore,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-16:11:36,Singapore,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-16:11:43,Singapore,url exists,None
+2026-01-30-16:11:52,Singapore,url exists,None
+2026-01-30-16:12:19,Singapore,url exists,None
+2026-01-30-16:12:27,Singapore,url exists,None
+2026-01-30-16:12:34,Singapore,url exists,None
+2026-01-30-16:12:41,Singapore,url exists,None
+2026-01-30-16:12:48,Singapore,url exists,None
+2026-01-30-16:12:55,Singapore,url exists,None
+2026-01-30-16:13:02,Singapore,url exists,None
+2026-01-30-16:13:19,Singapore,url exists,None
+2026-01-30-16:13:34,Singapore,url exists,None
