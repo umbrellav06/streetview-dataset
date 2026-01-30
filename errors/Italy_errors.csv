@@ -295,3 +295,15 @@ Call log:"
 2026-01-30-05:05:50,Italy,url exists,None
 2026-01-30-05:06:27,Italy,no popup,Timeout 30000ms exceeded.
 2026-01-30-05:06:35,Italy,url exists,None
+2026-01-30-08:16:14,Italy,url exists,None
+2026-01-30-08:16:21,Italy,url exists,None
+2026-01-30-08:16:47,Italy,url exists,None
+2026-01-30-08:18:22,Italy,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-08:18:52,Italy,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-08:19:00,Italy,url exists,None
+2026-01-30-08:19:10,Italy,url exists,None
+2026-01-30-08:19:41,Italy,url exists,None
+2026-01-30-08:19:53,Italy,url exists,None
