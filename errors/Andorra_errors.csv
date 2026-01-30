@@ -536,3 +536,23 @@ Call log:"
 2026-01-30-14:11:04,Andorra,no popup,Timeout 30000ms exceeded.
 2026-01-30-14:11:20,Andorra,url exists,None
 2026-01-30-14:11:20,Andorra,no images,None
+2026-01-30-16:06:00,Andorra,url exists,None
+2026-01-30-16:06:07,Andorra,url exists,None
+2026-01-30-16:06:47,Andorra,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-16:07:17,Andorra,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-16:07:24,Andorra,url exists,None
+2026-01-30-16:07:30,Andorra,url exists,None
+2026-01-30-16:07:38,Andorra,url exists,None
+2026-01-30-16:07:45,Andorra,url exists,None
+2026-01-30-16:07:54,Andorra,url exists,None
+2026-01-30-16:08:32,Andorra,no popup,Timeout 30000ms exceeded.
+2026-01-30-16:08:44,Andorra,url exists,None
+2026-01-30-16:08:51,Andorra,url exists,None
+2026-01-30-16:08:58,Andorra,url exists,None
+2026-01-30-16:09:11,Andorra,url exists,None
+2026-01-30-16:09:26,Andorra,url exists,None
+2026-01-30-16:09:40,Andorra,url exists,None
+2026-01-30-16:09:41,Andorra,no images,None
