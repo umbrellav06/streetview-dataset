@@ -321,3 +321,25 @@ Call log:"
 2026-01-30-10:19:11,Portugal,url exists,None
 2026-01-30-10:19:47,Portugal,url exists,None
 2026-01-30-10:20:01,Portugal,url exists,None
+2026-01-30-14:13:12,Portugal,url exists,None
+2026-01-30-14:13:19,Portugal,url exists,None
+2026-01-30-14:13:26,Portugal,url exists,None
+2026-01-30-14:13:34,Portugal,url exists,None
+2026-01-30-14:13:42,Portugal,url exists,None
+2026-01-30-14:13:49,Portugal,url exists,None
+2026-01-30-14:14:00,Portugal,url exists,None
+2026-01-30-14:14:28,Portugal,url exists,None
+2026-01-30-14:15:10,Portugal,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-14:15:40,Portugal,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-14:15:47,Portugal,url exists,None
+2026-01-30-14:16:00,Portugal,url exists,None
+2026-01-30-14:16:07,Portugal,url exists,None
+2026-01-30-14:16:14,Portugal,url exists,None
+2026-01-30-14:16:57,Portugal,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-14:17:27,Portugal,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
