@@ -321,3 +321,16 @@ Call log:"
 2026-01-30-10:12:49,Italy,url exists,None
 2026-01-30-10:12:57,Italy,url exists,None
 2026-01-30-10:13:04,Italy,url exists,None
+2026-01-30-14:25:05,Italy,url exists,None
+2026-01-30-14:25:12,Italy,url exists,None
+2026-01-30-14:26:10,Italy,url exists,None
+2026-01-30-14:26:19,Italy,url exists,None
+2026-01-30-14:26:28,Italy,url exists,None
+2026-01-30-14:26:39,Italy,url exists,None
+2026-01-30-14:26:50,Italy,url exists,None
+2026-01-30-14:27:31,Italy,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-14:28:01,Italy,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-14:28:40,Italy,url exists,None
