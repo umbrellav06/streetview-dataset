@@ -272,3 +272,19 @@ Call log:"
 2026-01-29-22:12:56,Portugal,url exists,None
 2026-01-29-22:13:03,Portugal,url exists,None
 2026-01-29-22:13:20,Portugal,url exists,None
+2026-01-30-05:13:13,Portugal,url exists,None
+2026-01-30-05:13:20,Portugal,url exists,None
+2026-01-30-05:14:00,Portugal,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-05:14:30,Portugal,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-05:14:56,Portugal,url exists,None
+2026-01-30-05:15:24,Portugal,url exists,None
+2026-01-30-05:15:34,Portugal,url exists,None
+2026-01-30-05:15:44,Portugal,url exists,None
+2026-01-30-05:15:57,Portugal,url exists,None
+2026-01-30-05:16:10,Portugal,url exists,None
+2026-01-30-05:16:53,Portugal,url exists,None
+2026-01-30-05:17:06,Portugal,url exists,None
+2026-01-30-05:17:20,Portugal,url exists,None
