@@ -414,3 +414,21 @@ Call log:"
 2026-01-30-19:56:00,Bulgaria,url exists,None
 2026-01-30-19:56:14,Bulgaria,url exists,None
 2026-01-30-19:56:31,Bulgaria,url exists,None
+2026-01-30-22:05:14,Bulgaria,url exists,None
+2026-01-30-22:05:21,Bulgaria,url exists,None
+2026-01-30-22:06:00,Bulgaria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-22:06:30,Bulgaria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-22:06:38,Bulgaria,url exists,None
+2026-01-30-22:07:03,Bulgaria,url exists,None
+2026-01-30-22:07:10,Bulgaria,url exists,None
+2026-01-30-22:07:17,Bulgaria,url exists,None
+2026-01-30-22:07:24,Bulgaria,url exists,None
+2026-01-30-22:08:02,Bulgaria,no popup,Timeout 30000ms exceeded.
+2026-01-30-22:08:09,Bulgaria,url exists,None
+2026-01-30-22:08:16,Bulgaria,url exists,None
+2026-01-30-22:08:23,Bulgaria,url exists,None
+2026-01-30-22:08:30,Bulgaria,url exists,None
+2026-01-30-22:08:37,Bulgaria,url exists,None
