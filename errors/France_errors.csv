@@ -211,3 +211,14 @@ Call log:"
 2026-01-30-10:16:44,France,url exists,None
 2026-01-30-10:16:52,France,url exists,None
 2026-01-30-10:17:30,France,url exists,None
+2026-01-30-14:19:20,France,url exists,None
+2026-01-30-14:19:43,France,url exists,None
+2026-01-30-14:20:10,France,url exists,None
+2026-01-30-14:20:20,France,url exists,None
+2026-01-30-14:21:44,France,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-14:22:14,France,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-14:22:46,France,url exists,None
+2026-01-30-14:23:19,France,url exists,None
