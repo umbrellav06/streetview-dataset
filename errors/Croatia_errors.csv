@@ -249,3 +249,23 @@ Call log:"
 2026-01-30-19:49:58,Croatia,url exists,None
 2026-01-30-19:50:35,Croatia,url exists,None
 2026-01-30-19:51:27,Croatia,url exists,None
+2026-01-30-21:55:17,Croatia,url exists,None
+2026-01-30-21:56:38,Croatia,url exists,None
+2026-01-30-21:57:18,Croatia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-21:57:48,Croatia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-21:57:56,Croatia,url exists,None
+2026-01-30-21:58:35,Croatia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-21:59:05,Croatia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-21:59:45,Croatia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-22:00:15,Croatia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-22:00:42,Croatia,url exists,None
+2026-01-30-22:01:11,Croatia,url exists,None
