@@ -201,3 +201,13 @@ Call log:
 "
 2026-01-30-08:17:21,Poland,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-01-30-10:19:43,Poland,url exists,None
+2026-01-30-10:20:04,Poland,url exists,None
+2026-01-30-10:20:12,Poland,url exists,None
+2026-01-30-10:20:21,Poland,url exists,None
+2026-01-30-10:20:59,Poland,no popup,Timeout 30000ms exceeded.
+2026-01-30-10:21:33,Poland,url exists,None
+2026-01-30-10:23:01,Poland,no popup,Timeout 30000ms exceeded.
+2026-01-30-10:23:38,Poland,no popup,Timeout 30000ms exceeded.
+2026-01-30-10:23:51,Poland,url exists,None
+2026-01-30-10:24:05,Poland,url exists,None
