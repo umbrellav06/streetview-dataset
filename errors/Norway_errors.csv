@@ -318,3 +318,20 @@ Call log:"
 2026-01-30-08:06:04,Norway,no popup,Timeout 30000ms exceeded.
 2026-01-30-08:06:11,Norway,url exists,None
 2026-01-30-08:06:51,Norway,url exists,None
+2026-01-30-10:06:58,Norway,url exists,None
+2026-01-30-10:07:05,Norway,url exists,None
+2026-01-30-10:07:14,Norway,url exists,None
+2026-01-30-10:07:22,Norway,url exists,None
+2026-01-30-10:08:04,Norway,url exists,None
+2026-01-30-10:08:14,Norway,url exists,None
+2026-01-30-10:08:25,Norway,url exists,None
+2026-01-30-10:08:56,Norway,url exists,None
+2026-01-30-10:09:37,Norway,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-10:10:07,Norway,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-10:10:18,Norway,url exists,None
+2026-01-30-10:10:31,Norway,url exists,None
+2026-01-30-10:10:38,Norway,url exists,None
+2026-01-30-10:10:54,Norway,url exists,None
