@@ -573,3 +573,23 @@ Call log:
 Call log:"
 2026-01-30-20:07:25,Montenegro,url exists,None
 2026-01-30-20:07:25,Montenegro,no images,None
+2026-01-30-22:08:31,Montenegro,url exists,None
+2026-01-30-22:08:38,Montenegro,url exists,None
+2026-01-30-22:08:45,Montenegro,url exists,None
+2026-01-30-22:09:25,Montenegro,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-22:09:55,Montenegro,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-22:10:03,Montenegro,url exists,None
+2026-01-30-22:10:12,Montenegro,url exists,None
+2026-01-30-22:10:22,Montenegro,url exists,None
+2026-01-30-22:10:32,Montenegro,url exists,None
+2026-01-30-22:10:44,Montenegro,url exists,None
+2026-01-30-22:10:57,Montenegro,url exists,None
+2026-01-30-22:11:09,Montenegro,url exists,None
+2026-01-30-22:11:22,Montenegro,url exists,None
+2026-01-30-22:11:36,Montenegro,url exists,None
+2026-01-30-22:11:50,Montenegro,url exists,None
+2026-01-30-22:12:28,Montenegro,no popup,Timeout 30000ms exceeded.
+2026-01-30-22:12:28,Montenegro,no images,None
