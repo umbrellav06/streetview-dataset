@@ -288,3 +288,20 @@ Call log:"
 2026-01-30-05:16:53,Portugal,url exists,None
 2026-01-30-05:17:06,Portugal,url exists,None
 2026-01-30-05:17:20,Portugal,url exists,None
+2026-01-30-08:07:46,Portugal,url exists,None
+2026-01-30-08:07:53,Portugal,url exists,None
+2026-01-30-08:08:00,Portugal,url exists,None
+2026-01-30-08:08:08,Portugal,url exists,None
+2026-01-30-08:08:16,Portugal,url exists,None
+2026-01-30-08:08:45,Portugal,url exists,None
+2026-01-30-08:08:55,Portugal,url exists,None
+2026-01-30-08:10:01,Portugal,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-08:10:31,Portugal,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-08:10:42,Portugal,url exists,None
+2026-01-30-08:10:49,Portugal,url exists,None
+2026-01-30-08:11:03,Portugal,url exists,None
+2026-01-30-08:11:17,Portugal,url exists,None
+2026-01-30-08:11:31,Portugal,url exists,None
