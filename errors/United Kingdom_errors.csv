@@ -254,3 +254,14 @@ Call log:"
 2026-01-30-20:09:38,United Kingdom,url exists,None
 2026-01-30-20:10:07,United Kingdom,url exists,None
 2026-01-30-20:10:44,United Kingdom,url exists,None
+2026-01-30-22:03:58,United Kingdom,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-22:04:28,United Kingdom,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-22:04:35,United Kingdom,url exists,None
+2026-01-30-22:05:10,United Kingdom,url exists,None
+2026-01-30-22:05:51,United Kingdom,url exists,None
+2026-01-30-22:06:00,United Kingdom,url exists,None
+2026-01-30-22:07:05,United Kingdom,url exists,None
+2026-01-30-22:07:37,United Kingdom,url exists,None
