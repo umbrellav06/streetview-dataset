@@ -290,3 +290,21 @@ Call log:"
 2026-01-30-14:25:17,Slovenia,url exists,None
 2026-01-30-14:25:44,Slovenia,url exists,None
 2026-01-30-14:25:56,Slovenia,url exists,None
+2026-01-30-16:16:16,Slovenia,url exists,None
+2026-01-30-16:16:23,Slovenia,url exists,None
+2026-01-30-16:16:30,Slovenia,url exists,None
+2026-01-30-16:16:54,Slovenia,url exists,None
+2026-01-30-16:17:22,Slovenia,url exists,None
+2026-01-30-16:18:21,Slovenia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-16:18:51,Slovenia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-16:18:58,Slovenia,url exists,None
+2026-01-30-16:19:09,Slovenia,url exists,None
+2026-01-30-16:20:10,Slovenia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-16:20:40,Slovenia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-16:21:13,Slovenia,url exists,None
