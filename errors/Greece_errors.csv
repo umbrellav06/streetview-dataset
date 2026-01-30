@@ -369,3 +369,27 @@ Call log:"
 2026-01-30-16:09:03,Greece,url exists,None
 2026-01-30-16:09:10,Greece,url exists,None
 2026-01-30-16:09:24,Greece,url exists,None
+2026-01-30-19:52:19,Greece,url exists,None
+2026-01-30-19:52:27,Greece,url exists,None
+2026-01-30-19:52:35,Greece,url exists,None
+2026-01-30-19:52:43,Greece,url exists,None
+2026-01-30-19:53:23,Greece,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-19:53:53,Greece,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-19:54:03,Greece,url exists,None
+2026-01-30-19:54:13,Greece,url exists,None
+2026-01-30-19:54:23,Greece,url exists,None
+2026-01-30-19:55:04,Greece,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-19:55:34,Greece,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-19:55:45,Greece,url exists,None
+2026-01-30-19:55:58,Greece,url exists,None
+2026-01-30-19:56:11,Greece,url exists,None
+2026-01-30-19:56:24,Greece,url exists,None
+2026-01-30-19:56:39,Greece,url exists,None
+2026-01-30-19:56:54,Greece,url exists,None
+2026-01-30-19:56:54,Greece,no images,None
