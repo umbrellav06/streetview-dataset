@@ -338,3 +338,24 @@ Call log:"
 2026-01-30-07:59:53,Finland,url exists,None
 2026-01-30-08:00:06,Finland,url exists,None
 2026-01-30-08:00:20,Finland,url exists,None
+2026-01-30-10:06:44,Finland,url exists,None
+2026-01-30-10:06:51,Finland,url exists,None
+2026-01-30-10:07:14,Finland,url exists,None
+2026-01-30-10:07:50,Finland,url exists,None
+2026-01-30-10:09:46,Finland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-10:10:16,Finland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-10:10:56,Finland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-10:11:26,Finland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-10:11:33,Finland,url exists,None
+2026-01-30-10:11:40,Finland,url exists,None
+2026-01-30-10:11:47,Finland,url exists,None
+2026-01-30-10:11:55,Finland,url exists,None
+2026-01-30-10:12:07,Finland,url exists,None
+2026-01-30-10:12:14,Finland,url exists,None
+2026-01-30-10:12:51,Finland,no popup,Timeout 30000ms exceeded.
