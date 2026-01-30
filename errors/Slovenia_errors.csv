@@ -263,3 +263,16 @@ Call log:"
 2026-01-30-08:15:15,Slovenia,url exists,None
 2026-01-30-08:16:20,Slovenia,url exists,None
 2026-01-30-08:16:33,Slovenia,url exists,None
+2026-01-30-10:20:50,Slovenia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-10:21:20,Slovenia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-10:21:22,Slovenia,world,None
+2026-01-30-10:21:28,Slovenia,url exists,None
+2026-01-30-10:22:03,Slovenia,url exists,None
+2026-01-30-10:22:10,Slovenia,url exists,None
+2026-01-30-10:22:52,Slovenia,url exists,None
+2026-01-30-10:22:59,Slovenia,url exists,None
+2026-01-30-10:23:29,Slovenia,url exists,None
+2026-01-30-10:23:36,Slovenia,url exists,None
