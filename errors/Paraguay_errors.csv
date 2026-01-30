@@ -592,3 +592,23 @@ Call log:"
 2026-01-30-19:57:38,Paraguay,url exists,None
 2026-01-30-19:57:52,Paraguay,url exists,None
 2026-01-30-19:57:52,Paraguay,no images,None
+2026-01-30-21:56:24,Paraguay,url exists,None
+2026-01-30-21:56:31,Paraguay,url exists,None
+2026-01-30-21:56:39,Paraguay,url exists,None
+2026-01-30-21:56:46,Paraguay,url exists,None
+2026-01-30-21:56:55,Paraguay,url exists,None
+2026-01-30-21:57:32,Paraguay,no popup,Timeout 30000ms exceeded.
+2026-01-30-21:57:43,Paraguay,url exists,None
+2026-01-30-21:58:20,Paraguay,no popup,Timeout 30000ms exceeded.
+2026-01-30-21:58:31,Paraguay,url exists,None
+2026-01-30-21:58:43,Paraguay,url exists,None
+2026-01-30-21:59:20,Paraguay,no popup,Timeout 30000ms exceeded.
+2026-01-30-21:59:33,Paraguay,url exists,None
+2026-01-30-22:00:16,Paraguay,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-22:00:46,Paraguay,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-22:01:01,Paraguay,url exists,None
+2026-01-30-22:01:08,Paraguay,url exists,None
+2026-01-30-22:01:09,Paraguay,no images,None
