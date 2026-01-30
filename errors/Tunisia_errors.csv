@@ -603,3 +603,23 @@ Call log:"
 2026-01-30-08:09:38,Tunisia,url exists,None
 2026-01-30-08:09:55,Tunisia,url exists,None
 2026-01-30-08:09:56,Tunisia,no images,None
+2026-01-30-10:26:12,Tunisia,url exists,None
+2026-01-30-10:26:19,Tunisia,url exists,None
+2026-01-30-10:26:26,Tunisia,url exists,None
+2026-01-30-10:26:33,Tunisia,url exists,None
+2026-01-30-10:26:40,Tunisia,url exists,None
+2026-01-30-10:26:50,Tunisia,url exists,None
+2026-01-30-10:27:27,Tunisia,no popup,Timeout 30000ms exceeded.
+2026-01-30-10:27:39,Tunisia,url exists,None
+2026-01-30-10:27:46,Tunisia,url exists,None
+2026-01-30-10:28:27,Tunisia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-10:28:57,Tunisia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-10:29:04,Tunisia,url exists,None
+2026-01-30-10:29:11,Tunisia,url exists,None
+2026-01-30-10:29:25,Tunisia,url exists,None
+2026-01-30-10:29:32,Tunisia,url exists,None
+2026-01-30-10:29:50,Tunisia,url exists,None
+2026-01-30-10:29:50,Tunisia,no images,None
