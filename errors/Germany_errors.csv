@@ -280,3 +280,16 @@ Call log:
 "
 2026-01-30-20:07:05,Germany,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-01-30-21:50:46,Germany,url exists,None
+2026-01-30-21:50:53,Germany,url exists,None
+2026-01-30-21:51:01,Germany,url exists,None
+2026-01-30-21:51:10,Germany,url exists,None
+2026-01-30-21:52:08,Germany,url exists,None
+2026-01-30-21:52:18,Germany,url exists,None
+2026-01-30-21:52:29,Germany,url exists,None
+2026-01-30-21:53:06,Germany,no popup,Timeout 30000ms exceeded.
+2026-01-30-21:53:19,Germany,url exists,None
+2026-01-30-21:54:02,Germany,url exists,None
+2026-01-30-21:54:03,Germany,world,None
+2026-01-30-21:54:17,Germany,url exists,None
+2026-01-30-21:54:31,Germany,url exists,None
