@@ -264,3 +264,20 @@ Call log:"
 2026-01-29-21:59:16,Mexico,url exists,None
 2026-01-29-21:59:30,Mexico,url exists,None
 2026-01-29-21:59:43,Mexico,url exists,None
+2026-01-30-05:14:12,Mexico,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-05:14:42,Mexico,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-05:14:49,Mexico,url exists,None
+2026-01-30-05:14:56,Mexico,url exists,None
+2026-01-30-05:15:39,Mexico,url exists,None
+2026-01-30-05:15:47,Mexico,url exists,None
+2026-01-30-05:15:56,Mexico,url exists,None
+2026-01-30-05:16:34,Mexico,no popup,Timeout 30000ms exceeded.
+2026-01-30-05:16:45,Mexico,url exists,None
+2026-01-30-05:16:58,Mexico,url exists,None
+2026-01-30-05:17:10,Mexico,url exists,None
+2026-01-30-05:17:23,Mexico,url exists,None
+2026-01-30-05:17:37,Mexico,url exists,None
+2026-01-30-05:17:53,Mexico,url exists,None
