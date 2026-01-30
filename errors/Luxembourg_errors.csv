@@ -483,3 +483,23 @@ Call log:"
 2026-01-30-10:19:22,Luxembourg,url exists,None
 2026-01-30-10:19:29,Luxembourg,url exists,None
 2026-01-30-10:19:29,Luxembourg,no images,None
+2026-01-30-14:27:21,Luxembourg,url exists,None
+2026-01-30-14:27:28,Luxembourg,url exists,None
+2026-01-30-14:27:37,Luxembourg,url exists,None
+2026-01-30-14:27:46,Luxembourg,url exists,None
+2026-01-30-14:27:56,Luxembourg,url exists,None
+2026-01-30-14:28:06,Luxembourg,url exists,None
+2026-01-30-14:28:14,Luxembourg,url exists,None
+2026-01-30-14:28:26,Luxembourg,url exists,None
+2026-01-30-14:28:39,Luxembourg,url exists,None
+2026-01-30-14:28:52,Luxembourg,url exists,None
+2026-01-30-14:29:07,Luxembourg,url exists,None
+2026-01-30-14:29:20,Luxembourg,url exists,None
+2026-01-30-14:30:04,Luxembourg,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-14:30:34,Luxembourg,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-14:30:50,Luxembourg,url exists,None
+2026-01-30-14:31:06,Luxembourg,url exists,None
+2026-01-30-14:31:07,Luxembourg,no images,None
