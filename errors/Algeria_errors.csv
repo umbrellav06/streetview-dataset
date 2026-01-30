@@ -591,3 +591,23 @@ Call log:"
 2026-01-30-19:56:03,Algeria,url exists,None
 2026-01-30-19:56:21,Algeria,url exists,None
 2026-01-30-19:56:21,Algeria,no images,None
+2026-01-30-21:54:38,Algeria,url exists,None
+2026-01-30-21:54:44,Algeria,url exists,None
+2026-01-30-21:55:24,Algeria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-21:55:54,Algeria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-21:56:02,Algeria,url exists,None
+2026-01-30-21:56:09,Algeria,url exists,None
+2026-01-30-21:56:16,Algeria,url exists,None
+2026-01-30-21:56:23,Algeria,url exists,None
+2026-01-30-21:56:34,Algeria,url exists,None
+2026-01-30-21:56:41,Algeria,url exists,None
+2026-01-30-21:56:48,Algeria,url exists,None
+2026-01-30-21:57:01,Algeria,url exists,None
+2026-01-30-21:57:08,Algeria,url exists,None
+2026-01-30-21:57:15,Algeria,url exists,None
+2026-01-30-21:57:22,Algeria,url exists,None
+2026-01-30-21:57:59,Algeria,no popup,Timeout 30000ms exceeded.
+2026-01-30-21:57:59,Algeria,no images,None
