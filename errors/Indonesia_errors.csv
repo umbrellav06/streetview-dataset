@@ -282,3 +282,17 @@ Call log:"
 2026-01-30-14:10:16,Indonesia,url exists,None
 2026-01-30-14:11:57,Indonesia,url exists,None
 2026-01-30-14:12:23,Indonesia,url exists,None
+2026-01-30-16:10:01,Indonesia,url exists,None
+2026-01-30-16:10:08,Indonesia,url exists,None
+2026-01-30-16:10:47,Indonesia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-16:11:17,Indonesia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-16:11:25,Indonesia,url exists,None
+2026-01-30-16:12:15,Indonesia,world,None
+2026-01-30-16:12:22,Indonesia,url exists,None
+2026-01-30-16:13:00,Indonesia,no popup,Timeout 30000ms exceeded.
+2026-01-30-16:13:30,Indonesia,url exists,None
+2026-01-30-16:13:37,Indonesia,url exists,None
+2026-01-30-16:13:48,Indonesia,url exists,None
