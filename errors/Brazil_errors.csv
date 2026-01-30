@@ -270,3 +270,24 @@ Call log:"
 2026-01-30-10:09:52,Brazil,url exists,None
 2026-01-30-10:10:05,Brazil,url exists,None
 2026-01-30-10:10:42,Brazil,no popup,Timeout 30000ms exceeded.
+2026-01-30-14:08:51,Brazil,url exists,None
+2026-01-30-14:08:58,Brazil,url exists,None
+2026-01-30-14:09:06,Brazil,url exists,None
+2026-01-30-14:10:05,Brazil,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-14:10:35,Brazil,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-14:10:44,Brazil,url exists,None
+2026-01-30-14:10:53,Brazil,url exists,None
+2026-01-30-14:11:03,Brazil,url exists,None
+2026-01-30-14:11:14,Brazil,url exists,None
+2026-01-30-14:11:26,Brazil,url exists,None
+2026-01-30-14:11:39,Brazil,url exists,None
+2026-01-30-14:12:20,Brazil,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-14:12:50,Brazil,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-14:13:06,Brazil,url exists,None
+2026-01-30-14:13:46,Brazil,url exists,None
