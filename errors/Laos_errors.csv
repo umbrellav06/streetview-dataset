@@ -544,3 +544,23 @@ Call log:"
 2026-01-30-19:56:07,Laos,url exists,None
 2026-01-30-19:56:24,Laos,url exists,None
 2026-01-30-19:56:25,Laos,no images,None
+2026-01-30-21:51:21,Laos,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-21:51:51,Laos,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-21:51:58,Laos,url exists,None
+2026-01-30-21:52:06,Laos,url exists,None
+2026-01-30-21:52:14,Laos,url exists,None
+2026-01-30-21:52:24,Laos,url exists,None
+2026-01-30-21:52:33,Laos,url exists,None
+2026-01-30-21:52:43,Laos,url exists,None
+2026-01-30-21:52:54,Laos,url exists,None
+2026-01-30-21:53:06,Laos,url exists,None
+2026-01-30-21:53:19,Laos,url exists,None
+2026-01-30-21:53:56,Laos,no popup,Timeout 30000ms exceeded.
+2026-01-30-21:54:10,Laos,url exists,None
+2026-01-30-21:54:26,Laos,url exists,None
+2026-01-30-21:54:42,Laos,url exists,None
+2026-01-30-21:55:19,Laos,no popup,Timeout 30000ms exceeded.
+2026-01-30-21:55:19,Laos,no images,None
