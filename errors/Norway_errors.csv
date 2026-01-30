@@ -349,3 +349,20 @@ Call log:"
 2026-01-30-14:26:20,Norway,url exists,None
 2026-01-30-14:26:28,Norway,url exists,None
 2026-01-30-14:26:35,Norway,url exists,None
+2026-01-30-16:16:41,Norway,url exists,None
+2026-01-30-16:16:48,Norway,url exists,None
+2026-01-30-16:16:56,Norway,url exists,None
+2026-01-30-16:17:03,Norway,url exists,None
+2026-01-30-16:17:10,Norway,url exists,None
+2026-01-30-16:17:47,Norway,no popup,Timeout 30000ms exceeded.
+2026-01-30-16:18:24,Norway,no popup,Timeout 30000ms exceeded.
+2026-01-30-16:18:36,Norway,url exists,None
+2026-01-30-16:19:40,Norway,no popup,Timeout 30000ms exceeded.
+2026-01-30-16:19:47,Norway,url exists,None
+2026-01-30-16:19:54,Norway,url exists,None
+2026-01-30-16:20:36,Norway,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-16:21:06,Norway,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-16:21:46,Norway,url exists,None
