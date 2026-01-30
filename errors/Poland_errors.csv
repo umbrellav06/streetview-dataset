@@ -218,3 +218,14 @@ Call log:"
 2026-01-30-14:16:33,Poland,url exists,None
 2026-01-30-14:17:21,Poland,url exists,None
 2026-01-30-14:17:32,Poland,url exists,None
+2026-01-30-16:13:04,Poland,url exists,None
+2026-01-30-16:13:11,Poland,url exists,None
+2026-01-30-16:13:37,Poland,url exists,None
+2026-01-30-16:13:47,Poland,url exists,None
+2026-01-30-16:13:56,Poland,url exists,None
+2026-01-30-16:15:14,Poland,url exists,None
+2026-01-30-16:16:43,Poland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-16:17:13,Poland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
