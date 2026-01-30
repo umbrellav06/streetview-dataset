@@ -399,3 +399,21 @@ Call log:"
 2026-01-30-16:13:02,Singapore,url exists,None
 2026-01-30-16:13:19,Singapore,url exists,None
 2026-01-30-16:13:34,Singapore,url exists,None
+2026-01-30-19:59:53,Singapore,url exists,None
+2026-01-30-20:00:00,Singapore,url exists,None
+2026-01-30-20:00:09,Singapore,url exists,None
+2026-01-30-20:00:16,Singapore,url exists,None
+2026-01-30-20:00:53,Singapore,no popup,Timeout 30000ms exceeded.
+2026-01-30-20:01:00,Singapore,url exists,None
+2026-01-30-20:01:12,Singapore,url exists,None
+2026-01-30-20:01:50,Singapore,url exists,None
+2026-01-30-20:02:02,Singapore,url exists,None
+2026-01-30-20:02:16,Singapore,url exists,None
+2026-01-30-20:02:58,Singapore,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-20:03:28,Singapore,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-20:03:35,Singapore,url exists,None
+2026-01-30-20:03:50,Singapore,url exists,None
+2026-01-30-20:04:05,Singapore,url exists,None
