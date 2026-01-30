@@ -647,3 +647,31 @@ Call log:"
 2026-01-30-14:30:36,Tunisia,url exists,None
 2026-01-30-14:30:54,Tunisia,url exists,None
 2026-01-30-14:30:54,Tunisia,no images,None
+2026-01-30-16:22:31,Tunisia,url exists,None
+2026-01-30-16:22:38,Tunisia,url exists,None
+2026-01-30-16:23:17,Tunisia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-16:23:47,Tunisia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-16:23:54,Tunisia,url exists,None
+2026-01-30-16:24:03,Tunisia,url exists,None
+2026-01-30-16:24:13,Tunisia,url exists,None
+2026-01-30-16:24:53,Tunisia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-16:25:23,Tunisia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-16:25:33,Tunisia,url exists,None
+2026-01-30-16:25:44,Tunisia,url exists,None
+2026-01-30-16:25:56,Tunisia,url exists,None
+2026-01-30-16:26:37,Tunisia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-16:27:07,Tunisia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-16:27:19,Tunisia,url exists,None
+2026-01-30-16:27:33,Tunisia,url exists,None
+2026-01-30-16:27:46,Tunisia,url exists,None
+2026-01-30-16:28:00,Tunisia,url exists,None
+2026-01-30-16:28:01,Tunisia,no images,None
