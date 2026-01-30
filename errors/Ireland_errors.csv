@@ -415,3 +415,21 @@ Call log:"
 2026-01-30-10:08:55,Ireland,url exists,None
 2026-01-30-10:09:06,Ireland,url exists,None
 2026-01-30-10:09:07,Ireland,no images,None
+2026-01-30-14:17:54,Ireland,url exists,None
+2026-01-30-14:18:34,Ireland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-14:19:04,Ireland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-14:19:11,Ireland,url exists,None
+2026-01-30-14:19:19,Ireland,url exists,None
+2026-01-30-14:19:26,Ireland,url exists,None
+2026-01-30-14:19:55,Ireland,url exists,None
+2026-01-30-14:20:04,Ireland,url exists,None
+2026-01-30-14:20:15,Ireland,url exists,None
+2026-01-30-14:20:27,Ireland,url exists,None
+2026-01-30-14:20:34,Ireland,url exists,None
+2026-01-30-14:20:48,Ireland,url exists,None
+2026-01-30-14:21:02,Ireland,url exists,None
+2026-01-30-14:21:16,Ireland,url exists,None
+2026-01-30-14:21:33,Ireland,url exists,None
