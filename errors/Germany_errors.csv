@@ -229,3 +229,16 @@ Call log:"
 2026-01-30-08:04:25,Germany,url exists,None
 2026-01-30-08:04:38,Germany,url exists,None
 2026-01-30-08:04:53,Germany,url exists,None
+2026-01-30-10:12:36,Germany,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-10:13:06,Germany,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-10:13:39,Germany,url exists,None
+2026-01-30-10:13:46,Germany,url exists,None
+2026-01-30-10:13:53,Germany,url exists,None
+2026-01-30-10:14:02,Germany,url exists,None
+2026-01-30-10:14:12,Germany,url exists,None
+2026-01-30-10:14:20,Germany,url exists,None
+2026-01-30-10:14:48,Germany,url exists,None
+2026-01-30-10:15:46,Germany,no popup,Timeout 30000ms exceeded.
