@@ -326,3 +326,19 @@ Call log:
 2026-01-30-10:25:48,Ukraine,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
 2026-01-30-10:26:02,Ukraine,url exists,None
+2026-01-30-14:22:24,Ukraine,url exists,None
+2026-01-30-14:22:31,Ukraine,url exists,None
+2026-01-30-14:22:39,Ukraine,url exists,None
+2026-01-30-14:23:05,Ukraine,url exists,None
+2026-01-30-14:23:14,Ukraine,url exists,None
+2026-01-30-14:23:44,Ukraine,url exists,None
+2026-01-30-14:23:51,Ukraine,url exists,None
+2026-01-30-14:24:29,Ukraine,no popup,Timeout 30000ms exceeded.
+2026-01-30-14:25:10,Ukraine,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-14:25:40,Ukraine,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-14:25:52,Ukraine,url exists,None
+2026-01-30-14:26:05,Ukraine,url exists,None
+2026-01-30-14:26:18,Ukraine,url exists,None
