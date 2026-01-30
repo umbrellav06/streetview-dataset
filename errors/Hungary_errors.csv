@@ -409,3 +409,23 @@ Call log:"
 2026-01-30-10:12:45,Hungary,url exists,None
 2026-01-30-10:13:02,Hungary,url exists,None
 2026-01-30-10:13:02,Hungary,no images,None
+2026-01-30-14:15:52,Hungary,url exists,None
+2026-01-30-14:15:59,Hungary,url exists,None
+2026-01-30-14:16:07,Hungary,url exists,None
+2026-01-30-14:16:17,Hungary,url exists,None
+2026-01-30-14:16:26,Hungary,url exists,None
+2026-01-30-14:16:36,Hungary,url exists,None
+2026-01-30-14:16:48,Hungary,url exists,None
+2026-01-30-14:17:01,Hungary,url exists,None
+2026-01-30-14:17:14,Hungary,url exists,None
+2026-01-30-14:17:28,Hungary,url exists,None
+2026-01-30-14:17:42,Hungary,url exists,None
+2026-01-30-14:17:58,Hungary,url exists,None
+2026-01-30-14:18:43,Hungary,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-14:19:13,Hungary,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-14:19:29,Hungary,url exists,None
+2026-01-30-14:19:45,Hungary,url exists,None
+2026-01-30-14:19:45,Hungary,no images,None
