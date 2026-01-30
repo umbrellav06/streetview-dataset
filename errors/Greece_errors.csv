@@ -302,3 +302,17 @@ Call log:
 "
 2026-01-30-05:14:07,Greece,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-01-30-08:11:36,Greece,url exists,None
+2026-01-30-08:11:46,Greece,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-01-30-08:12:07,Greece,url exists,None
+2026-01-30-08:12:14,Greece,url exists,None
+2026-01-30-08:12:21,Greece,url exists,None
+2026-01-30-08:12:30,Greece,url exists,None
+2026-01-30-08:13:07,Greece,no popup,Timeout 30000ms exceeded.
+2026-01-30-08:13:14,Greece,url exists,None
+2026-01-30-08:13:21,Greece,url exists,None
+2026-01-30-08:13:33,Greece,url exists,None
+2026-01-30-08:13:48,Greece,url exists,None
+2026-01-30-08:14:00,Greece,url exists,None
+2026-01-30-08:14:37,Greece,no popup,Timeout 30000ms exceeded.
+2026-01-30-08:14:45,Greece,url exists,None
