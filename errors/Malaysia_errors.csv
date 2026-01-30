@@ -377,3 +377,21 @@ Call log:"
 2026-01-30-16:19:06,Malaysia,url exists,None
 2026-01-30-16:19:21,Malaysia,url exists,None
 2026-01-30-16:19:22,Malaysia,no images,None
+2026-01-30-19:48:35,Malaysia,url exists,None
+2026-01-30-19:48:42,Malaysia,url exists,None
+2026-01-30-19:48:50,Malaysia,url exists,None
+2026-01-30-19:48:57,Malaysia,url exists,None
+2026-01-30-19:49:05,Malaysia,url exists,None
+2026-01-30-19:49:14,Malaysia,url exists,None
+2026-01-30-19:49:23,Malaysia,url exists,None
+2026-01-30-19:50:00,Malaysia,no popup,Timeout 30000ms exceeded.
+2026-01-30-19:50:41,Malaysia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-19:51:11,Malaysia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-19:51:23,Malaysia,url exists,None
+2026-01-30-19:52:03,Malaysia,url exists,None
+2026-01-30-19:52:17,Malaysia,url exists,None
+2026-01-30-19:52:33,Malaysia,url exists,None
+2026-01-30-19:52:46,Malaysia,url exists,None
