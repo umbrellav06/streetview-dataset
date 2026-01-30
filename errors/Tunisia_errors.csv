@@ -691,3 +691,23 @@ Call log:"
 2026-01-30-20:07:34,Tunisia,url exists,None
 2026-01-30-20:07:41,Tunisia,url exists,None
 2026-01-30-20:07:41,Tunisia,no images,None
+2026-01-30-22:03:25,Tunisia,url exists,None
+2026-01-30-22:04:04,Tunisia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-22:04:34,Tunisia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-22:04:41,Tunisia,url exists,None
+2026-01-30-22:04:48,Tunisia,url exists,None
+2026-01-30-22:04:55,Tunisia,url exists,None
+2026-01-30-22:05:02,Tunisia,url exists,None
+2026-01-30-22:05:09,Tunisia,url exists,None
+2026-01-30-22:05:16,Tunisia,url exists,None
+2026-01-30-22:05:28,Tunisia,url exists,None
+2026-01-30-22:05:35,Tunisia,url exists,None
+2026-01-30-22:05:42,Tunisia,url exists,None
+2026-01-30-22:06:19,Tunisia,no popup,Timeout 30000ms exceeded.
+2026-01-30-22:06:33,Tunisia,url exists,None
+2026-01-30-22:06:40,Tunisia,url exists,None
+2026-01-30-22:06:47,Tunisia,url exists,None
+2026-01-30-22:06:47,Tunisia,no images,None
