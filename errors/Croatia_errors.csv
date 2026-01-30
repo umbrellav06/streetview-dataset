@@ -201,3 +201,15 @@ Call log:"
 2026-01-30-05:04:16,Croatia,url exists,None
 2026-01-30-05:04:30,Croatia,url exists,None
 2026-01-30-05:04:44,Croatia,url exists,None
+2026-01-30-08:02:00,Croatia,url exists,None
+2026-01-30-08:02:39,Croatia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-08:03:09,Croatia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-08:03:16,Croatia,url exists,None
+2026-01-30-08:03:24,Croatia,url exists,None
+2026-01-30-08:03:33,Croatia,url exists,None
+2026-01-30-08:05:22,Croatia,url exists,None
+2026-01-30-08:05:31,Croatia,url exists,None
+2026-01-30-08:06:05,Croatia,url exists,None
