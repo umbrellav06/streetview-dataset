@@ -290,3 +290,21 @@ Call log:"
 2026-01-30-14:11:36,Canada,url exists,None
 2026-01-30-14:12:43,Canada,no popup,Timeout 30000ms exceeded.
 2026-01-30-14:12:56,Canada,url exists,None
+2026-01-30-16:17:08,Canada,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-16:17:38,Canada,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-16:17:45,Canada,url exists,None
+2026-01-30-16:17:52,Canada,url exists,None
+2026-01-30-16:18:00,Canada,url exists,None
+2026-01-30-16:18:25,Canada,url exists,None
+2026-01-30-16:18:33,Canada,url exists,None
+2026-01-30-16:18:43,Canada,url exists,None
+2026-01-30-16:19:44,Canada,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-16:20:14,Canada,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-16:21:00,Canada,world,None
+2026-01-30-16:21:31,Canada,url exists,None
