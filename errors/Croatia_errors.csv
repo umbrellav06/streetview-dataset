@@ -227,3 +227,17 @@ Call log:"
 2026-01-30-14:09:23,Croatia,url exists,None
 2026-01-30-14:10:39,Croatia,url exists,None
 2026-01-30-14:12:03,Croatia,url exists,None
+2026-01-30-16:06:00,Croatia,world,None
+2026-01-30-16:06:20,Croatia,url exists,None
+2026-01-30-16:06:27,Croatia,url exists,None
+2026-01-30-16:07:09,Croatia,url exists,None
+2026-01-30-16:07:18,Croatia,url exists,None
+2026-01-30-16:07:26,Croatia,url exists,None
+2026-01-30-16:08:02,Croatia,url exists,None
+2026-01-30-16:08:12,Croatia,url exists,None
+2026-01-30-16:08:19,Croatia,url exists,None
+2026-01-30-16:09:00,Croatia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-16:09:30,Croatia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
