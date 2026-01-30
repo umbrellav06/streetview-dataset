@@ -352,3 +352,23 @@ Call log:"
 2026-01-30-20:07:18,Thailand,url exists,None
 2026-01-30-20:07:34,Thailand,url exists,None
 2026-01-30-20:08:22,Thailand,url exists,None
+2026-01-30-22:04:54,Thailand,url exists,None
+2026-01-30-22:05:01,Thailand,url exists,None
+2026-01-30-22:05:23,Thailand,url exists,None
+2026-01-30-22:05:30,Thailand,url exists,None
+2026-01-30-22:05:38,Thailand,url exists,None
+2026-01-30-22:06:15,Thailand,no popup,Timeout 30000ms exceeded.
+2026-01-30-22:06:22,Thailand,url exists,None
+2026-01-30-22:06:29,Thailand,url exists,None
+2026-01-30-22:06:36,Thailand,url exists,None
+2026-01-30-22:07:18,Thailand,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-22:07:48,Thailand,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-22:07:55,Thailand,url exists,None
+2026-01-30-22:08:35,Thailand,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-22:09:05,Thailand,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
