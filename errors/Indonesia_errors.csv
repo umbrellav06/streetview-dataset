@@ -305,3 +305,20 @@ Call log:"
 2026-01-30-20:02:10,Indonesia,url exists,None
 2026-01-30-20:02:59,Indonesia,url exists,None
 2026-01-30-20:03:56,Indonesia,url exists,None
+2026-01-30-21:50:41,Indonesia,world,None
+2026-01-30-21:50:48,Indonesia,url exists,None
+2026-01-30-21:51:28,Indonesia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-21:51:58,Indonesia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-21:52:05,Indonesia,url exists,None
+2026-01-30-21:52:14,Indonesia,url exists,None
+2026-01-30-21:52:41,Indonesia,url exists,None
+2026-01-30-21:52:51,Indonesia,url exists,None
+2026-01-30-21:53:01,Indonesia,url exists,None
+2026-01-30-21:53:12,Indonesia,url exists,None
+2026-01-30-21:53:24,Indonesia,url exists,None
+2026-01-30-21:53:38,Indonesia,url exists,None
+2026-01-30-21:54:21,Indonesia,url exists,None
+2026-01-30-21:54:58,Indonesia,no popup,Timeout 30000ms exceeded.
