@@ -327,3 +327,22 @@ Call log:"
 2026-01-30-14:11:50,Mexico,url exists,None
 2026-01-30-14:12:07,Mexico,url exists,None
 2026-01-30-14:12:08,Mexico,no images,None
+2026-01-30-16:06:30,Mexico,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-16:07:00,Mexico,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-16:07:07,Mexico,url exists,None
+2026-01-30-16:07:08,Mexico,world,None
+2026-01-30-16:07:15,Mexico,url exists,None
+2026-01-30-16:07:23,Mexico,url exists,None
+2026-01-30-16:08:09,Mexico,url exists,None
+2026-01-30-16:08:18,Mexico,url exists,None
+2026-01-30-16:08:29,Mexico,url exists,None
+2026-01-30-16:09:05,Mexico,url exists,None
+2026-01-30-16:10:13,Mexico,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-30-16:10:43,Mexico,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-30-16:10:55,Mexico,url exists,None
