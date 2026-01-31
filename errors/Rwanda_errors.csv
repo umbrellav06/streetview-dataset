@@ -618,3 +618,16 @@ Call log:"
 2026-01-31-14:00:07,Rwanda,world,None
 2026-01-31-14:00:14,Rwanda,url exists,Rwanda
 2026-01-31-14:00:35,Rwanda,url exists,Rwanda
+2026-01-31-15:00:58,Rwanda,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-15:01:29,Rwanda,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-15:01:49,Rwanda,url exists,Rwanda
+2026-01-31-15:02:29,Rwanda,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-15:02:59,Rwanda,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-15:04:50,Rwanda,url exists,Rwanda
+2026-01-31-15:05:13,Rwanda,url exists,Rwanda
