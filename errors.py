@@ -15,10 +15,12 @@ for datei in dateien:
     df = pd.read_csv(datei)
     
     # Filtern: message == 'x'
-    treffer = df[df['message'] == 'no images']
+    noImgRows = df[df['message'] == 'no images']
     
-    if not treffer.empty:
-        print(f"Treffer in Datei: {os.path.basename(datei)}")
-        print(treffer)
-        print("-" * 40)
+    if not noImgRows.empty:
+        gefundene_zeilen.append([os.path.basename(datei), len(noImgRows)])
 
+df = pd.DataFrame(gefundene_zeilen, columns=["folder", "noImg"])
+df = df.sort_values(by="noImg")
+
+print(df[df['noImg'] > 20])
