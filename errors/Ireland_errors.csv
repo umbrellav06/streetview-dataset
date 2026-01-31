@@ -527,3 +527,9 @@ Call log:"
 2026-01-31-10:06:51,Ireland,url exists,None
 2026-01-31-10:07:08,Ireland,url exists,None
 2026-01-31-10:07:08,Ireland,no images,None
+2026-01-31-11:02:09,Ireland,url exists,None
+2026-01-31-11:05:07,Ireland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-11:05:37,Ireland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
