@@ -531,3 +531,15 @@ Call log:"
 2026-01-31-10:14:56,Uruguay,url exists,None
 2026-01-31-10:15:13,Uruguay,url exists,None
 2026-01-31-10:15:14,Uruguay,no images,None
+2026-01-31-10:52:12,Uruguay,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-10:52:42,Uruguay,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-10:55:02,Uruguay,url exists,None
+2026-01-31-10:55:09,Uruguay,url exists,None
+2026-01-31-10:55:48,Uruguay,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-10:56:19,Uruguay,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
