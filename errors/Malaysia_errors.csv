@@ -413,3 +413,27 @@ Call log:
 Call log:"
 2026-01-30-22:05:40,Malaysia,url exists,None
 2026-01-30-22:06:32,Malaysia,url exists,None
+2026-01-31-04:55:12,Malaysia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-04:55:42,Malaysia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-04:55:49,Malaysia,url exists,None
+2026-01-31-04:56:28,Malaysia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-04:56:58,Malaysia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-04:57:06,Malaysia,url exists,None
+2026-01-31-04:57:13,Malaysia,url exists,None
+2026-01-31-04:57:21,Malaysia,url exists,None
+2026-01-31-04:57:28,Malaysia,url exists,None
+2026-01-31-04:58:05,Malaysia,no popup,Timeout 30000ms exceeded.
+2026-01-31-04:58:16,Malaysia,url exists,None
+2026-01-31-04:58:27,Malaysia,url exists,None
+2026-01-31-04:58:38,Malaysia,url exists,None
+2026-01-31-04:58:47,Malaysia,url exists,None
+2026-01-31-04:59:01,Malaysia,url exists,None
+2026-01-31-04:59:16,Malaysia,url exists,None
+2026-01-31-04:59:32,Malaysia,url exists,None
+2026-01-31-04:59:32,Malaysia,no images,None
