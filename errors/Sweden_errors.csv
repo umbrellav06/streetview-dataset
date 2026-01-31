@@ -278,3 +278,17 @@ Call log:
 "
 2026-01-31-04:58:01,Sweden,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-01-31-07:58:19,Sweden,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-07:58:49,Sweden,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-07:58:56,Sweden,url exists,None
+2026-01-31-07:59:31,Sweden,url exists,None
+2026-01-31-07:59:38,Sweden,url exists,None
+2026-01-31-07:59:45,Sweden,url exists,None
+2026-01-31-08:00:14,Sweden,url exists,None
+2026-01-31-08:00:44,Sweden,url exists,None
+2026-01-31-08:00:54,Sweden,url exists,None
+2026-01-31-08:01:06,Sweden,url exists,None
+2026-01-31-08:01:43,Sweden,url exists,None
