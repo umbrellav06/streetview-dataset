@@ -660,3 +660,12 @@ Call log:
 "
 2026-01-31-13:58:17,Austria,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-01-31-15:00:12,Austria,url exists,Austria
+2026-01-31-15:00:19,Austria,url exists,Austria
+2026-01-31-15:00:43,Austria,url exists,Austria
+2026-01-31-15:01:59,Austria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-15:02:30,Austria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-15:02:38,Austria,url exists,Austria
