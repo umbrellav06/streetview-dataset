@@ -583,3 +583,23 @@ Call log:"
 2026-01-31-07:48:43,Cambodia,url exists,None
 2026-01-31-07:48:59,Cambodia,url exists,None
 2026-01-31-07:48:59,Cambodia,no images,None
+2026-01-31-10:00:29,Cambodia,url exists,None
+2026-01-31-10:01:09,Cambodia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-10:01:39,Cambodia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-10:01:46,Cambodia,url exists,None
+2026-01-31-10:01:54,Cambodia,url exists,None
+2026-01-31-10:02:02,Cambodia,url exists,None
+2026-01-31-10:02:09,Cambodia,url exists,None
+2026-01-31-10:02:18,Cambodia,url exists,None
+2026-01-31-10:02:28,Cambodia,url exists,None
+2026-01-31-10:02:40,Cambodia,url exists,None
+2026-01-31-10:02:52,Cambodia,url exists,None
+2026-01-31-10:03:05,Cambodia,url exists,None
+2026-01-31-10:03:19,Cambodia,url exists,None
+2026-01-31-10:03:56,Cambodia,no popup,Timeout 30000ms exceeded.
+2026-01-31-10:04:11,Cambodia,url exists,None
+2026-01-31-10:04:26,Cambodia,url exists,None
+2026-01-31-10:04:26,Cambodia,no images,None
