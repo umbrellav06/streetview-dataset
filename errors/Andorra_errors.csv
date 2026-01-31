@@ -636,3 +636,10 @@ Call log:"
 2026-01-31-09:56:59,Andorra,url exists,None
 2026-01-31-09:57:06,Andorra,url exists,None
 2026-01-31-09:57:06,Andorra,no images,None
+2026-01-31-10:46:58,Andorra,world,None
+2026-01-31-10:46:59,Andorra,world,None
+2026-01-31-10:47:52,Andorra,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-10:48:22,Andorra,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
