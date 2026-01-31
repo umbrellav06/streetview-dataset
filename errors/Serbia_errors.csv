@@ -465,3 +465,14 @@ Call log:"
 2026-01-31-10:09:39,Serbia,url exists,None
 2026-01-31-10:10:17,Serbia,no popup,Timeout 30000ms exceeded.
 2026-01-31-10:10:54,Serbia,no popup,Timeout 30000ms exceeded.
+2026-01-31-11:04:29,Serbia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-11:04:59,Serbia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-11:05:59,Serbia,url exists,None
+2026-01-31-11:07:09,Serbia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-11:07:39,Serbia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
