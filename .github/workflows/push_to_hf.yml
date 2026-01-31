@@ -1,10 +1,9 @@
 name: Push Dataset to HuggingFace
 
 on:
-  workflow_run: 
-    workflows: ["Run Image Request"] 
-    types: 
-      - completed
+  workflow_run:
+    workflows: ["Run Image Request"]
+    types: [completed]
   workflow_dispatch:
 
 jobs:
@@ -32,46 +31,70 @@ jobs:
 
       - name: Stop workflow if dataset does not exist
         if: steps.check_dataset.outputs.exists == 'false'
-        run: |
-          echo "Kein dataset Ordner vorhanden – Workflow wird beendet."
+        run: echo "Kein dataset Ordner vorhanden – Workflow wird beendet."
 
-      - name: Install Python dependencies
+      - name: Set up Git LFS
         if: steps.check_dataset.outputs.exists == 'true'
-        run: |
-          pip install huggingface_hub
-      - name: Upload dataset to HuggingFace (large folder)
+        run: git lfs install
+
+      - name: Clone HuggingFace dataset repo
         if: steps.check_dataset.outputs.exists == 'true'
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
           HF_USERNAME: ${{ secrets.HF_USERNAME }}
           HF_DATASET: ${{ secrets.HF_DATASET }}
         run: |
-          python3 << 'EOF'
-          from huggingface_hub import HfApi
-          import os
+          mkdir -p temp
+          cd temp
+          git clone https://huggingface.co/datasets/${{ secrets.HF_USERNAME }}/${{ secrets.HF_DATASET }} hf_dataset
+          cd hf_dataset
+          git lfs install
 
-          api = HfApi()
+      - name: Copy dataset into HF repo
+        if: steps.check_dataset.outputs.exists == 'true'
+        run: |
+          cd temp/hf_dataset
+          mkdir -p dataset
+          cp -rn ../../dataset/* dataset/
 
-          repo_id = f"{os.environ['HF_USERNAME']}/{os.environ['HF_DATASET']}"
+      - name: Upload in batches
+        if: steps.check_dataset.outputs.exists == 'true'
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_USERNAME: ${{ secrets.HF_USERNAME }}
+          HF_DATASET: ${{ secrets.HF_DATASET }}
+        run: |
+          cd temp/hf_dataset
 
-          print("Starte Upload mit upload_large_folder...")
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
 
-          api.upload_large_folder(
-            folder_path="dataset",
-            repo_id=repo_id,
-            repo_type="dataset",
-            token=os.environ["HF_TOKEN"],
-            path_in_repo="dataset",
-            max_workers=8,
-          )
+          BATCH_SIZE=200
+          count=0
 
-          print("Upload abgeschlossen.")
-          EOF
+          # Alle neuen Dateien finden
+          git add -N dataset
+          files=$(git diff --name-only --cached dataset)
+
+          for file in $files; do
+            git add "$file"
+            count=$((count+1))
+
+            if [ $count -ge $BATCH_SIZE ]; then
+              echo "Pushing batch of $count files..."
+              git commit -m "Batch upload ($count files)"
+              git push https://${{ secrets.HF_USERNAME }}:${{ secrets.HF_TOKEN }}@huggingface.co/datasets/${{ secrets.HF_USERNAME }}/${{ secrets.HF_DATASET }}
+              count=0
+            fi
+          done
+
+          # Letzten Rest pushen
+          git commit -m "Final batch" || echo "No changes"
+          git push https://${{ secrets.HF_USERNAME }}:${{ secrets.HF_TOKEN }}@huggingface.co/datasets/${{ secrets.HF_USERNAME }}/${{ secrets.HF_DATASET }}
 
       - name: Delete dataset folder in GitHub repo
         if: steps.check_dataset.outputs.exists == 'true'
-        run: |
-          rm -rf dataset
+        run: rm -rf dataset
 
       - name: Commit deletion to GitHub
         if: steps.check_dataset.outputs.exists == 'true'
@@ -79,8 +102,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
           git add -A
-          git commit -m "Remove dataset after pushing to HuggingFace" || echo "No changes to commit"
+          git commit -m "Remove dataset after pushing to HuggingFace" || echo "No changes"
           git push
-
-
-
