@@ -724,18 +724,3 @@ Call log:"
 2026-01-31-10:15:59,Nigeria,url exists,None
 2026-01-31-10:15:59,Nigeria,no images,None
 2026-01-31-10:57:35,Nigeria,url exists,None
-2026-01-31-14:05:14,Nigeria,name,"Locator.fill: Timeout 30000ms exceeded.
-Call log:
-"
-2026-01-31-14:05:45,Nigeria,start,"Locator.click: Timeout 30000ms exceeded.
-Call log:"
-2026-01-31-14:06:05,Nigeria,url exists,Nigeria
-2026-01-31-14:06:48,Nigeria,world,None
-2026-01-31-14:07:56,Nigeria,name,"Locator.fill: Timeout 30000ms exceeded.
-Call log:
-"
-2026-01-31-14:08:27,Nigeria,start,"Locator.click: Timeout 30000ms exceeded.
-Call log:"
-2026-01-31-14:09:01,Nigeria,url exists,Nigeria
-2026-01-31-14:09:09,Nigeria,url exists,Nigeria
-2026-01-31-14:09:16,Nigeria,url exists,Nigeria
