@@ -529,3 +529,8 @@ Call log:"
 2026-01-31-10:00:59,Argentina,url exists,None
 2026-01-31-10:01:06,Argentina,url exists,None
 2026-01-31-10:01:07,Argentina,no images,None
+2026-01-31-11:00:21,Argentina,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-11:00:51,Argentina,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
