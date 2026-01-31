@@ -661,10 +661,3 @@ Call log:
 "
 2026-01-31-10:49:24,Albania,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
-2026-01-31-13:54:28,Albania,world,None
-2026-01-31-13:56:26,Albania,name,"Locator.fill: Timeout 30000ms exceeded.
-Call log:
-"
-2026-01-31-13:56:56,Albania,start,"Locator.click: Timeout 30000ms exceeded.
-Call log:"
-2026-01-31-13:57:55,Albania,url exists,Albania
