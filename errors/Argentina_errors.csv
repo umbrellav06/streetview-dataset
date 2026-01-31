@@ -541,3 +541,11 @@ Call log:"
 2026-01-31-16:07:46,Argentina,url exists,Argentina
 2026-01-31-16:08:04,Argentina,world,None
 2026-01-31-19:06:11,Argentina,no popup,Timeout 30000ms exceeded.
+2026-01-31-21:44:11,Argentina,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-21:44:41,Argentina,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-21:44:48,Argentina,url exists,Argentina
+2026-01-31-21:46:47,Argentina,url exists,Argentina
+2026-01-31-21:48:15,Argentina,url exists,Argentina
