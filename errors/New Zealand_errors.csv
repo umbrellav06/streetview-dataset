@@ -414,3 +414,20 @@ Call log:"
 2026-01-31-05:04:59,New Zealand,url exists,None
 2026-01-31-05:05:45,New Zealand,url exists,None
 2026-01-31-05:06:00,New Zealand,url exists,None
+2026-01-31-07:41:48,New Zealand,url exists,None
+2026-01-31-07:42:27,New Zealand,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-07:42:57,New Zealand,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-07:43:04,New Zealand,url exists,None
+2026-01-31-07:43:13,New Zealand,url exists,None
+2026-01-31-07:43:20,New Zealand,url exists,None
+2026-01-31-07:43:30,New Zealand,url exists,None
+2026-01-31-07:43:40,New Zealand,url exists,None
+2026-01-31-07:44:18,New Zealand,no popup,Timeout 30000ms exceeded.
+2026-01-31-07:45:21,New Zealand,url exists,None
+2026-01-31-07:45:34,New Zealand,url exists,None
+2026-01-31-07:45:47,New Zealand,url exists,None
+2026-01-31-07:46:02,New Zealand,url exists,None
+2026-01-31-07:46:16,New Zealand,url exists,None
