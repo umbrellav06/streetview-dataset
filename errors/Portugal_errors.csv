@@ -430,3 +430,9 @@ Call log:
 Call log:"
 2026-01-31-10:09:36,Portugal,url exists,None
 2026-01-31-10:10:03,Portugal,url exists,None
+2026-01-31-11:05:27,Portugal,world,None
+2026-01-31-11:08:18,Portugal,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-11:08:48,Portugal,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
