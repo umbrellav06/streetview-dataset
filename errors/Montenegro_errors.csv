@@ -652,3 +652,12 @@ Call log:
 Call log:"
 2026-01-31-11:03:23,Montenegro,url exists,None
 2026-01-31-11:03:30,Montenegro,url exists,None
+2026-01-31-16:07:56,Montenegro,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-16:08:27,Montenegro,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-16:09:00,Montenegro,url exists,IntersectionGuessr - Montenegro
+2026-01-31-16:09:06,Montenegro,url exists,IntersectionGuessr - Montenegro
+2026-01-31-16:09:13,Montenegro,url exists,IntersectionGuessr - Montenegro
+2026-01-31-16:09:38,Montenegro,url exists,IntersectionGuessr - Montenegro
