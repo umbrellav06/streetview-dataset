@@ -610,3 +610,8 @@ Call log:"
 2026-01-31-09:57:07,Bhutan,url exists,None
 2026-01-31-09:57:25,Bhutan,url exists,None
 2026-01-31-09:57:25,Bhutan,no images,None
+2026-01-31-10:54:03,Bhutan,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-10:54:33,Bhutan,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
