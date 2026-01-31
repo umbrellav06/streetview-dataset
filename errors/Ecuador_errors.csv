@@ -597,3 +597,20 @@ Call log:"
 2026-01-31-10:05:59,Ecuador,url exists,None
 2026-01-31-10:06:18,Ecuador,url exists,None
 2026-01-31-10:06:19,Ecuador,no images,None
+2026-01-31-10:48:37,Ecuador,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-10:49:07,Ecuador,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-10:49:27,Ecuador,url exists,None
+2026-01-31-10:50:06,Ecuador,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-10:50:37,Ecuador,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-10:51:58,Ecuador,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-10:52:28,Ecuador,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-10:52:50,Ecuador,url exists,None
