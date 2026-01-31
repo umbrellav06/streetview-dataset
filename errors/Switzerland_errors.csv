@@ -638,3 +638,15 @@ Call log:
 Call log:"
 2026-01-31-14:11:14,Switzerland,url exists,Switzerland
 2026-01-31-14:11:21,Switzerland,url exists,Switzerland
+2026-01-31-14:53:27,Switzerland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-14:53:57,Switzerland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-14:55:03,Switzerland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-14:55:33,Switzerland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-14:56:32,Switzerland,url exists,Switzerland
+2026-01-31-14:56:39,Switzerland,url exists,Switzerland
