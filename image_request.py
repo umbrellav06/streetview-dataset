@@ -184,7 +184,7 @@ def geoguessrchalleng_url(browser,location):
         challenge_url = popup.url
         if exists_url(location,challenge_url):
             print("❌ geoguessr link exists - skip")
-            log_error(location=location,message='url exists')
+            log_error(location=location,message='url exists',error=map)
             return None, None
         print("✔️ geoguessr link:", challenge_url)
     except Exception as e:
@@ -242,10 +242,11 @@ def process_single(browser, location, index):
         # print("✔️ start game")
     except Exception as e:
         print("❌ start game")
-        print(e)
+        # print(e)
         log_error(location, "start", e)
         context.close()
         return False
+
 
     # UI ausblenden
     page.add_style_tag(content="""
@@ -391,7 +392,10 @@ def streetview(location_nr):
     location = locations[location_nr]
     # temp -------------------
     df = pd.read_csv("maps.csv")
-    location = df.iloc[location_nr]["country"]
+    first_80 = df.iloc[:80] # nur die ersten 80 Zeilen 
+    if not location in first_80["country"].values:
+        print('not today for ',location)
+        return
     # temp -------------------
 
     print('##################')
