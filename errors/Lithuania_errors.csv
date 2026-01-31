@@ -318,3 +318,18 @@ Call log:"
 2026-01-30-21:57:23,Lithuania,url exists,None
 2026-01-30-21:57:30,Lithuania,url exists,None
 2026-01-30-21:58:13,Lithuania,url exists,None
+2026-01-31-04:50:45,Lithuania,url exists,None
+2026-01-31-04:50:52,Lithuania,url exists,None
+2026-01-31-04:51:16,Lithuania,url exists,None
+2026-01-31-04:51:24,Lithuania,url exists,None
+2026-01-31-04:52:39,Lithuania,url exists,None
+2026-01-31-04:53:16,Lithuania,no popup,Timeout 30000ms exceeded.
+2026-01-31-04:53:53,Lithuania,url exists,None
+2026-01-31-04:54:33,Lithuania,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-04:55:03,Lithuania,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-04:55:15,Lithuania,url exists,None
+2026-01-31-04:55:28,Lithuania,url exists,None
+2026-01-31-04:55:35,Lithuania,url exists,None
