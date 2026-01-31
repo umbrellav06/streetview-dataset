@@ -616,7 +616,3 @@ Call log:
 "
 2026-01-31-11:04:00,Belgium,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
-2026-01-31-13:59:26,Belgium,world,None
-2026-01-31-13:59:46,Belgium,url exists,Belgium
-2026-01-31-14:00:21,Belgium,url exists,Belgium
-2026-01-31-14:00:44,Belgium,url exists,Belgium
