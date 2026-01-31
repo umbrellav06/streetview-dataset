@@ -611,18 +611,3 @@ Call log:
 "
 2026-01-31-10:51:26,Senegal,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
-2026-01-31-14:06:52,Senegal,world,None
-2026-01-31-14:07:45,Senegal,name,"Locator.fill: Timeout 30000ms exceeded.
-Call log:
-"
-2026-01-31-14:08:15,Senegal,start,"Locator.click: Timeout 30000ms exceeded.
-Call log:"
-2026-01-31-14:08:35,Senegal,url exists,Senegal
-2026-01-31-14:08:55,Senegal,url exists,Senegal
-2026-01-31-14:09:35,Senegal,name,"Locator.fill: Timeout 30000ms exceeded.
-Call log:
-"
-2026-01-31-14:10:05,Senegal,start,"Locator.click: Timeout 30000ms exceeded.
-Call log:"
-2026-01-31-14:10:45,Senegal,url exists,Senegal
-2026-01-31-14:11:12,Senegal,url exists,Senegal
