@@ -603,3 +603,9 @@ Call log:"
 2026-01-31-10:04:11,Cambodia,url exists,None
 2026-01-31-10:04:26,Cambodia,url exists,None
 2026-01-31-10:04:26,Cambodia,no images,None
+2026-01-31-13:57:12,Cambodia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-13:57:42,Cambodia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-13:58:28,Cambodia,url exists,Cambodia
