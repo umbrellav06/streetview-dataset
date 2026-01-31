@@ -647,16 +647,3 @@ Call log:"
 2026-01-31-09:59:00,Austria,url exists,None
 2026-01-31-09:59:01,Austria,no images,None
 2026-01-31-11:06:09,Austria,url exists,None
-2026-01-31-13:54:43,Austria,world,None
-2026-01-31-13:55:22,Austria,name,"Locator.fill: Timeout 30000ms exceeded.
-Call log:
-"
-2026-01-31-13:55:53,Austria,start,"Locator.click: Timeout 30000ms exceeded.
-Call log:"
-2026-01-31-13:56:07,Austria,world,None
-2026-01-31-13:56:53,Austria,url exists,Austria
-2026-01-31-13:57:46,Austria,name,"Locator.fill: Timeout 30000ms exceeded.
-Call log:
-"
-2026-01-31-13:58:17,Austria,start,"Locator.click: Timeout 30000ms exceeded.
-Call log:"
