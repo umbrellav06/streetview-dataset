@@ -574,3 +574,12 @@ Call log:
 Call log:"
 2026-01-31-16:15:58,Romania,url exists,Romania
 2026-01-31-16:16:34,Romania,url exists,Romania
+2026-01-31-19:16:16,Romania,url exists,Romania
+2026-01-31-19:16:37,Romania,url exists,Romania
+2026-01-31-19:18:54,Romania,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-19:19:25,Romania,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-19:19:32,Romania,url exists,Romania
+2026-01-31-19:19:39,Romania,url exists,Romania
