@@ -350,3 +350,31 @@ Call log:"
 2026-01-31-07:49:38,Indonesia,url exists,None
 2026-01-31-07:50:37,Indonesia,url exists,None
 2026-01-31-07:50:44,Indonesia,url exists,None
+2026-01-31-10:07:34,Indonesia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-10:08:04,Indonesia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-10:08:11,Indonesia,url exists,None
+2026-01-31-10:08:18,Indonesia,url exists,None
+2026-01-31-10:08:58,Indonesia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-10:09:28,Indonesia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-10:10:08,Indonesia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-10:10:38,Indonesia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-10:10:46,Indonesia,url exists,None
+2026-01-31-10:10:55,Indonesia,url exists,None
+2026-01-31-10:11:36,Indonesia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-10:12:06,Indonesia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-10:12:16,Indonesia,url exists,None
+2026-01-31-10:12:26,Indonesia,url exists,None
+2026-01-31-10:13:28,Indonesia,url exists,None
+2026-01-31-10:13:41,Indonesia,url exists,None
