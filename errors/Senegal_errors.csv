@@ -565,3 +565,23 @@ Call log:"
 2026-01-31-05:07:48,Senegal,url exists,None
 2026-01-31-05:07:56,Senegal,url exists,None
 2026-01-31-05:07:56,Senegal,no images,None
+2026-01-31-07:57:14,Senegal,url exists,None
+2026-01-31-07:57:21,Senegal,url exists,None
+2026-01-31-07:57:28,Senegal,url exists,None
+2026-01-31-07:58:05,Senegal,no popup,Timeout 30000ms exceeded.
+2026-01-31-07:58:45,Senegal,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-07:59:15,Senegal,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-07:59:22,Senegal,url exists,None
+2026-01-31-07:59:32,Senegal,url exists,None
+2026-01-31-07:59:42,Senegal,url exists,None
+2026-01-31-07:59:54,Senegal,url exists,None
+2026-01-31-08:00:06,Senegal,url exists,None
+2026-01-31-08:00:43,Senegal,no popup,Timeout 30000ms exceeded.
+2026-01-31-08:00:50,Senegal,url exists,None
+2026-01-31-08:00:57,Senegal,url exists,None
+2026-01-31-08:01:13,Senegal,url exists,None
+2026-01-31-08:01:20,Senegal,url exists,None
+2026-01-31-08:01:20,Senegal,no images,None
