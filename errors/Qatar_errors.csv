@@ -538,3 +538,13 @@ Call log:"
 2026-01-31-10:02:00,Qatar,url exists,None
 2026-01-31-10:02:16,Qatar,url exists,None
 2026-01-31-10:02:16,Qatar,no images,None
+2026-01-31-10:58:53,Qatar,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-10:59:24,Qatar,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-11:00:03,Qatar,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-11:00:34,Qatar,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
