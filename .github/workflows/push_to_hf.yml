@@ -72,13 +72,9 @@ jobs:
           BATCH_SIZE=200
           count=0
 
-          # Alle untracked Dateien finden
-          files=$(git ls-files -o --exclude-standard dataset)
-
-          echo "Gefundene neue Dateien:"
-          echo "$files"
-
-          for file in $files; do
+          echo "Suche neue Dateien..."
+          git ls-files -o --exclude-standard dataset | while IFS= read -r file; do
+            echo "Füge hinzu: $file"
             git add "$file"
             count=$((count+1))
 
@@ -90,7 +86,7 @@ jobs:
             fi
           done
 
-          # Letzten Rest pushen
+          echo "Pushe letzten Batch..."
           git commit -m "Update dataset from GitHub Actions" || echo "No changes"
           git push https://${{ secrets.HF_USERNAME }}:${{ secrets.HF_TOKEN }}@huggingface.co/datasets/${{ secrets.HF_USERNAME }}/${{ secrets.HF_DATASET }}
 
