@@ -542,3 +542,8 @@ Call log:
 "
 2026-01-31-10:07:29,Estonia,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-01-31-11:03:49,Estonia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-11:04:19,Estonia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
