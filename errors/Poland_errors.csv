@@ -255,3 +255,25 @@ Call log:"
 2026-01-31-04:56:45,Poland,url exists,None
 2026-01-31-04:56:46,Poland,world,None
 2026-01-31-04:56:59,Poland,url exists,None
+2026-01-31-07:48:58,Poland,url exists,None
+2026-01-31-07:49:38,Poland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-07:50:08,Poland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-07:50:48,Poland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-07:51:18,Poland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-07:51:58,Poland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-07:52:28,Poland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-07:52:35,Poland,url exists,None
+2026-01-31-07:52:42,Poland,url exists,None
+2026-01-31-07:54:03,Poland,url exists,None
+2026-01-31-07:54:12,Poland,url exists,None
+2026-01-31-07:54:22,Poland,url exists,None
+2026-01-31-07:54:59,Poland,no popup,Timeout 30000ms exceeded.
