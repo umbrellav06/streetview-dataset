@@ -610,13 +610,3 @@ Call log:"
 2026-01-31-10:11:34,United Arab Emirates,url exists,None
 2026-01-31-10:11:49,United Arab Emirates,url exists,None
 2026-01-31-10:11:50,United Arab Emirates,no images,None
-2026-01-31-14:04:02,United Arab Emirates,name,"Locator.fill: Timeout 30000ms exceeded.
-Call log:
-"
-2026-01-31-14:04:32,United Arab Emirates,start,"Locator.click: Timeout 30000ms exceeded.
-Call log:"
-2026-01-31-14:06:57,United Arab Emirates,name,"Locator.fill: Timeout 30000ms exceeded.
-Call log:
-"
-2026-01-31-14:07:28,United Arab Emirates,start,"Locator.click: Timeout 30000ms exceeded.
-Call log:"
