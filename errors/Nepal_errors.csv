@@ -670,14 +670,3 @@ Call log:
 "
 2026-01-31-14:04:07,Nepal,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
-2026-01-31-15:00:06,Nepal,url exists,Nepal
-2026-01-31-15:00:12,Nepal,url exists,Nepal
-2026-01-31-15:01:41,Nepal,name,"Locator.fill: Timeout 30000ms exceeded.
-Call log:
-"
-2026-01-31-15:02:12,Nepal,start,"Locator.click: Timeout 30000ms exceeded.
-Call log:"
-2026-01-31-15:02:35,Nepal,url exists,Nepal
-2026-01-31-15:02:43,Nepal,url exists,Nepal
-2026-01-31-15:02:55,Nepal,url exists,Nepal
-2026-01-31-15:04:09,Nepal,url exists,Nepal
