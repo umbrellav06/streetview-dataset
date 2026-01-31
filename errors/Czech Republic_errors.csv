@@ -512,3 +512,10 @@ Call log:
 "
 2026-01-31-13:58:30,Czech Republic,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-01-31-14:59:31,Czech Republic,world,None
+2026-01-31-15:00:23,Czech Republic,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-15:00:54,Czech Republic,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-15:01:27,Czech Republic,url exists,Czech Republic
