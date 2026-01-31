@@ -439,3 +439,8 @@ Call log:"
 2026-01-31-10:11:00,Taiwan,url exists,None
 2026-01-31-10:11:40,Taiwan,url exists,None
 2026-01-31-10:11:55,Taiwan,url exists,None
+2026-01-31-10:55:29,Taiwan,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-10:55:59,Taiwan,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
