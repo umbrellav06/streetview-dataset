@@ -448,3 +448,27 @@ Call log:"
 2026-01-31-04:59:12,Bulgaria,url exists,None
 2026-01-31-04:59:29,Bulgaria,url exists,None
 2026-01-31-04:59:29,Bulgaria,no images,None
+2026-01-31-07:44:46,Bulgaria,url exists,None
+2026-01-31-07:45:08,Bulgaria,url exists,None
+2026-01-31-07:45:16,Bulgaria,url exists,None
+2026-01-31-07:45:23,Bulgaria,url exists,None
+2026-01-31-07:45:31,Bulgaria,url exists,None
+2026-01-31-07:46:40,Bulgaria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-07:47:10,Bulgaria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-07:47:50,Bulgaria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-07:48:20,Bulgaria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-07:48:27,Bulgaria,url exists,None
+2026-01-31-07:49:06,Bulgaria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-07:49:36,Bulgaria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-07:50:08,Bulgaria,url exists,None
+2026-01-31-07:50:19,Bulgaria,url exists,None
+2026-01-31-07:50:32,Bulgaria,url exists,None
