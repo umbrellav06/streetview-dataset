@@ -675,3 +675,11 @@ Call log:
 2026-01-31-15:56:20,Algeria,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
 2026-01-31-15:57:14,Algeria,world,None
+2026-01-31-16:06:53,Algeria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-16:07:23,Algeria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-16:09:10,Algeria,world,None
+2026-01-31-16:09:17,Algeria,url exists,Algeria
+2026-01-31-16:09:24,Algeria,url exists,Algeria
