@@ -656,3 +656,8 @@ Call log:"
 2026-01-31-10:06:43,Albania,url exists,None
 2026-01-31-10:07:01,Albania,url exists,None
 2026-01-31-10:07:01,Albania,no images,None
+2026-01-31-10:48:54,Albania,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-10:49:24,Albania,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
