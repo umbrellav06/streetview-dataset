@@ -664,3 +664,8 @@ Call log:"
 2026-01-31-10:10:30,Paraguay,url exists,None
 2026-01-31-10:10:46,Paraguay,url exists,None
 2026-01-31-10:10:46,Paraguay,no images,None
+2026-01-31-10:53:17,Paraguay,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-10:53:47,Paraguay,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
