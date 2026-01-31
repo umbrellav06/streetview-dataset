@@ -623,3 +623,9 @@ Call log:"
 2026-01-31-10:14:18,Sri Lanka,no images,None
 2026-01-31-10:59:11,Sri Lanka,url exists,None
 2026-01-31-10:59:18,Sri Lanka,url exists,None
+2026-01-31-16:14:38,Sri Lanka,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-16:15:08,Sri Lanka,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-16:16:34,Sri Lanka,url exists,Sri Lanka
