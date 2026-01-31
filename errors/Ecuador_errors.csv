@@ -614,15 +614,3 @@ Call log:
 2026-01-31-10:52:28,Ecuador,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
 2026-01-31-10:52:50,Ecuador,url exists,None
-2026-01-31-13:55:42,Ecuador,url exists,Ecuador
-2026-01-31-13:56:21,Ecuador,name,"Locator.fill: Timeout 30000ms exceeded.
-Call log:
-"
-2026-01-31-13:56:51,Ecuador,start,"Locator.click: Timeout 30000ms exceeded.
-Call log:"
-2026-01-31-13:58:13,Ecuador,name,"Locator.fill: Timeout 30000ms exceeded.
-Call log:
-"
-2026-01-31-13:58:44,Ecuador,start,"Locator.click: Timeout 30000ms exceeded.
-Call log:"
-2026-01-31-13:58:51,Ecuador,url exists,Ecuador
