@@ -72,11 +72,9 @@ jobs:
           BATCH_SIZE=200
           count=0
 
-          # Alle untracked Dateien finden
-          files=$(git ls-files -o --exclude-standard dataset)
-
-          echo "Gefundene neue Dateien:"
-          echo "$files"
+          # Alle neuen Dateien finden
+          git add -N dataset
+          files=$(git diff --name-only --cached dataset)
 
           for file in $files; do
             git add "$file"
