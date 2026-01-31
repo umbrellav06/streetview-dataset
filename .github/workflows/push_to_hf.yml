@@ -84,14 +84,14 @@ jobs:
 
             if [ $count -ge $BATCH_SIZE ]; then
               echo "Pushing batch of $count files..."
-              git commit -m "Batch upload ($count files)"
+              git commit -m "Update dataset from GitHub Actions"
               git push https://${{ secrets.HF_USERNAME }}:${{ secrets.HF_TOKEN }}@huggingface.co/datasets/${{ secrets.HF_USERNAME }}/${{ secrets.HF_DATASET }}
               count=0
             fi
           done
 
           # Letzten Rest pushen
-          git commit -m "Final batch" || echo "No changes"
+          git commit -m "Update dataset from GitHub Actions" || echo "No changes"
           git push https://${{ secrets.HF_USERNAME }}:${{ secrets.HF_TOKEN }}@huggingface.co/datasets/${{ secrets.HF_USERNAME }}/${{ secrets.HF_DATASET }}
 
       - name: Delete dataset folder in GitHub repo
@@ -106,3 +106,4 @@ jobs:
           git add -A
           git commit -m "Remove dataset after pushing to HuggingFace" || echo "No changes"
           git push
+
