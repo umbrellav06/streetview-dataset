@@ -370,3 +370,8 @@ Call log:"
 2026-01-31-10:11:45,Philippines,url exists,None
 2026-01-31-10:11:52,Philippines,url exists,None
 2026-01-31-10:11:59,Philippines,url exists,None
+2026-01-31-11:08:04,Philippines,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-11:08:35,Philippines,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
