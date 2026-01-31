@@ -443,3 +443,8 @@ Call log:"
 2026-01-31-10:01:57,New Zealand,url exists,None
 2026-01-31-10:02:11,New Zealand,url exists,None
 2026-01-31-10:02:25,New Zealand,url exists,None
+2026-01-31-11:08:36,New Zealand,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-11:09:06,New Zealand,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
