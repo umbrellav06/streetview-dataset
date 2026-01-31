@@ -373,3 +373,19 @@ Call log:
 "
 2026-01-31-07:57:36,Slovenia,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-01-31-10:04:47,Slovenia,url exists,None
+2026-01-31-10:04:54,Slovenia,url exists,None
+2026-01-31-10:05:03,Slovenia,url exists,None
+2026-01-31-10:05:31,Slovenia,url exists,None
+2026-01-31-10:05:40,Slovenia,url exists,None
+2026-01-31-10:05:50,Slovenia,url exists,None
+2026-01-31-10:06:56,Slovenia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-10:07:26,Slovenia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-10:07:33,Slovenia,url exists,None
+2026-01-31-10:07:45,Slovenia,url exists,None
+2026-01-31-10:07:58,Slovenia,url exists,None
+2026-01-31-10:08:12,Slovenia,url exists,None
+2026-01-31-10:09:02,Slovenia,url exists,None
