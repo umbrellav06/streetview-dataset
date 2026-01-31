@@ -39,8 +39,7 @@ jobs:
         if: steps.check_dataset.outputs.exists == 'true'
         run: |
           pip install huggingface_hub
-
-      - name: Upload dataset to HuggingFace dataset
+      - name: Upload dataset to HuggingFace (large folder)
         if: steps.check_dataset.outputs.exists == 'true'
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
@@ -50,23 +49,22 @@ jobs:
           python3 << 'EOF'
           from huggingface_hub import HfApi
           import os
-          
+
           api = HfApi()
-          
+
           repo_id = f"{os.environ['HF_USERNAME']}/{os.environ['HF_DATASET']}"
+
           print("Starte Upload mit upload_large_folder...")
-          
-          # Upload entire dataset folder
-          api.upload_folder(
-              folder_path="dataset",
-              repo_id=repo_id,
-              repo_type="dataset",
-              token=os.environ["HF_TOKEN"],
-              path_in_repo="dataset",
-              delete_existing=False,
-              max_workers=8,
+
+          api.upload_large_folder(
+            folder_path="dataset",
+            repo_id=repo_id,
+            repo_type="dataset",
+            token=os.environ["HF_TOKEN"],
+            path_in_repo="dataset",
+            max_workers=8,
           )
-          
+
           print("Upload abgeschlossen.")
           EOF
 
@@ -83,5 +81,6 @@ jobs:
           git add -A
           git commit -m "Remove dataset after pushing to HuggingFace" || echo "No changes to commit"
           git push
+
 
 
