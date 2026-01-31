@@ -567,3 +567,16 @@ Call log:"
 2026-01-31-10:08:57,Romania,url exists,None
 2026-01-31-10:08:57,Romania,no images,None
 2026-01-31-11:00:40,Romania,url exists,None
+2026-01-31-14:03:39,Romania,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-14:04:10,Romania,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-14:05:02,Romania,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-14:05:32,Romania,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-14:06:05,Romania,url exists,Romania
+2026-01-31-14:06:55,Romania,url exists,Romania
+2026-01-31-14:07:35,Romania,url exists,Romania
