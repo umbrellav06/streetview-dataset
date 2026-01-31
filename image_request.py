@@ -78,6 +78,13 @@ def add_url(location,url):
                   mode="a", 
                   header=not pd.io.common.file_exists(path), 
                   index=False)
+    
+def getMap(location):
+    df = pd.read_csv("maps.csv")
+    maps = df[df["country"] == location]["map"].tolist() 
+    if not maps: 
+        return None # falls Land nicht existiert 
+    return random.choice(maps)
 
 def geoguessrchalleng_url(browser,location):
     """
@@ -94,8 +101,14 @@ def geoguessrchalleng_url(browser,location):
     
     # page.wait_for_timeout(2000)
     
+    map = getMap(location)
+    if map is None:
+        print('❌ map')
+        log_error(location=location,message='map')
+        return None, None
+
     try:
-        page.get_by_placeholder("Search for a map").fill(location)
+        page.get_by_placeholder("Search for a map").fill(map)
         page.locator("//button[contains(@class, 'Home_searchButton')]").click()
         # print("✔️ search for",location)
     except Exception as e:
@@ -159,11 +172,11 @@ def geoguessrchalleng_url(browser,location):
     # Popup
     try:
         # NMPZ-Button exists
-        nmpz_button = page.get_by_role("button", name="NMPZ")
-        nmpz_button.wait_for(state="visible", timeout=8000)
+        nm_button = page.get_by_role("button", name="No Move")
+        nm_button.wait_for(state="visible", timeout=8000)
 
         with context.expect_page(timeout=8000) as popup_info:
-            nmpz_button.click()
+            nm_button.click()
 
         page.wait_for_timeout(5000)
         popup = popup_info.value
@@ -220,6 +233,8 @@ def process_single(browser, location, index):
         log_error(location, "name", e)
         # context.close()
         # return False
+    
+    page.wait_for_timeout(500)
 
     # Start game
     try:
@@ -291,6 +306,26 @@ def process_single(browser, location, index):
         document.head.appendChild(style);
     """)
     
+    page.add_style_tag(content="""
+        button[data-qa="pano-zoom-in"],
+        button[data-qa="pano-zoom-out"],
+        .guess-map_zoomControls__kF2_G,
+        .guess-map_controlIncreaseSize__BPECj,
+        .guess-map_controlDecreaseSize__FgaUw {
+            display: none !important;
+            opacity: 0 !important;
+            visibility: hidden !important;
+        }
+    """)
+
+    page.add_init_script("""
+        document.querySelectorAll('button[aria-label*="vergrößern"], button[aria-label*="verkleinern"]').forEach(btn => {
+            btn.style.display = 'none';
+            btn.style.opacity = '0';
+            btn.style.visibility = 'hidden';
+        });
+    """)
+    
 
     # Streetview Canvas
     try:
@@ -333,9 +368,9 @@ def streetview(location_nr):
         "Bangladesh","Belgium","Bhutan","Bolivia","Bosnia and Herzegovina",
         "Botswana","Brazil","Bulgaria","Cambodia","Canada","Chile","China",
         "Colombia","Croatia","Czech Republic","Denmark",
-        "Ecuador","Estonia","Finland","France","Germany",
+        "Ecuador","Estonia","Eswatini","Finland","France","Germany",
         "Ghana","Greece","Guatemala","Hong Kong","Hungary","Iceland","India",
-        "Indonesia","Ireland","Israel","Italy","Japan",
+        "Indonesia","Ireland","Israel","Italy","Japan","Jordan","Kazakhstan",
         "Kenya","Kyrgyzstan","Laos","Latvia","Lesotho","Lithuania",
         "Luxembourg","Malaysia","Malta","Mexico","Moldova","Montenegro",
         "Nepal","Netherlands","New Zealand","Nigeria","North Macedonia",
@@ -346,14 +381,18 @@ def streetview(location_nr):
         "Taiwan","Thailand","Tunisia","Turkey","Uganda","Ukraine","United Arab Emirates",
         "United Kingdom","United States","Uruguay","Vatican City","Vietnam"
     ]
-    # no nmpz
-    # "Costa Rica","Dominican Republic","Eswatini","Jordan","Kazakhstan"
+    # no NoMove
+    # "Costa Rica","Dominican Republic"
     location_nr = int(location_nr)
     if location_nr >= len(locations):
         print('invalid location nr')
         return
 
-    location = locations[location_nr]    
+    location = locations[location_nr]
+    # temp -------------------
+    df = pd.read_csv("maps.csv")
+    location = df.iloc[location_nr]["country"]
+    # temp -------------------
 
     print('##################')
     print(location)
