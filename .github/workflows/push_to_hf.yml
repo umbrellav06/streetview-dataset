@@ -54,6 +54,7 @@ jobs:
           api = HfApi()
           
           repo_id = f"{os.environ['HF_USERNAME']}/{os.environ['HF_DATASET']}"
+          print("Starte Upload mit upload_large_folder...")
           
           # Upload entire dataset folder
           api.upload_folder(
@@ -62,7 +63,8 @@ jobs:
               repo_type="dataset",
               token=os.environ["HF_TOKEN"],
               path_in_repo="dataset",
-              ignore_patterns=None,
+              delete_existing=False,
+              max_workers=8,
           )
           
           print("Upload abgeschlossen.")
@@ -81,4 +83,5 @@ jobs:
           git add -A
           git commit -m "Remove dataset after pushing to HuggingFace" || echo "No changes to commit"
           git push
+
 
