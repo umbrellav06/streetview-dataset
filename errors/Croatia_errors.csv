@@ -289,3 +289,13 @@ Call log:"
 2026-01-31-07:47:39,Croatia,url exists,None
 2026-01-31-07:48:32,Croatia,url exists,None
 2026-01-31-07:48:39,Croatia,url exists,None
+2026-01-31-09:58:04,Croatia,url exists,None
+2026-01-31-09:58:43,Croatia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-09:59:13,Croatia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-09:59:20,Croatia,url exists,None
+2026-01-31-10:01:10,Croatia,url exists,None
+2026-01-31-10:01:38,Croatia,url exists,None
+2026-01-31-10:02:27,Croatia,url exists,None
