@@ -423,3 +423,13 @@ Call log:
 2026-01-31-10:11:56,Thailand,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
 2026-01-31-10:12:03,Thailand,url exists,None
+2026-01-31-11:07:57,Thailand,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-11:08:28,Thailand,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-11:09:33,Thailand,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-11:10:04,Thailand,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
