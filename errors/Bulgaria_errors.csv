@@ -485,3 +485,14 @@ Call log:"
 2026-01-31-10:05:54,Bulgaria,url exists,None
 2026-01-31-10:06:01,Bulgaria,url exists,None
 2026-01-31-10:06:43,Bulgaria,url exists,None
+2026-01-31-10:58:57,Bulgaria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-10:59:28,Bulgaria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-01-31-10:59:35,Bulgaria,url exists,None
+2026-01-31-11:02:25,Bulgaria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-01-31-11:02:56,Bulgaria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
