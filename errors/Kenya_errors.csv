@@ -800,3 +800,10 @@ Call log:"
 2026-02-01-10:10:06,Kenya,url exists,IntersectionGuessr - Kenya
 2026-02-01-10:10:15,Kenya,url exists,IntersectionGuessr - Kenya
 2026-02-01-10:11:36,Kenya,url exists,IntersectionGuessr - Kenya
+2026-02-01-14:11:01,Kenya,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-01-14:11:32,Kenya,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-01-14:12:45,Kenya,url exists,Kenya
+2026-02-01-14:12:52,Kenya,url exists,Kenya
