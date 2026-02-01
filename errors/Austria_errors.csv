@@ -715,3 +715,14 @@ Call log:
 "
 2026-02-01-10:12:00,Austria,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-02-01-14:02:45,Austria,url exists,Austria
+2026-02-01-14:03:07,Austria,url exists,Austria
+2026-02-01-14:03:15,Austria,url exists,Austria
+2026-02-01-14:04:16,Austria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-01-14:04:46,Austria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-01-14:06:11,Austria,url exists,Austria
+2026-02-01-14:06:42,Austria,url exists,Austria
+2026-02-01-14:06:53,Austria,url exists,Austria
