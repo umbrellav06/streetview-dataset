@@ -402,7 +402,7 @@ def streetview(location_nr):
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         success_count = 0
-        for i in range(15):
+        for i in range(20):
             if process_single(browser, location, i):
                 success_count += 1
 
@@ -431,4 +431,5 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     streetview(location_nr=args.location)
+
 
