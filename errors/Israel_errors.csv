@@ -610,3 +610,15 @@ Call log:"
 2026-02-01-05:25:29,Israel,url exists,Israel
 2026-02-01-05:25:46,Israel,world,None
 2026-02-01-05:27:36,Israel,url exists,Israel
+2026-02-01-07:53:02,Israel,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-01-07:53:33,Israel,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-01-07:53:53,Israel,url exists,Israel
+2026-02-01-07:54:00,Israel,url exists,Israel
+2026-02-01-07:54:23,Israel,url exists,Israel
+2026-02-01-07:55:25,Israel,url exists,Israel
+2026-02-01-07:55:51,Israel,url exists,Israel
+2026-02-01-07:56:00,Israel,url exists,Israel
+2026-02-01-07:56:07,Israel,url exists,Israel
