@@ -629,3 +629,11 @@ time,location,message,error
 2026-01-31-10:02:29,Kyrgyzstan,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
 2026-01-31-10:02:30,Kyrgyzstan,world,None
 2026-01-31-10:02:31,Kyrgyzstan,no images,None
+2026-02-01-16:03:03,Kyrgyzstan,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-01-16:03:34,Kyrgyzstan,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-01-16:03:53,Kyrgyzstan,url exists,Kyrgyzstan
+2026-02-01-16:04:23,Kyrgyzstan,world,None
+2026-02-01-16:04:44,Kyrgyzstan,url exists,Kyrgyzstan
