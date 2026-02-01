@@ -1,5 +1,9 @@
 name: Push Plot Image to HuggingFace
 
+concurrency:
+  group: streetview-dataset
+  cancel-in-progress: false
+  
 on:
   workflow_run:
     workflows: ["Update maps.csv"]
