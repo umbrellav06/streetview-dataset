@@ -677,3 +677,12 @@ Call log:
 2026-02-01-14:55:19,Iceland,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
 2026-02-01-14:55:29,Iceland,url exists,Iceland
+2026-02-01-15:17:10,Iceland,url exists,A Pinpointable Iceland
+2026-02-01-15:17:31,Iceland,url exists,A Pinpointable Iceland
+2026-02-01-15:17:38,Iceland,url exists,An Arbitrary Iceland
+2026-02-01-15:20:41,Iceland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-01-15:21:12,Iceland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-01-15:21:21,Iceland,url exists,Iceland
