@@ -726,3 +726,15 @@ Call log:"
 2026-02-01-14:06:11,Austria,url exists,Austria
 2026-02-01-14:06:42,Austria,url exists,Austria
 2026-02-01-14:06:53,Austria,url exists,Austria
+2026-02-01-14:52:25,Austria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-01-14:52:56,Austria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-01-14:53:03,Austria,url exists,Austria
+2026-02-01-14:53:39,Austria,url exists,Austria
+2026-02-01-14:53:46,Austria,url exists,Austria
+2026-02-01-14:54:15,Austria,url exists,Austria
+2026-02-01-14:54:45,Austria,url exists,Austria
+2026-02-01-14:54:55,Austria,url exists,Austria
+2026-02-01-14:55:07,Austria,url exists,Austria
