@@ -671,3 +671,19 @@ Call log:"
 2026-02-01-10:04:40,Laos,url exists,Laos
 2026-02-01-10:06:42,Laos,url exists,Laos
 2026-02-01-10:06:50,Laos,url exists,Laos
+2026-02-01-14:03:38,Laos,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-01-14:04:09,Laos,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-01-14:04:41,Laos,url exists,Laos
+2026-02-01-14:05:17,Laos,url exists,Laos
+2026-02-01-14:05:24,Laos,url exists,Laos
+2026-02-01-14:05:49,Laos,url exists,Laos
+2026-02-01-14:05:58,Laos,url exists,Laos
+2026-02-01-14:06:24,Laos,url exists,Laos
+2026-02-01-14:07:05,Laos,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-01-14:07:35,Laos,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
