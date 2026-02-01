@@ -581,3 +581,20 @@ Call log:"
 2026-02-01-05:29:15,Uruguay,url exists,Uruguay
 2026-02-01-05:30:00,Uruguay,url exists,Uruguay
 2026-02-01-05:30:27,Uruguay,url exists,Uruguay
+2026-02-01-08:01:32,Uruguay,url exists,Uruguay
+2026-02-01-08:02:57,Uruguay,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-01-08:03:28,Uruguay,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-01-08:04:05,Uruguay,url exists,Uruguay
+2026-02-01-08:05:02,Uruguay,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-01-08:05:33,Uruguay,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-01-08:06:13,Uruguay,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-01-08:06:44,Uruguay,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
