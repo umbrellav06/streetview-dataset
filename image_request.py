@@ -385,18 +385,15 @@ def streetview(location_nr):
     # no NoMove
     # "Costa Rica","Dominican Republic"
     location_nr = int(location_nr)
-    if location_nr >= len(locations):
+    if location_nr >= 30:
         print('invalid location nr')
         return
 
-    location = locations[location_nr]
-    # temp -------------------
     df = pd.read_csv("maps.csv")
-    first_80 = df.iloc[:80] # nur die ersten 80 Zeilen 
-    if not location in first_80["country"].values:
-        print('not today for ',location)
-        return
-    # temp -------------------
+    countries = df['country'].drop_duplicates().iloc[:30].reset_index()
+    countries = countries['country']
+
+    location = countries[location_nr]
 
     print('##################')
     print(location)
