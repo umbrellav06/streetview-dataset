@@ -659,3 +659,12 @@ Call log:
 2026-02-01-05:27:26,Laos,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
 2026-02-01-05:27:36,Laos,url exists,Laos
+2026-02-01-07:59:58,Laos,url exists,Laos
+2026-02-01-08:00:05,Laos,url exists,Laos
+2026-02-01-08:00:46,Laos,url exists,Laos
+2026-02-01-08:00:54,Laos,url exists,Laos
+2026-02-01-08:01:24,Laos,url exists,Laos
+2026-02-01-08:01:34,Laos,url exists,Laos
+2026-02-01-08:03:16,Laos,no popup,Timeout 30000ms exceeded.
+2026-02-01-08:03:53,Laos,no popup,Timeout 30000ms exceeded.
+2026-02-01-08:04:00,Laos,url exists,Laos
