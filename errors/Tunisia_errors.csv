@@ -808,3 +808,12 @@ Call log:
 Call log:"
 2026-02-01-10:10:10,Tunisia,world,None
 2026-02-01-10:10:18,Tunisia,url exists,Tunisia
+2026-02-01-14:08:46,Tunisia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-01-14:09:17,Tunisia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-01-14:09:18,Tunisia,world,None
+2026-02-01-14:09:51,Tunisia,url exists,Tunisia
+2026-02-01-14:09:57,Tunisia,url exists,IntersectionGuessr - Tunisia
+2026-02-01-14:12:04,Tunisia,url exists,A Balanced Tunisia
