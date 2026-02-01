@@ -567,3 +567,12 @@ Call log:"
 2026-02-01-07:53:48,Hungary,url exists,Hungary
 2026-02-01-07:54:55,Hungary,url exists,Hungary
 2026-02-01-07:57:00,Hungary,url exists,Hungary
+2026-02-01-10:04:56,Hungary,url exists,Hungary
+2026-02-01-10:05:42,Hungary,world,None
+2026-02-01-10:06:18,Hungary,url exists,Hungary
+2026-02-01-10:07:14,Hungary,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-01-10:07:45,Hungary,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-01-10:08:08,Hungary,url exists,Hungary
