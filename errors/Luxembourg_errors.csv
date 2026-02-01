@@ -633,3 +633,11 @@ Call log:"
 2026-02-01-10:03:54,Luxembourg,url exists,Luxembourg
 2026-02-01-10:04:02,Luxembourg,url exists,Luxembourg
 2026-02-01-10:05:40,Luxembourg,url exists,Luxembourg
+2026-02-01-13:57:15,Luxembourg,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-01-13:57:45,Luxembourg,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-01-13:58:05,Luxembourg,url exists,Luxembourg
+2026-02-01-13:58:12,Luxembourg,url exists,Luxembourg
+2026-02-01-13:58:54,Luxembourg,url exists,Luxembourg
