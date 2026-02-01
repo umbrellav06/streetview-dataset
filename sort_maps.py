@@ -15,7 +15,7 @@ for f in files:
     if len(parts) > 1:
         folder = parts[-2]   # letzter Ordnername
     else:
-        folder = "."         # falls Datei direkt im Root liegt
+        continue         # falls Datei direkt im Root liegt
     counts[folder] += 1
 
 
