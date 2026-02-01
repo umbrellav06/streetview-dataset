@@ -739,3 +739,21 @@ Call log:"
 2026-02-01-07:59:59,Paraguay,url exists,Paraguay
 2026-02-01-08:00:10,Paraguay,url exists,Paraguay
 2026-02-01-08:00:21,Paraguay,url exists,Paraguay
+2026-02-01-10:04:03,Paraguay,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-01-10:04:33,Paraguay,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-01-10:04:40,Paraguay,url exists,Paraguay
+2026-02-01-10:05:14,Paraguay,url exists,Paraguay
+2026-02-01-10:05:21,Paraguay,url exists,Paraguay
+2026-02-01-10:05:28,Paraguay,url exists,Paraguay
+2026-02-01-10:06:24,Paraguay,url exists,Paraguay
+2026-02-01-10:07:04,Paraguay,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-01-10:07:34,Paraguay,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-01-10:08:19,Paraguay,url exists,Paraguay
+2026-02-01-10:08:30,Paraguay,url exists,Paraguay
+2026-02-01-10:08:58,Paraguay,url exists,Paraguay
