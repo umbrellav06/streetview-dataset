@@ -1,6 +1,8 @@
 import pandas as pd
 from huggingface_hub import list_repo_files
 from collections import defaultdict
+import matplotlib.pyplot as plt
+from datetime import datetime
 
 repo_id = "charlottev/google-streetview-images-by-country"
 
@@ -34,3 +36,18 @@ maps_sorted = maps.sort_values("sort_key").drop(columns="sort_key")
 maps_sorted.to_csv("maps.csv", index=False)
 
 print("maps.csv aktualisiert")
+
+time = str(datetime.now().strftime("%Y-%m-%d"))
+title = "images per country "+time
+
+plt.figure(figsize=(12, 6))
+plt.bar(folder_counts["folder"], folder_counts["number"])
+plt.xticks(rotation=90)
+plt.xlabel("folder")
+plt.ylabel("number of images")
+plt.title(title)
+plt.tight_layout()
+plt.savefig("images_per_country.png", dpi=200)
+plt.close()
+
+print("image aktualisiert")
