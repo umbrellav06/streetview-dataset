@@ -667,3 +667,15 @@ Call log:"
 2026-02-01-08:05:39,Switzerland,url exists,Switzerland
 2026-02-01-08:06:36,Switzerland,url exists,Switzerland
 2026-02-01-08:06:45,Switzerland,url exists,Switzerland
+2026-02-01-10:04:46,Switzerland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-01-10:05:17,Switzerland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-01-10:06:22,Switzerland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-01-10:06:53,Switzerland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-01-10:08:33,Switzerland,url exists,Switzerland
+2026-02-01-10:08:40,Switzerland,url exists,Switzerland
