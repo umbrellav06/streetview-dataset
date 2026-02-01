@@ -652,3 +652,15 @@ Call log:"
 2026-02-01-07:59:17,Peru,url exists,A Balanced Peru
 2026-02-01-07:59:52,Peru,url exists,Peru
 2026-02-01-08:01:21,Peru,url exists,A Balanced Peru
+2026-02-01-10:02:33,Peru,url exists,IntersectionGuessr - Peru
+2026-02-01-10:03:12,Peru,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-01-10:03:43,Peru,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-01-10:04:04,Peru,url exists,Peru
+2026-02-01-10:06:13,Peru,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-01-10:06:43,Peru,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
