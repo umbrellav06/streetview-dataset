@@ -670,3 +670,15 @@ Call log:"
 2026-02-01-10:12:01,Senegal,url exists,Senegal
 2026-02-01-10:12:38,Senegal,no popup,Timeout 30000ms exceeded.
 2026-02-01-10:12:52,Senegal,url exists,Senegal
+2026-02-01-14:08:00,Senegal,url exists,Senegal
+2026-02-01-14:08:07,Senegal,url exists,Senegal
+2026-02-01-14:08:15,Senegal,url exists,Senegal
+2026-02-01-14:09:14,Senegal,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-01-14:09:45,Senegal,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-01-14:10:33,Senegal,url exists,Senegal
+2026-02-01-14:11:02,Senegal,url exists,Senegal
+2026-02-01-14:11:34,Senegal,url exists,Senegal
+2026-02-01-14:12:31,Senegal,url exists,Senegal
