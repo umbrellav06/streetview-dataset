@@ -654,3 +654,23 @@ Call log:"
 2026-02-01-09:57:17,Bhutan,world,None
 2026-02-01-09:57:55,Bhutan,url exists,Bhutan
 2026-02-01-09:58:37,Bhutan,url exists,Bhutan
+2026-02-01-14:00:45,Bhutan,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-01-14:01:16,Bhutan,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-01-14:01:23,Bhutan,url exists,Bhutan
+2026-02-01-14:02:20,Bhutan,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-01-14:02:51,Bhutan,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-01-14:03:34,Bhutan,url exists,Bhutan
+2026-02-01-14:04:06,Bhutan,url exists,Bhutan
+2026-02-01-14:05:10,Bhutan,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-01-14:05:40,Bhutan,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-01-14:06:35,Bhutan,url exists,Bhutan
+2026-02-01-14:06:47,Bhutan,url exists,Bhutan
