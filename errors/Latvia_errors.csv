@@ -585,3 +585,12 @@ Call log:"
 2026-02-01-07:56:45,Latvia,url exists,Latvia
 2026-02-01-07:56:53,Latvia,url exists,Latvia
 2026-02-01-07:57:20,Latvia,url exists,Latvia
+2026-02-01-09:57:46,Latvia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-01-09:58:17,Latvia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-01-09:58:36,Latvia,url exists,Latvia
+2026-02-01-09:59:26,Latvia,url exists,Latvia
+2026-02-01-10:00:05,Latvia,url exists,Latvia
+2026-02-01-10:00:12,Latvia,url exists,Latvia
