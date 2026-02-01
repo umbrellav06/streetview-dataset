@@ -686,3 +686,17 @@ Call log:
 2026-02-01-15:21:12,Iceland,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
 2026-02-01-15:21:21,Iceland,url exists,Iceland
+2026-02-01-16:02:18,Iceland,world,None
+2026-02-01-16:02:25,Iceland,url exists,A Pinpointable Iceland
+2026-02-01-16:02:32,Iceland,url exists,A Pinpointable Iceland
+2026-02-01-16:03:29,Iceland,url exists,An Arbitrary Iceland
+2026-02-01-16:05:02,Iceland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-01-16:05:33,Iceland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-01-16:06:20,Iceland,url exists,Iceland
+2026-02-01-16:06:28,Iceland,url exists,Iceland
+2026-02-01-16:06:38,Iceland,url exists,Iceland
+2026-02-01-16:06:45,Iceland,url exists,Iceland
+2026-02-01-16:07:17,Iceland,url exists,An Arbitrary Iceland
