@@ -622,3 +622,20 @@ Call log:"
 2026-02-01-07:55:51,Israel,url exists,Israel
 2026-02-01-07:56:00,Israel,url exists,Israel
 2026-02-01-07:56:07,Israel,url exists,Israel
+2026-02-01-10:09:35,Israel,url exists,Israel
+2026-02-01-10:10:12,Israel,url exists,Israel
+2026-02-01-10:10:21,Israel,url exists,Israel
+2026-02-01-10:10:29,Israel,url exists,Israel
+2026-02-01-10:11:29,Israel,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-01-10:12:00,Israel,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-01-10:12:09,Israel,url exists,Israel
+2026-02-01-10:12:49,Israel,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-01-10:13:19,Israel,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-01-10:14:14,Israel,url exists,Israel
+2026-02-01-10:14:25,Israel,url exists,Israel
