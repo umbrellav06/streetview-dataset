@@ -649,3 +649,11 @@ Call log:
 "
 2026-02-01-07:59:56,Iceland,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-02-01-10:07:23,Iceland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-01-10:07:53,Iceland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-01-10:08:08,Iceland,world,None
+2026-02-01-10:09:07,Iceland,url exists,Iceland
+2026-02-01-10:09:28,Iceland,url exists,A Pinpointable Iceland
