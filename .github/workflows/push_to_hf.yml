@@ -1,5 +1,9 @@
 name: Push Dataset to HuggingFace
 
+concurrency:
+  group: streetview-dataset
+  cancel-in-progress: false
+  
 on:
   workflow_run:
     workflows: ["Run Image Request"]
@@ -102,4 +106,5 @@ jobs:
           git add -A
           git commit -m "Remove dataset after pushing to HuggingFace" || echo "No changes"
           git push
+
 
