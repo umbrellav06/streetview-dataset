@@ -681,3 +681,11 @@ Call log:"
 2026-02-01-14:56:12,Peru,url exists,Peru
 2026-02-01-14:56:36,Peru,url exists,IntersectionGuessr - Peru
 2026-02-01-14:58:01,Peru,url exists,IntersectionGuessr - Peru
+2026-02-01-15:21:29,Peru,url exists,A Balanced Peru
+2026-02-01-15:22:09,Peru,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-01-15:22:39,Peru,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-01-15:24:23,Peru,url exists,Peru
+2026-02-01-15:25:02,Peru,url exists,Peru
