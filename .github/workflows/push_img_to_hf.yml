@@ -1,0 +1,58 @@
+name: Push Plot Image to HuggingFace
+
+on:
+  workflow_run:
+    workflows: ["Update maps.csv"]
+    types: [completed]
+  workflow_dispatch:
+
+jobs:
+  push-plot:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Verify plot exists
+        run: |
+          if [ ! -f "images_per_country.png" ]; then
+            echo "Plot nicht gefunden – Workflow wird beendet."
+            exit 1
+          fi
+
+      - name: Clone HuggingFace dataset repo
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_USERNAME: ${{ secrets.HF_USERNAME }}
+          HF_DATASET: ${{ secrets.HF_DATASET }}
+        run: |
+          mkdir -p temp
+          cd temp
+          git clone https://huggingface.co/datasets/${{ secrets.HF_USERNAME }}/${{ secrets.HF_DATASET }} hf_dataset
+          cd hf_dataset
+          git lfs install
+
+      - name: Copy plot into HF repo
+        run: |
+          cp images_per_country.png temp/hf_dataset/
+
+      - name: Commit & push plot to HuggingFace
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_USERNAME: ${{ secrets.HF_USERNAME }}
+          HF_DATASET: ${{ secrets.HF_DATASET }}
+        run: |
+          cd temp/hf_dataset
+
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+
+          git add images_per_country.png
+
+          if git diff --cached --quiet; then
+            echo "Keine Änderungen – nichts zu committen."
+          else
+            git commit -m "Update plot image"
+            git push https://${{ secrets.HF_USERNAME }}:${{ secrets.HF_TOKEN }}@huggingface.co/datasets/${{ secrets.HF_USERNAME }}/${{ secrets.HF_DATASET }}
+          fi
