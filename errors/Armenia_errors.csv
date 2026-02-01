@@ -646,3 +646,16 @@ Call log:"
 2026-02-01-09:59:44,Armenia,url exists,Armenia
 2026-02-01-09:59:55,Armenia,url exists,Armenia
 2026-02-01-10:00:32,Armenia,no popup,Timeout 30000ms exceeded.
+2026-02-01-14:07:51,Armenia,url exists,Armenia
+2026-02-01-14:08:30,Armenia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-01-14:09:01,Armenia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-01-14:09:08,Armenia,url exists,Armenia
+2026-02-01-14:09:14,Armenia,url exists,Armenia
+2026-02-01-14:10:08,Armenia,url exists,Armenia
+2026-02-01-14:10:34,Armenia,url exists,Armenia
+2026-02-01-14:11:01,Armenia,url exists,Armenia
+2026-02-01-14:11:08,Armenia,url exists,Armenia
+2026-02-01-14:12:26,Armenia,url exists,Armenia
