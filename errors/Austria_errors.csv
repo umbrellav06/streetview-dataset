@@ -767,3 +767,18 @@ Call log:
 "
 2026-02-01-19:12:58,Austria,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-02-02-05:23:40,Austria,url exists,Austria
+2026-02-02-05:23:47,Austria,url exists,Austria
+2026-02-02-05:24:12,Austria,url exists,Austria
+2026-02-02-05:24:36,Austria,url exists,Austria
+2026-02-02-05:24:45,Austria,url exists,Austria
+2026-02-02-05:24:52,Austria,url exists,Austria
+2026-02-02-05:25:03,Austria,url exists,Austria
+2026-02-02-05:25:10,Austria,url exists,Austria
+2026-02-02-05:25:47,Austria,no popup,Timeout 30000ms exceeded.
+2026-02-02-05:26:00,Austria,url exists,Austria
+2026-02-02-05:26:14,Austria,url exists,Austria
+2026-02-02-05:26:21,Austria,url exists,Austria
+2026-02-02-05:26:58,Austria,no popup,Timeout 30000ms exceeded.
+2026-02-02-05:27:40,Austria,url exists,Austria
+2026-02-02-05:29:08,Austria,url exists,Austria
