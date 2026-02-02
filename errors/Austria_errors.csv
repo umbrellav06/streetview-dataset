@@ -846,3 +846,26 @@ Call log:"
 2026-02-02-16:56:48,Austria,url exists,Austria
 2026-02-02-16:57:41,Austria,url exists,Austria
 2026-02-02-16:57:58,Austria,url exists,Austria
+2026-02-02-18:04:32,Austria,url exists,Austria
+2026-02-02-18:04:39,Austria,url exists,Austria
+2026-02-02-18:05:04,Austria,url exists,Austria
+2026-02-02-18:05:05,Austria,world,None
+2026-02-02-18:05:13,Austria,url exists,Austria
+2026-02-02-18:05:20,Austria,url exists,Austria
+2026-02-02-18:05:30,Austria,url exists,Austria
+2026-02-02-18:06:10,Austria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-02-18:06:40,Austria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-02-18:06:47,Austria,url exists,Austria
+2026-02-02-18:06:59,Austria,url exists,Austria
+2026-02-02-18:07:06,Austria,url exists,Austria
+2026-02-02-18:07:19,Austria,url exists,Austria
+2026-02-02-18:07:27,Austria,url exists,Austria
+2026-02-02-18:07:34,Austria,url exists,Austria
+2026-02-02-18:07:49,Austria,url exists,Austria
+2026-02-02-18:08:06,Austria,url exists,Austria
+2026-02-02-18:08:13,Austria,url exists,Austria
+2026-02-02-18:08:20,Austria,url exists,Austria
+2026-02-02-18:08:58,Austria,no popup,Timeout 30000ms exceeded.
