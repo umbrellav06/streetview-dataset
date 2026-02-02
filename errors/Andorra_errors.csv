@@ -854,3 +854,32 @@ Call log:"
 2026-02-02-08:05:49,Andorra,url exists,Pinpointable Andorra
 2026-02-02-08:06:06,Andorra,url exists,Andorra
 2026-02-02-08:06:26,Andorra,url exists,Andorra
+2026-02-02-11:29:57,Andorra,url exists,Pinpointable Andorra
+2026-02-02-11:30:04,Andorra,url exists,Pinpointable Andorra
+2026-02-02-11:30:12,Andorra,url exists,Andorra
+2026-02-02-11:30:19,Andorra,url exists,Pinpointable Andorra
+2026-02-02-11:30:59,Andorra,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-02-11:31:29,Andorra,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-02-11:31:36,Andorra,url exists,Andorra
+2026-02-02-11:31:46,Andorra,url exists,Pinpointable Andorra
+2026-02-02-11:31:53,Andorra,url exists,Andorra
+2026-02-02-11:32:05,Andorra,url exists,Pinpointable Andorra
+2026-02-02-11:32:12,Andorra,url exists,Pinpointable Andorra
+2026-02-02-11:32:25,Andorra,url exists,Andorra
+2026-02-02-11:32:32,Andorra,url exists,Andorra
+2026-02-02-11:32:47,Andorra,url exists,Andorra
+2026-02-02-11:32:54,Andorra,url exists,Pinpointable Andorra
+2026-02-02-11:33:38,Andorra,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-02-11:34:08,Andorra,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-02-11:34:24,Andorra,url exists,Pinpointable Andorra
+2026-02-02-11:34:40,Andorra,url exists,Pinpointable Andorra
+2026-02-02-11:34:47,Andorra,url exists,Andorra
+2026-02-02-11:35:06,Andorra,url exists,Pinpointable Andorra
+2026-02-02-11:35:24,Andorra,url exists,Andorra
+2026-02-02-11:35:25,Andorra,no images,None
