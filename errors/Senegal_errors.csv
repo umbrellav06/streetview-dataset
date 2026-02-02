@@ -897,3 +897,38 @@ Call log:"
 2026-02-02-18:09:01,Senegal,url exists,Senegal
 2026-02-02-18:09:18,Senegal,url exists,Senegal
 2026-02-02-18:09:25,Senegal,url exists,Senegal
+2026-02-02-23:15:42,Senegal,url exists,Senegal
+2026-02-02-23:15:49,Senegal,url exists,Senegal
+2026-02-02-23:16:29,Senegal,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-02-23:16:59,Senegal,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-02-23:17:25,Senegal,url exists,Senegal
+2026-02-02-23:17:33,Senegal,url exists,Senegal
+2026-02-02-23:17:43,Senegal,url exists,Senegal
+2026-02-02-23:17:52,Senegal,url exists,Senegal
+2026-02-02-23:18:30,Senegal,no popup,Timeout 30000ms exceeded.
+2026-02-02-23:18:41,Senegal,url exists,Senegal
+2026-02-02-23:18:53,Senegal,url exists,Senegal
+2026-02-02-23:19:34,Senegal,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-02-23:20:04,Senegal,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-02-23:20:16,Senegal,url exists,Senegal
+2026-02-02-23:20:29,Senegal,url exists,Senegal
+2026-02-02-23:20:44,Senegal,url exists,Senegal
+2026-02-02-23:20:51,Senegal,url exists,Senegal
+2026-02-02-23:21:07,Senegal,url exists,Senegal
+2026-02-02-23:21:22,Senegal,url exists,Senegal
+2026-02-02-23:21:40,Senegal,url exists,Senegal
+2026-02-02-23:22:17,Senegal,no popup,Timeout 30000ms exceeded.
+2026-02-02-23:22:24,Senegal,url exists,Senegal
+2026-02-02-23:22:44,Senegal,url exists,Senegal
+2026-02-02-23:24:11,Senegal,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-02-23:24:42,Senegal,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-02-23:25:03,Senegal,url exists,Senegal
