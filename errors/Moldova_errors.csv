@@ -723,3 +723,26 @@ Call log:"
 2026-02-02-05:21:23,Moldova,url exists,Moldova
 2026-02-02-05:22:03,Moldova,url exists,Moldova
 2026-02-02-05:23:19,Moldova,url exists,Moldova
+2026-02-02-11:32:03,Moldova,url exists,Moldova
+2026-02-02-11:32:26,Moldova,url exists,Moldova
+2026-02-02-11:33:07,Moldova,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-02-11:33:37,Moldova,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-02-11:33:45,Moldova,url exists,Moldova
+2026-02-02-11:33:53,Moldova,url exists,Moldova
+2026-02-02-11:34:03,Moldova,url exists,Moldova
+2026-02-02-11:34:13,Moldova,url exists,Moldova
+2026-02-02-11:35:43,Moldova,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-02-11:36:14,Moldova,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-02-11:36:46,Moldova,url exists,Moldova
+2026-02-02-11:36:58,Moldova,url exists,Moldova
+2026-02-02-11:37:31,Moldova,url exists,Moldova
+2026-02-02-11:37:45,Moldova,url exists,Moldova
+2026-02-02-11:37:58,Moldova,url exists,Moldova
+2026-02-02-11:38:13,Moldova,url exists,Moldova
+2026-02-02-11:38:28,Moldova,url exists,Moldova
