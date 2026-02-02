@@ -883,3 +883,24 @@ Call log:
 Call log:"
 2026-02-02-16:49:12,Nepal,url exists,Nepal
 2026-02-02-16:50:11,Nepal,url exists,Nepal
+2026-02-02-18:10:59,Nepal,world,None
+2026-02-02-18:11:06,Nepal,url exists,Nepal
+2026-02-02-18:11:13,Nepal,url exists,Nepal
+2026-02-02-18:11:20,Nepal,url exists,Nepal
+2026-02-02-18:11:27,Nepal,url exists,Nepal
+2026-02-02-18:11:54,Nepal,url exists,Nepal
+2026-02-02-18:12:20,Nepal,url exists,Nepal
+2026-02-02-18:12:59,Nepal,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-02-18:13:30,Nepal,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-02-18:13:40,Nepal,url exists,Nepal
+2026-02-02-18:14:09,Nepal,url exists,Nepal
+2026-02-02-18:14:16,Nepal,url exists,Nepal
+2026-02-02-18:14:23,Nepal,url exists,Nepal
+2026-02-02-18:14:36,Nepal,url exists,Nepal
+2026-02-02-18:15:13,Nepal,no popup,Timeout 30000ms exceeded.
+2026-02-02-18:15:20,Nepal,url exists,Nepal
+2026-02-02-18:15:27,Nepal,url exists,Nepal
+2026-02-02-18:15:28,Nepal,world,None
