@@ -881,3 +881,26 @@ Call log:"
 2026-02-02-16:47:08,Ecuador,url exists,Ecuador
 2026-02-02-16:47:26,Ecuador,url exists,Ecuador
 2026-02-02-16:48:04,Ecuador,url exists,Ecuador
+2026-02-02-18:05:28,Ecuador,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-02-18:05:58,Ecuador,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-02-18:06:05,Ecuador,url exists,Ecuador
+2026-02-02-18:06:12,Ecuador,url exists,Ecuador
+2026-02-02-18:06:19,Ecuador,url exists,Ecuador
+2026-02-02-18:06:26,Ecuador,url exists,Ecuador
+2026-02-02-18:06:34,Ecuador,url exists,Ecuador
+2026-02-02-18:06:41,Ecuador,url exists,Ecuador
+2026-02-02-18:07:18,Ecuador,no popup,Timeout 30000ms exceeded.
+2026-02-02-18:07:30,Ecuador,url exists,Ecuador
+2026-02-02-18:08:06,Ecuador,url exists,Ecuador
+2026-02-02-18:08:13,Ecuador,url exists,Ecuador
+2026-02-02-18:08:27,Ecuador,url exists,Ecuador
+2026-02-02-18:08:41,Ecuador,url exists,Ecuador
+2026-02-02-18:08:58,Ecuador,url exists,Ecuador
+2026-02-02-18:09:14,Ecuador,url exists,Ecuador
+2026-02-02-18:09:16,Ecuador,world,None
+2026-02-02-18:09:33,Ecuador,url exists,Ecuador
+2026-02-02-18:09:49,Ecuador,url exists,Ecuador
+2026-02-02-18:09:56,Ecuador,url exists,Ecuador
