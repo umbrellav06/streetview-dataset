@@ -619,3 +619,20 @@ Call log:"
 2026-02-02-14:36:13,Latvia,url exists,Latvia
 2026-02-02-14:36:29,Latvia,url exists,Latvia
 2026-02-02-14:37:06,Latvia,no popup,Timeout 30000ms exceeded.
+2026-02-02-18:04:35,Latvia,url exists,Latvia
+2026-02-02-18:04:57,Latvia,url exists,Latvia
+2026-02-02-18:05:04,Latvia,url exists,Latvia
+2026-02-02-18:05:32,Latvia,url exists,Latvia
+2026-02-02-18:05:59,Latvia,url exists,Latvia
+2026-02-02-18:06:09,Latvia,url exists,Latvia
+2026-02-02-18:06:38,Latvia,url exists,Latvia
+2026-02-02-18:07:59,Latvia,url exists,Latvia
+2026-02-02-18:08:06,Latvia,url exists,Latvia
+2026-02-02-18:08:13,Latvia,url exists,Latvia
+2026-02-02-18:08:26,Latvia,url exists,Latvia
+2026-02-02-18:08:33,Latvia,url exists,Latvia
+2026-02-02-18:09:16,Latvia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-02-18:09:46,Latvia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
