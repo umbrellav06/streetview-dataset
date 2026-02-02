@@ -809,3 +809,42 @@ Call log:"
 2026-02-02-11:27:15,Rwanda,url exists,Rwanda
 2026-02-02-11:27:55,Rwanda,world,None
 2026-02-02-11:28:11,Rwanda,url exists,Rwanda
+2026-02-02-14:26:52,Rwanda,url exists,Rwanda
+2026-02-02-14:26:59,Rwanda,url exists,Rwanda
+2026-02-02-14:27:22,Rwanda,url exists,Rwanda
+2026-02-02-14:27:29,Rwanda,url exists,Rwanda
+2026-02-02-14:27:36,Rwanda,url exists,Rwanda
+2026-02-02-14:28:13,Rwanda,no popup,Timeout 30000ms exceeded.
+2026-02-02-14:28:24,Rwanda,url exists,Rwanda
+2026-02-02-14:28:37,Rwanda,url exists,Rwanda
+2026-02-02-14:28:48,Rwanda,url exists,Rwanda
+2026-02-02-14:29:28,Rwanda,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-02-14:29:58,Rwanda,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-02-14:30:05,Rwanda,url exists,Rwanda
+2026-02-02-14:30:46,Rwanda,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-02-14:31:17,Rwanda,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-02-14:31:56,Rwanda,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-02-14:32:27,Rwanda,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-02-14:32:41,Rwanda,url exists,Rwanda
+2026-02-02-14:33:20,Rwanda,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-02-14:33:51,Rwanda,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-02-14:33:58,Rwanda,url exists,Rwanda
+2026-02-02-14:34:05,Rwanda,url exists,Rwanda
+2026-02-02-14:34:12,Rwanda,url exists,Rwanda
+2026-02-02-14:34:57,Rwanda,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-02-14:35:27,Rwanda,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
