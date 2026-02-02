@@ -799,3 +799,25 @@ Call log:"
 2026-02-02-11:34:28,Austria,url exists,Austria
 2026-02-02-11:34:45,Austria,url exists,Austria
 2026-02-02-11:34:53,Austria,url exists,Austria
+2026-02-02-14:26:48,Austria,url exists,Austria
+2026-02-02-14:26:55,Austria,url exists,Austria
+2026-02-02-14:27:02,Austria,url exists,Austria
+2026-02-02-14:27:10,Austria,url exists,Austria
+2026-02-02-14:27:17,Austria,url exists,Austria
+2026-02-02-14:27:24,Austria,url exists,Austria
+2026-02-02-14:28:13,Austria,url exists,Austria
+2026-02-02-14:28:50,Austria,no popup,Timeout 30000ms exceeded.
+2026-02-02-14:28:57,Austria,url exists,Austria
+2026-02-02-14:29:34,Austria,no popup,Timeout 30000ms exceeded.
+2026-02-02-14:30:11,Austria,no popup,"Timeout 30000ms exceeded.
+========================"
+2026-02-02-14:30:54,Austria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-02-14:31:24,Austria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-02-14:32:03,Austria,url exists,Austria
+2026-02-02-14:32:19,Austria,url exists,Austria
+2026-02-02-14:32:35,Austria,url exists,Austria
+2026-02-02-14:32:42,Austria,url exists,Austria
+2026-02-02-14:32:49,Austria,url exists,Austria
