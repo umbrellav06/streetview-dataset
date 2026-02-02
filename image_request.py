@@ -385,12 +385,12 @@ def streetview(location_nr):
     # no NoMove
     # "Costa Rica","Dominican Republic"
     location_nr = int(location_nr)
-    if location_nr >= 30:
+    if location_nr >= 40:
         print('invalid location nr')
         return
 
     df = pd.read_csv("maps.csv")
-    countries = df['country'].drop_duplicates().iloc[:30].reset_index()
+    countries = df['country'].drop_duplicates().iloc[:40].reset_index()
     countries = countries['country']
 
     location = countries[location_nr]
@@ -431,5 +431,6 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     streetview(location_nr=args.location)
+
 
 
