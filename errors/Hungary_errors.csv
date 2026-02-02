@@ -582,3 +582,16 @@ Call log:"
 2026-02-01-14:04:06,Hungary,url exists,Hungary
 2026-02-01-14:04:48,Hungary,world,None
 2026-02-01-14:05:37,Hungary,url exists,Hungary
+2026-02-02-23:16:01,Hungary,url exists,Hungary
+2026-02-02-23:17:23,Hungary,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-02-23:17:54,Hungary,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-02-23:18:01,Hungary,url exists,Hungary
+2026-02-02-23:18:26,Hungary,url exists,Hungary
+2026-02-02-23:19:47,Hungary,url exists,Hungary
+2026-02-02-23:19:56,Hungary,url exists,Hungary
+2026-02-02-23:20:28,Hungary,url exists,Hungary
+2026-02-02-23:21:03,Hungary,url exists,Hungary
+2026-02-02-23:22:20,Hungary,url exists,Hungary
