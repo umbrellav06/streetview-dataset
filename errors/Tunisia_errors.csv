@@ -861,3 +861,17 @@ Call log:"
 2026-02-02-08:11:11,Tunisia,url exists,A Balanced Tunisia
 2026-02-02-08:11:48,Tunisia,no popup,Timeout 30000ms exceeded.
 2026-02-02-08:12:49,Tunisia,no popup,Timeout 30000ms exceeded.
+2026-02-02-11:31:16,Tunisia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-02-11:31:46,Tunisia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-02-11:32:06,Tunisia,url exists,A Balanced Tunisia
+2026-02-02-11:32:40,Tunisia,url exists,Tunisia
+2026-02-02-11:32:47,Tunisia,url exists,A Balanced Tunisia
+2026-02-02-11:34:42,Tunisia,url exists,IntersectionGuessr - Tunisia
+2026-02-02-11:34:51,Tunisia,url exists,A Balanced Tunisia
+2026-02-02-11:35:58,Tunisia,url exists,A Balanced Tunisia
+2026-02-02-11:36:05,Tunisia,url exists,Tunisia
+2026-02-02-11:36:12,Tunisia,url exists,A Balanced Tunisia
+2026-02-02-11:36:25,Tunisia,url exists,IntersectionGuessr - Tunisia
