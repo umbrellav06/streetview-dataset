@@ -553,3 +553,13 @@ Call log:"
 2026-02-01-19:09:11,Estonia,url exists,Estonia
 2026-02-01-19:09:20,Estonia,url exists,Estonia
 2026-02-01-19:10:18,Estonia,url exists,Estonia
+2026-02-02-08:02:56,Estonia,url exists,Estonia
+2026-02-02-08:03:18,Estonia,url exists,Estonia
+2026-02-02-08:03:57,Estonia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-02-08:04:28,Estonia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-02-08:04:35,Estonia,url exists,Estonia
+2026-02-02-08:05:00,Estonia,url exists,Estonia
+2026-02-02-08:05:09,Estonia,url exists,Estonia
