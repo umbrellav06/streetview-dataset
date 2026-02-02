@@ -895,3 +895,28 @@ Call log:"
 2026-02-02-16:49:26,Sri Lanka,url exists,Sri Lanka
 2026-02-02-16:49:33,Sri Lanka,url exists,Sri Lanka
 2026-02-02-16:49:40,Sri Lanka,url exists,Sri Lanka
+2026-02-02-18:10:20,Sri Lanka,url exists,Sri Lanka
+2026-02-02-18:10:26,Sri Lanka,url exists,Sri Lanka
+2026-02-02-18:10:33,Sri Lanka,url exists,Sri Lanka
+2026-02-02-18:11:13,Sri Lanka,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-02-18:11:43,Sri Lanka,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-02-18:11:52,Sri Lanka,url exists,Sri Lanka
+2026-02-02-18:12:01,Sri Lanka,url exists,Sri Lanka
+2026-02-02-18:12:12,Sri Lanka,url exists,Sri Lanka
+2026-02-02-18:12:23,Sri Lanka,url exists,Sri Lanka
+2026-02-02-18:12:35,Sri Lanka,url exists,Sri Lanka
+2026-02-02-18:12:47,Sri Lanka,url exists,Sri Lanka
+2026-02-02-18:13:01,Sri Lanka,url exists,Sri Lanka
+2026-02-02-18:13:14,Sri Lanka,url exists,Sri Lanka
+2026-02-02-18:13:29,Sri Lanka,url exists,Sri Lanka
+2026-02-02-18:13:46,Sri Lanka,url exists,Sri Lanka
+2026-02-02-18:14:03,Sri Lanka,url exists,Sri Lanka
+2026-02-02-18:14:41,Sri Lanka,no popup,Timeout 30000ms exceeded.
+2026-02-02-18:15:18,Sri Lanka,no popup,Timeout 30000ms exceeded.
+2026-02-02-18:15:39,Sri Lanka,url exists,Sri Lanka
+2026-02-02-18:16:00,Sri Lanka,url exists,Sri Lanka
+2026-02-02-18:16:19,Sri Lanka,url exists,Sri Lanka
+2026-02-02-18:16:20,Sri Lanka,no images,None
