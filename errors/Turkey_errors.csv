@@ -765,3 +765,31 @@ Call log:"
 2026-02-02-18:08:21,Turkey,url exists,Turkey
 2026-02-02-18:09:05,Turkey,url exists,A Balanced Turkey
 2026-02-02-18:09:45,Turkey,url exists,Turkey
+2026-02-02-23:15:15,Turkey,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-02-23:15:23,Turkey,url exists,Turkey
+2026-02-02-23:15:30,Turkey,url exists,Turkey
+2026-02-02-23:15:53,Turkey,url exists,Turkey
+2026-02-02-23:16:18,Turkey,url exists,A Balanced Turkey
+2026-02-02-23:16:45,Turkey,url exists,Pinpointable Aegean Turkey
+2026-02-02-23:16:54,Turkey,url exists,Pinpointable Aegean Turkey
+2026-02-02-23:17:16,Turkey,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-02-23:17:37,Turkey,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-02-23:18:17,Turkey,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-02-23:18:47,Turkey,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-02-23:18:54,Turkey,url exists,Turkey
+2026-02-02-23:19:06,Turkey,url exists,Sakarya Türkiye - Sakarya Turkey
+2026-02-02-23:19:13,Turkey,url exists,A Balanced Turkey
+2026-02-02-23:19:25,Turkey,url exists,Pinpointable Aegean Turkey
+2026-02-02-23:20:02,Turkey,url exists,Turkey
+2026-02-02-23:20:10,Turkey,url exists,Pinpointable Aegean Turkey
+2026-02-02-23:20:47,Turkey,no popup,Timeout 30000ms exceeded.
+2026-02-02-23:21:02,Turkey,url exists,Turkey
+2026-02-02-23:21:52,Turkey,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-02-23:22:29,Turkey,no popup,Timeout 30000ms exceeded.
