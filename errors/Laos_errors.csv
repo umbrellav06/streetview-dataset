@@ -750,3 +750,30 @@ Call log:
 "
 2026-02-02-18:09:29,Laos,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-02-02-23:15:35,Laos,url exists,Laos
+2026-02-02-23:15:56,Laos,url exists,Laos
+2026-02-02-23:16:23,Laos,url exists,Laos
+2026-02-02-23:16:31,Laos,url exists,Laos
+2026-02-02-23:17:00,Laos,url exists,Laos
+2026-02-02-23:17:37,Laos,no popup,Timeout 30000ms exceeded.
+2026-02-02-23:18:38,Laos,no popup,Timeout 30000ms exceeded.
+2026-02-02-23:18:49,Laos,url exists,Laos
+2026-02-02-23:19:02,Laos,url exists,Laos
+2026-02-02-23:19:15,Laos,url exists,Laos
+2026-02-02-23:19:22,Laos,url exists,Laos
+2026-02-02-23:19:36,Laos,url exists,Laos
+2026-02-02-23:20:23,Laos,url exists,Laos
+2026-02-02-23:21:00,Laos,no popup,Timeout 30000ms exceeded.
+2026-02-02-23:21:16,Laos,url exists,Laos
+2026-02-02-23:22:00,Laos,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-02-23:22:30,Laos,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-02-23:23:15,Laos,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-02-23:23:45,Laos,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-02-23:24:03,Laos,url exists,Laos
+2026-02-02-23:24:10,Laos,url exists,Laos
