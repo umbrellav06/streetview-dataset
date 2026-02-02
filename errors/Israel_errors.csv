@@ -747,3 +747,30 @@ Call log:"
 2026-02-02-18:09:12,Israel,url exists,Israel
 2026-02-02-18:09:29,Israel,url exists,Israel
 2026-02-02-18:09:46,Israel,url exists,Israel
+2026-02-02-23:22:36,Israel,url exists,Israel
+2026-02-02-23:23:30,Israel,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-02-23:24:01,Israel,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-02-23:24:23,Israel,url exists,Israel
+2026-02-02-23:24:31,Israel,url exists,Israel
+2026-02-02-23:24:38,Israel,url exists,Israel
+2026-02-02-23:25:15,Israel,no popup,Timeout 30000ms exceeded.
+2026-02-02-23:25:25,Israel,url exists,Israel
+2026-02-02-23:25:36,Israel,url exists,Israel
+2026-02-02-23:25:49,Israel,url exists,Israel
+2026-02-02-23:26:02,Israel,url exists,Israel
+2026-02-02-23:26:09,Israel,url exists,Israel
+2026-02-02-23:26:57,Israel,url exists,Israel
+2026-02-02-23:27:11,Israel,url exists,Israel
+2026-02-02-23:27:54,Israel,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-02-23:28:25,Israel,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-02-23:29:14,Israel,url exists,Israel
+2026-02-02-23:29:30,Israel,url exists,Israel
+2026-02-02-23:30:27,Israel,url exists,Israel
+2026-02-02-23:30:45,Israel,url exists,Israel
+2026-02-02-23:31:04,Israel,url exists,Israel
