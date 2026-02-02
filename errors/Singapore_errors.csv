@@ -483,3 +483,10 @@ Call log:"
 2026-01-31-10:12:08,Singapore,no popup,Timeout 30000ms exceeded.
 2026-01-31-10:12:24,Singapore,url exists,None
 2026-01-31-10:12:40,Singapore,url exists,None
+2026-02-02-14:27:48,Singapore,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-02-14:28:19,Singapore,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-02-14:29:31,Singapore,url exists,Singapore
+2026-02-02-14:29:32,Singapore,world,None
