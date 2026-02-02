@@ -821,3 +821,28 @@ Call log:"
 2026-02-02-14:32:35,Austria,url exists,Austria
 2026-02-02-14:32:42,Austria,url exists,Austria
 2026-02-02-14:32:49,Austria,url exists,Austria
+2026-02-02-16:50:40,Austria,url exists,Austria
+2026-02-02-16:51:20,Austria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-02-16:51:51,Austria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-02-16:51:58,Austria,url exists,Austria
+2026-02-02-16:52:06,Austria,url exists,Austria
+2026-02-02-16:52:16,Austria,url exists,Austria
+2026-02-02-16:52:26,Austria,url exists,Austria
+2026-02-02-16:52:36,Austria,url exists,Austria
+2026-02-02-16:53:13,Austria,no popup,Timeout 30000ms exceeded.
+2026-02-02-16:53:54,Austria,url exists,Austria
+2026-02-02-16:54:37,Austria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-02-16:55:08,Austria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-02-16:55:21,Austria,url exists,Austria
+2026-02-02-16:56:04,Austria,url exists,Austria
+2026-02-02-16:56:16,Austria,url exists,Austria
+2026-02-02-16:56:31,Austria,url exists,Austria
+2026-02-02-16:56:48,Austria,url exists,Austria
+2026-02-02-16:57:41,Austria,url exists,Austria
+2026-02-02-16:57:58,Austria,url exists,Austria
