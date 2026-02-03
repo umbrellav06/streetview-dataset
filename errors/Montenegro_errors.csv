@@ -989,3 +989,29 @@ Call log:"
 2026-02-03-10:14:34,Montenegro,url exists,IntersectionGuessr - Montenegro
 2026-02-03-10:14:54,Montenegro,url exists,IntersectionGuessr - Montenegro
 2026-02-03-10:15:18,Montenegro,url exists,AI gen - Montenegro
+2026-02-03-13:08:37,Montenegro,url exists,IntersectionGuessr - Montenegro
+2026-02-03-13:08:59,Montenegro,url exists,IntersectionGuessr - Montenegro
+2026-02-03-13:09:05,Montenegro,url exists,IntersectionGuessr - Montenegro
+2026-02-03-13:09:12,Montenegro,url exists,Montenegro
+2026-02-03-13:09:21,Montenegro,url exists,IntersectionGuessr - Montenegro
+2026-02-03-13:10:36,Montenegro,no popup,Timeout 30000ms exceeded.
+2026-02-03-13:10:43,Montenegro,url exists,Montenegro
+2026-02-03-13:11:37,Montenegro,url exists,IntersectionGuessr - Montenegro
+2026-02-03-13:11:44,Montenegro,url exists,IntersectionGuessr - Montenegro
+2026-02-03-13:11:56,Montenegro,url exists,Montenegro
+2026-02-03-13:12:38,Montenegro,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-13:13:08,Montenegro,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-13:13:45,Montenegro,url exists,Montenegro
+2026-02-03-13:13:52,Montenegro,url exists,AI gen - Montenegro
+2026-02-03-13:13:59,Montenegro,url exists,IntersectionGuessr - Montenegro
+2026-02-03-13:14:42,Montenegro,url exists,Montenegro
+2026-02-03-13:15:19,Montenegro,no popup,Timeout 30000ms exceeded.
+2026-02-03-13:16:03,Montenegro,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-13:16:33,Montenegro,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-13:16:50,Montenegro,url exists,IntersectionGuessr - Montenegro
