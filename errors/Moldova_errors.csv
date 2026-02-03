@@ -899,3 +899,33 @@ Call log:"
 2026-02-03-10:22:37,Moldova,url exists,Moldova
 2026-02-03-10:22:44,Moldova,url exists,Moldova
 2026-02-03-10:23:05,Moldova,url exists,Moldova
+2026-02-03-13:18:35,Moldova,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-13:19:06,Moldova,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-13:19:13,Moldova,url exists,Moldova
+2026-02-03-13:19:19,Moldova,url exists,Moldova
+2026-02-03-13:19:21,Moldova,world,None
+2026-02-03-13:19:28,Moldova,url exists,Moldova
+2026-02-03-13:19:35,Moldova,url exists,Moldova
+2026-02-03-13:19:45,Moldova,url exists,Moldova
+2026-02-03-13:19:52,Moldova,url exists,Moldova
+2026-02-03-13:20:03,Moldova,url exists,Moldova
+2026-02-03-13:20:16,Moldova,url exists,Moldova
+2026-02-03-13:20:53,Moldova,no popup,Timeout 30000ms exceeded.
+2026-02-03-13:21:00,Moldova,url exists,Moldova
+2026-02-03-13:21:07,Moldova,url exists,Moldova
+2026-02-03-13:21:21,Moldova,url exists,Moldova
+2026-02-03-13:21:29,Moldova,url exists,Moldova
+2026-02-03-13:21:45,Moldova,url exists,Moldova
+2026-02-03-13:22:02,Moldova,url exists,Moldova
+2026-02-03-13:22:09,Moldova,url exists,Moldova
+2026-02-03-13:22:16,Moldova,url exists,Moldova
+2026-02-03-13:22:37,Moldova,url exists,Moldova
+2026-02-03-13:22:44,Moldova,url exists,Moldova
+2026-02-03-13:23:05,Moldova,url exists,Moldova
+2026-02-03-13:23:26,Moldova,url exists,Moldova
+2026-02-03-13:23:34,Moldova,url exists,Moldova
+2026-02-03-13:23:58,Moldova,url exists,Moldova
+2026-02-03-13:23:59,Moldova,no images,None
