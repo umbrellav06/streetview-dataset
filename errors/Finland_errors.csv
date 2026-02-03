@@ -467,3 +467,10 @@ Call log:"
 2026-01-31-10:00:14,Finland,url exists,None
 2026-01-31-10:00:30,Finland,url exists,None
 2026-01-31-10:00:30,Finland,no images,None
+2026-02-03-13:21:24,Finland,url exists,Finland
+2026-02-03-13:22:46,Finland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-13:23:16,Finland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-13:23:23,Finland,url exists,Finland
