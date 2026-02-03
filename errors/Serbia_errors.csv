@@ -476,3 +476,11 @@ Call log:
 "
 2026-01-31-11:07:39,Serbia,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-02-03-08:02:37,Serbia,url exists,Serbia
+2026-02-03-08:03:16,Serbia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-08:03:46,Serbia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-08:04:09,Serbia,url exists,Serbia
+2026-02-03-08:05:07,Serbia,url exists,Serbia
