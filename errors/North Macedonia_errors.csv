@@ -1005,3 +1005,37 @@ Call log:"
 2026-02-03-13:52:26,North Macedonia,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
 "
 2026-02-03-13:52:38,North Macedonia,url exists,A Balanced North Macedonia
+2026-02-03-16:44:48,North Macedonia,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-03-16:44:55,North Macedonia,url exists,IntersectionGuessr - North Macedonia · Македонија
+2026-02-03-16:45:02,North Macedonia,url exists,IntersectionGuessr - North Macedonia · Македонија
+2026-02-03-16:45:24,North Macedonia,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-03-16:46:04,North Macedonia,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-03-16:46:25,North Macedonia,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-03-16:46:34,North Macedonia,url exists,A Balanced North Macedonia
+2026-02-03-16:47:05,North Macedonia,url exists,North Macedonia
+2026-02-03-16:48:02,North Macedonia,url exists,IntersectionGuessr - North Macedonia · Македонија
+2026-02-03-16:48:24,North Macedonia,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-03-16:48:45,North Macedonia,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-03-16:49:07,North Macedonia,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-03-16:49:28,North Macedonia,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-03-16:50:16,North Macedonia,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-03-16:50:57,North Macedonia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-16:51:27,North Macedonia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-16:51:39,North Macedonia,url exists,A Balanced North Macedonia
+2026-02-03-16:51:51,North Macedonia,url exists,North Macedonia
+2026-02-03-16:52:43,North Macedonia,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-03-16:53:04,North Macedonia,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
