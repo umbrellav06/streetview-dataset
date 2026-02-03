@@ -1018,3 +1018,34 @@ Call log:"
 2026-02-03-10:14:33,Ecuador,url exists,Ecuador
 2026-02-03-10:14:57,Ecuador,url exists,Ecuador
 2026-02-03-10:14:57,Ecuador,no images,None
+2026-02-03-13:17:56,Ecuador,url exists,Ecuador
+2026-02-03-13:18:36,Ecuador,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-13:19:06,Ecuador,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-13:19:13,Ecuador,url exists,Ecuador
+2026-02-03-13:19:22,Ecuador,url exists,Ecuador
+2026-02-03-13:19:29,Ecuador,url exists,Ecuador
+2026-02-03-13:20:00,Ecuador,url exists,Ecuador
+2026-02-03-13:20:09,Ecuador,url exists,Ecuador
+2026-02-03-13:20:21,Ecuador,url exists,Ecuador
+2026-02-03-13:20:58,Ecuador,no popup,Timeout 30000ms exceeded.
+2026-02-03-13:21:23,Ecuador,url exists,Ecuador
+2026-02-03-13:21:37,Ecuador,url exists,Ecuador
+2026-02-03-13:22:19,Ecuador,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-13:22:49,Ecuador,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-13:23:03,Ecuador,url exists,Ecuador
+2026-02-03-13:23:18,Ecuador,url exists,Ecuador
+2026-02-03-13:23:33,Ecuador,url exists,Ecuador
+2026-02-03-13:23:50,Ecuador,url exists,Ecuador
+2026-02-03-13:24:09,Ecuador,url exists,Ecuador
+2026-02-03-13:24:27,Ecuador,url exists,Ecuador
+2026-02-03-13:25:38,Ecuador,url exists,Ecuador
+2026-02-03-13:25:59,Ecuador,url exists,Ecuador
+2026-02-03-13:26:22,Ecuador,url exists,Ecuador
+2026-02-03-13:26:44,Ecuador,url exists,Ecuador
+2026-02-03-13:27:05,Ecuador,url exists,Ecuador
