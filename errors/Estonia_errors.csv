@@ -635,3 +635,26 @@ Call log:"
 2026-02-03-08:05:13,Estonia,url exists,Estonia
 2026-02-03-08:06:24,Estonia,url exists,Estonia
 2026-02-03-08:06:37,Estonia,url exists,Estonia
+2026-02-03-13:50:01,Estonia,url exists,Estonia
+2026-02-03-13:50:08,Estonia,url exists,Estonia
+2026-02-03-13:50:15,Estonia,url exists,Estonia
+2026-02-03-13:50:45,Estonia,url exists,Estonia
+2026-02-03-13:50:54,Estonia,url exists,Estonia
+2026-02-03-13:51:28,Estonia,url exists,Estonia
+2026-02-03-13:51:38,Estonia,url exists,Estonia
+2026-02-03-13:51:50,Estonia,url exists,Estonia
+2026-02-03-13:52:03,Estonia,url exists,Estonia
+2026-02-03-13:52:40,Estonia,no popup,Timeout 30000ms exceeded.
+2026-02-03-13:52:53,Estonia,url exists,Estonia
+2026-02-03-13:53:01,Estonia,url exists,Estonia
+2026-02-03-13:53:16,Estonia,url exists,Estonia
+2026-02-03-13:53:32,Estonia,url exists,Estonia
+2026-02-03-13:54:28,Estonia,url exists,Estonia
+2026-02-03-13:55:26,Estonia,url exists,Estonia
+2026-02-03-13:56:12,Estonia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-13:56:42,Estonia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-13:57:00,Estonia,url exists,Estonia
+2026-02-03-13:57:20,Estonia,url exists,Estonia
