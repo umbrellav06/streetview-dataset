@@ -1042,3 +1042,13 @@ Call log:"
 2026-02-03-13:14:54,Senegal,url exists,Senegal
 2026-02-03-13:15:18,Senegal,url exists,Senegal
 2026-02-03-13:15:19,Senegal,no images,None
+2026-02-03-13:50:28,Senegal,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-13:50:59,Senegal,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-13:51:05,Senegal,url exists,Senegal
+2026-02-03-13:52:24,Senegal,url exists,A Balanced Senegal
+2026-02-03-13:52:49,Senegal,url exists,Senegal
+2026-02-03-13:53:35,Senegal,url exists,Senegal
+2026-02-03-13:54:45,Senegal,url exists,Senegal
