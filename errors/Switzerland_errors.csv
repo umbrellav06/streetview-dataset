@@ -782,3 +782,31 @@ Call log:"
 2026-02-03-08:04:45,Switzerland,url exists,Switzerland
 2026-02-03-08:05:58,Switzerland,url exists,Switzerland
 2026-02-03-08:06:34,Switzerland,url exists,Switzerland
+2026-02-03-13:43:59,Switzerland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-13:44:29,Switzerland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-13:44:36,Switzerland,url exists,Switzerland
+2026-02-03-13:44:43,Switzerland,url exists,Switzerland
+2026-02-03-13:44:50,Switzerland,url exists,Switzerland
+2026-02-03-13:45:30,Switzerland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-13:46:00,Switzerland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-13:46:26,Switzerland,url exists,Switzerland
+2026-02-03-13:46:33,Switzerland,url exists,Switzerland
+2026-02-03-13:46:40,Switzerland,url exists,Switzerland
+2026-02-03-13:46:48,Switzerland,url exists,Switzerland
+2026-02-03-13:47:16,Switzerland,url exists,Switzerland
+2026-02-03-13:47:24,Switzerland,url exists,Switzerland
+2026-02-03-13:47:36,Switzerland,url exists,Switzerland
+2026-02-03-13:47:50,Switzerland,url exists,Switzerland
+2026-02-03-13:48:04,Switzerland,url exists,Switzerland
+2026-02-03-13:48:11,Switzerland,url exists,Switzerland
+2026-02-03-13:48:18,Switzerland,url exists,Switzerland
+2026-02-03-13:48:55,Switzerland,url exists,Switzerland
+2026-02-03-13:49:02,Switzerland,url exists,Switzerland
+2026-02-03-13:50:05,Switzerland,url exists,Switzerland
+2026-02-03-13:50:12,Switzerland,url exists,Switzerland
