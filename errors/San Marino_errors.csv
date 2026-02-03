@@ -1123,3 +1123,30 @@ Call log:"
 2026-02-03-20:09:43,San Marino,url exists,AI Gen - San Marino
 2026-02-03-20:10:05,San Marino,url exists,San Marino
 2026-02-03-20:10:31,San Marino,url exists,San Marino
+2026-02-03-23:11:15,San Marino,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-23:11:45,San Marino,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-23:11:52,San Marino,url exists,AI Gen - San Marino
+2026-02-03-23:11:59,San Marino,url exists,San Marino
+2026-02-03-23:12:06,San Marino,url exists,AI Gen - San Marino
+2026-02-03-23:12:16,San Marino,url exists,San Marino
+2026-02-03-23:12:25,San Marino,url exists,AI Gen - San Marino
+2026-02-03-23:13:02,San Marino,no popup,Timeout 30000ms exceeded.
+2026-02-03-23:13:13,San Marino,url exists,AI Gen - San Marino
+2026-02-03-23:13:25,San Marino,url exists,San Marino
+2026-02-03-23:13:38,San Marino,url exists,IntersectionGuessr - San Marino
+2026-02-03-23:13:52,San Marino,url exists,San Marino
+2026-02-03-23:14:05,San Marino,url exists,San Marino
+2026-02-03-23:15:22,San Marino,url exists,IntersectionGuessr - San Marino
+2026-02-03-23:15:36,San Marino,url exists,IntersectionGuessr - San Marino
+2026-02-03-23:15:52,San Marino,url exists,San Marino
+2026-02-03-23:16:08,San Marino,url exists,AI Gen - San Marino
+2026-02-03-23:16:25,San Marino,url exists,AI Gen - San Marino
+2026-02-03-23:16:43,San Marino,url exists,AI Gen - San Marino
+2026-02-03-23:17:02,San Marino,url exists,AI Gen - San Marino
+2026-02-03-23:17:21,San Marino,url exists,AI Gen - San Marino
+2026-02-03-23:17:41,San Marino,url exists,AI Gen - San Marino
+2026-02-03-23:17:48,San Marino,url exists,AI Gen - San Marino
+2026-02-03-23:18:13,San Marino,url exists,IntersectionGuessr - San Marino
