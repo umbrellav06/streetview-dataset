@@ -448,3 +448,16 @@ Call log:
 "
 2026-01-31-11:09:06,New Zealand,start,"Locator.click: Timeout 30000ms exceeded.
 Call log:"
+2026-02-03-23:03:30,New Zealand,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-23:04:01,New Zealand,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-23:06:29,New Zealand,streetview,"Locator.wait_for: Timeout 8000ms exceeded.
+Call lo"
+2026-02-03-23:07:07,New Zealand,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-23:07:38,New Zealand,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-23:09:48,New Zealand,url exists,New Zealand
