@@ -627,3 +627,25 @@ Call log:"
 2026-02-03-10:24:41,Chile,url exists,Chile
 2026-02-03-10:24:57,Chile,url exists,Chile
 2026-02-03-10:25:14,Chile,url exists,Chile
+2026-02-03-13:44:17,Chile,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-13:44:47,Chile,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-13:45:07,Chile,url exists,Chile
+2026-02-03-13:45:29,Chile,url exists,Chile
+2026-02-03-13:45:36,Chile,url exists,Chile
+2026-02-03-13:46:39,Chile,url exists,Chile
+2026-02-03-13:46:49,Chile,url exists,Chile
+2026-02-03-13:47:29,Chile,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-13:48:00,Chile,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-13:48:10,Chile,url exists,Chile
+2026-02-03-13:49:34,Chile,url exists,Chile
+2026-02-03-13:49:46,Chile,url exists,Chile
+2026-02-03-13:49:58,Chile,url exists,Chile
+2026-02-03-13:50:12,Chile,url exists,Chile
+2026-02-03-13:51:30,Chile,url exists,Chile
+2026-02-03-13:51:45,Chile,url exists,Chile
