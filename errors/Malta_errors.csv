@@ -487,3 +487,23 @@ Call log:"
 2026-02-03-08:07:03,Malta,url exists,Malta
 2026-02-03-08:08:07,Malta,url exists,Malta
 2026-02-03-08:10:27,Malta,url exists,Malta
+2026-02-03-23:11:43,Malta,url exists,Malta
+2026-02-03-23:12:50,Malta,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-23:13:21,Malta,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-23:13:28,Malta,url exists,Malta
+2026-02-03-23:13:51,Malta,url exists,Malta
+2026-02-03-23:15:26,Malta,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-23:15:56,Malta,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-23:16:54,Malta,url exists,Malta
+2026-02-03-23:19:04,Malta,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-23:19:35,Malta,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-23:20:24,Malta,url exists,Malta
