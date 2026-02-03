@@ -33,7 +33,7 @@ jobs:
         run: |
           mkdir -p temp
           cd temp
-          git clone https://huggingface.co/datasets/${{ secrets.HF_USERNAME }}/${{ secrets.HF_DATASET }} hf_dataset
+          git clone https://$HF_TOKEN@huggingface.co/datasets/$HF_USERNAME/$HF_DATASET hf_dataset
           cd hf_dataset
           git lfs install
 
