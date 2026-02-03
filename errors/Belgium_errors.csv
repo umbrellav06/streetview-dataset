@@ -820,3 +820,29 @@ Call log:"
 2026-02-03-13:13:02,Belgium,url exists,Belgium
 2026-02-03-13:13:59,Belgium,url exists,Belgium
 2026-02-03-13:14:58,Belgium,url exists,Belgium
+2026-02-03-16:33:29,Belgium,url exists,Belgium
+2026-02-03-16:33:52,Belgium,url exists,Belgium
+2026-02-03-16:33:59,Belgium,url exists,Belgium
+2026-02-03-16:34:07,Belgium,url exists,Belgium
+2026-02-03-16:34:16,Belgium,url exists,Belgium
+2026-02-03-16:34:25,Belgium,url exists,Belgium
+2026-02-03-16:34:52,Belgium,url exists,Belgium
+2026-02-03-16:34:59,Belgium,url exists,Belgium
+2026-02-03-16:35:36,Belgium,no popup,Timeout 30000ms exceeded.
+2026-02-03-16:36:18,Belgium,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-16:36:48,Belgium,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-16:37:01,Belgium,url exists,Belgium
+2026-02-03-16:37:32,Belgium,url exists,Belgium
+2026-02-03-16:37:39,Belgium,url exists,Belgium
+2026-02-03-16:37:47,Belgium,url exists,Belgium
+2026-02-03-16:37:54,Belgium,url exists,Belgium
+2026-02-03-16:38:01,Belgium,url exists,Belgium
+2026-02-03-16:38:08,Belgium,url exists,Belgium
+2026-02-03-16:38:16,Belgium,url exists,Belgium
+2026-02-03-16:38:37,Belgium,url exists,Belgium
+2026-02-03-16:38:44,Belgium,url exists,Belgium
+2026-02-03-16:38:51,Belgium,url exists,Belgium
+2026-02-03-16:38:58,Belgium,url exists,Belgium
