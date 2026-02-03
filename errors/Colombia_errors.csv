@@ -865,3 +865,30 @@ Call log:"
 2026-02-03-08:04:19,Colombia,url exists,Colombia
 2026-02-03-08:05:22,Colombia,url exists,Colombia
 2026-02-03-08:05:29,Colombia,url exists,Colombia
+2026-02-03-10:19:03,Colombia,url exists,Colombia
+2026-02-03-10:19:10,Colombia,url exists,Colombia
+2026-02-03-10:19:50,Colombia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-10:20:20,Colombia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-10:20:28,Colombia,url exists,Colombia
+2026-02-03-10:20:37,Colombia,url exists,Colombia
+2026-02-03-10:20:47,Colombia,url exists,Colombia
+2026-02-03-10:20:56,Colombia,url exists,Colombia
+2026-02-03-10:21:07,Colombia,url exists,Colombia
+2026-02-03-10:21:20,Colombia,url exists,Colombia
+2026-02-03-10:21:33,Colombia,url exists,Colombia
+2026-02-03-10:22:10,Colombia,no popup,Timeout 30000ms exceeded.
+2026-02-03-10:22:54,Colombia,url exists,Colombia
+2026-02-03-10:23:07,Colombia,url exists,Colombia
+2026-02-03-10:23:23,Colombia,url exists,Colombia
+2026-02-03-10:23:38,Colombia,url exists,Colombia
+2026-02-03-10:24:33,Colombia,url exists,Colombia
+2026-02-03-10:24:50,Colombia,url exists,Colombia
+2026-02-03-10:25:10,Colombia,url exists,Colombia
+2026-02-03-10:25:29,Colombia,url exists,Colombia
+2026-02-03-10:25:50,Colombia,url exists,Colombia
+2026-02-03-10:26:10,Colombia,url exists,Colombia
+2026-02-03-10:26:31,Colombia,url exists,Colombia
+2026-02-03-10:26:53,Colombia,url exists,Colombia
