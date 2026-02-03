@@ -867,3 +867,30 @@ Call log:"
 2026-02-03-13:22:09,Turkey,url exists,Turkey
 2026-02-03-13:22:55,Turkey,url exists,Pinpointable Aegean Turkey
 2026-02-03-13:24:13,Turkey,url exists,Pinpointable Aegean Turkey
+2026-02-03-13:53:05,Turkey,url exists,Pinpointable Aegean Turkey
+2026-02-03-13:53:12,Turkey,url exists,Turkey
+2026-02-03-13:53:51,Turkey,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-13:54:22,Turkey,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-13:54:29,Turkey,url exists,Turkey
+2026-02-03-13:55:07,Turkey,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-03-13:56:39,Turkey,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-03-13:57:05,Turkey,url exists,Pinpointable Aegean Turkey
+2026-02-03-13:57:14,Turkey,url exists,Pinpointable Aegean Turkey
+2026-02-03-13:57:35,Turkey,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-03-13:57:44,Turkey,url exists,Pinpointable Aegean Turkey
+2026-02-03-13:58:47,Turkey,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-03-13:58:54,Turkey,url exists,A Balanced Turkey
+2026-02-03-13:59:59,Turkey,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-14:00:30,Turkey,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-14:00:41,Turkey,url exists,Provinces of Turkey
+2026-02-03-14:00:52,Turkey,url exists,Pinpointable Aegean Turkey
