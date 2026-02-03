@@ -963,3 +963,45 @@ Call log:"
 2026-02-03-13:23:35,North Macedonia,url exists,North Macedonia
 2026-02-03-13:23:58,North Macedonia,url exists,IntersectionGuessr - North Macedonia · Македонија
 2026-02-03-13:24:00,North Macedonia,world,None
+2026-02-03-13:43:44,North Macedonia,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-03-13:43:50,North Macedonia,url exists,North Macedonia
+2026-02-03-13:44:12,North Macedonia,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-03-13:44:51,North Macedonia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-13:45:21,North Macedonia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-13:46:01,North Macedonia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-13:46:31,North Macedonia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-13:46:53,North Macedonia,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-03-13:46:59,North Macedonia,url exists,IntersectionGuessr - North Macedonia · Македонија
+2026-02-03-13:47:37,North Macedonia,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-03-13:47:44,North Macedonia,url exists,North Macedonia
+2026-02-03-13:47:45,North Macedonia,world,None
+2026-02-03-13:48:11,North Macedonia,url exists,IntersectionGuessr - North Macedonia · Македонија
+2026-02-03-13:48:19,North Macedonia,url exists,IntersectionGuessr - North Macedonia · Македонија
+2026-02-03-13:48:45,North Macedonia,url exists,North Macedonia
+2026-02-03-13:49:25,North Macedonia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-13:49:56,North Macedonia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-13:50:03,North Macedonia,url exists,A Balanced North Macedonia
+2026-02-03-13:50:44,North Macedonia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-13:51:14,North Macedonia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-13:51:21,North Macedonia,url exists,North Macedonia
+2026-02-03-13:51:43,North Macedonia,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-03-13:52:26,North Macedonia,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-03-13:52:38,North Macedonia,url exists,A Balanced North Macedonia
