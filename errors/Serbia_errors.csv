@@ -484,3 +484,28 @@ Call log:
 Call log:"
 2026-02-03-08:04:09,Serbia,url exists,Serbia
 2026-02-03-08:05:07,Serbia,url exists,Serbia
+2026-02-03-23:12:29,Serbia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-23:13:00,Serbia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-23:13:45,Serbia,url exists,Serbia
+2026-02-03-23:14:39,Serbia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-23:15:09,Serbia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-23:15:16,Serbia,url exists,Serbia
+2026-02-03-23:15:24,Serbia,url exists,Serbia
+2026-02-03-23:16:22,Serbia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-23:16:53,Serbia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-23:17:01,Serbia,url exists,Serbia
+2026-02-03-23:17:08,Serbia,url exists,Serbia
+2026-02-03-23:19:34,Serbia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-23:20:04,Serbia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
