@@ -493,3 +493,13 @@ Call log:"
 2026-02-03-05:22:18,Singapore,url exists,Singapore
 2026-02-03-05:22:24,Singapore,url exists,Singapore
 2026-02-03-05:23:22,Singapore,url exists,Singapore
+2026-02-03-16:33:56,Singapore,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-16:34:27,Singapore,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-16:35:00,Singapore,url exists,Singapore
+2026-02-03-16:35:36,Singapore,url exists,Singapore
+2026-02-03-16:35:44,Singapore,url exists,Singapore
+2026-02-03-16:37:21,Singapore,url exists,Singapore
+2026-02-03-16:39:58,Singapore,url exists,Singapore
