@@ -599,3 +599,33 @@ Call log:"
 2026-02-03-08:14:07,Argentina,url exists,Argentina
 2026-02-03-08:14:44,Argentina,no popup,Timeout 30000ms exceeded.
 2026-02-03-08:15:54,Argentina,url exists,Argentina
+2026-02-03-13:44:00,Argentina,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-13:44:31,Argentina,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-13:44:37,Argentina,url exists,Argentina
+2026-02-03-13:44:44,Argentina,url exists,Argentina
+2026-02-03-13:45:24,Argentina,url exists,Argentina
+2026-02-03-13:46:04,Argentina,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-13:46:34,Argentina,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-13:47:40,Argentina,url exists,Argentina
+2026-02-03-13:48:21,Argentina,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-13:48:52,Argentina,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-13:49:19,Argentina,url exists,Argentina
+2026-02-03-13:49:46,Argentina,url exists,Argentina
+2026-02-03-13:50:17,Argentina,url exists,Argentina
+2026-02-03-13:50:24,Argentina,url exists,Argentina
+2026-02-03-13:51:55,Argentina,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-13:52:26,Argentina,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-13:52:55,Argentina,url exists,Argentina
+2026-02-03-13:53:08,Argentina,url exists,Argentina
