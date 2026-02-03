@@ -879,3 +879,37 @@ Call log:"
 2026-02-03-16:46:14,Laos,url exists,Laos
 2026-02-03-16:46:21,Laos,url exists,Laos
 2026-02-03-16:46:29,Laos,url exists,Laos
+2026-02-03-23:11:09,Laos,url exists,Laos
+2026-02-03-23:11:16,Laos,url exists,Laos
+2026-02-03-23:11:24,Laos,url exists,Laos
+2026-02-03-23:11:31,Laos,url exists,Laos
+2026-02-03-23:12:12,Laos,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-23:12:42,Laos,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-23:12:52,Laos,url exists,Laos
+2026-02-03-23:13:02,Laos,url exists,Laos
+2026-02-03-23:13:39,Laos,no popup,Timeout 30000ms exceeded.
+2026-02-03-23:14:21,Laos,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-23:14:51,Laos,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-23:15:04,Laos,url exists,Laos
+2026-02-03-23:15:17,Laos,url exists,Laos
+2026-02-03-23:15:30,Laos,url exists,Laos
+2026-02-03-23:16:48,Laos,url exists,Laos
+2026-02-03-23:17:38,Laos,url exists,Laos
+2026-02-03-23:17:53,Laos,url exists,Laos
+2026-02-03-23:18:10,Laos,url exists,Laos
+2026-02-03-23:18:27,Laos,url exists,Laos
+2026-02-03-23:18:45,Laos,url exists,Laos
+2026-02-03-23:19:04,Laos,url exists,Laos
+2026-02-03-23:19:23,Laos,url exists,Laos
+2026-02-03-23:20:08,Laos,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-23:20:39,Laos,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-23:20:59,Laos,url exists,Laos
