@@ -944,3 +944,26 @@ Call log:"
 2026-02-03-20:02:36,Turkey,url exists,A Balanced Turkey
 2026-02-03-20:02:49,Turkey,url exists,Turkey
 2026-02-03-20:03:27,Turkey,url exists,Turkey
+2026-02-03-23:02:38,Turkey,url exists,Pinpointable Aegean Turkey
+2026-02-03-23:03:15,Turkey,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-03-23:03:36,Turkey,url exists,Turkey
+2026-02-03-23:04:14,Turkey,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-03-23:04:21,Turkey,url exists,Turkey
+2026-02-03-23:04:46,Turkey,url exists,Turkey
+2026-02-03-23:05:42,Turkey,url exists,Turkey
+2026-02-03-23:06:14,Turkey,url exists,A Balanced Turkey
+2026-02-03-23:06:53,Turkey,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-23:07:24,Turkey,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-03-23:07:31,Turkey,url exists,Pinpointable Aegean Turkey
+2026-02-03-23:08:11,Turkey,url exists,Turkey
+2026-02-03-23:08:24,Turkey,url exists,Sakarya Türkiye - Sakarya Turkey
+2026-02-03-23:08:36,Turkey,url exists,Turkey
+2026-02-03-23:09:27,Turkey,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-03-23:10:18,Turkey,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
