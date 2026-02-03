@@ -810,3 +810,25 @@ Call log:"
 2026-02-03-13:49:02,Switzerland,url exists,Switzerland
 2026-02-03-13:50:05,Switzerland,url exists,Switzerland
 2026-02-03-13:50:12,Switzerland,url exists,Switzerland
+2026-02-03-19:57:01,Switzerland,url exists,Switzerland
+2026-02-03-19:57:09,Switzerland,url exists,Switzerland
+2026-02-03-19:57:17,Switzerland,url exists,Switzerland
+2026-02-03-19:57:26,Switzerland,url exists,Switzerland
+2026-02-03-19:57:33,Switzerland,url exists,Switzerland
+2026-02-03-19:57:44,Switzerland,url exists,Switzerland
+2026-02-03-19:58:40,Switzerland,url exists,Switzerland
+2026-02-03-19:59:17,Switzerland,no popup,Timeout 30000ms exceeded.
+2026-02-03-19:59:29,Switzerland,url exists,Switzerland
+2026-02-03-19:59:43,Switzerland,url exists,Switzerland
+2026-02-03-20:00:23,Switzerland,url exists,Switzerland
+2026-02-03-20:00:39,Switzerland,url exists,Switzerland
+2026-02-03-20:01:23,Switzerland,url exists,Switzerland
+2026-02-03-20:02:08,Switzerland,url exists,Switzerland
+2026-02-03-20:03:47,Switzerland,url exists,Switzerland
+2026-02-03-20:04:06,Switzerland,url exists,Switzerland
+2026-02-03-20:04:29,Switzerland,url exists,Switzerland
+2026-02-03-20:05:13,Switzerland,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-03-20:05:44,Switzerland,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
