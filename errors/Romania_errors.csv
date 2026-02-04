@@ -836,3 +836,35 @@ Call log:"
 2026-02-03-23:09:17,Romania,url exists,Romania
 2026-02-03-23:09:40,Romania,url exists,Romania
 2026-02-03-23:10:04,Romania,url exists,Romania
+2026-02-04-05:11:50,Romania,url exists,Romania
+2026-02-04-05:11:56,Romania,url exists,Romania
+2026-02-04-05:12:04,Romania,url exists,Romania
+2026-02-04-05:12:41,Romania,url exists,Romania
+2026-02-04-05:12:48,Romania,url exists,Romania
+2026-02-04-05:12:55,Romania,url exists,Romania
+2026-02-04-05:13:07,Romania,url exists,Romania
+2026-02-04-05:13:19,Romania,url exists,Romania
+2026-02-04-05:13:42,Romania,url exists,Romania
+2026-02-04-05:14:19,Romania,no popup,Timeout 30000ms exceeded.
+2026-02-04-05:14:33,Romania,url exists,Romania
+2026-02-04-05:14:47,Romania,url exists,Romania
+2026-02-04-05:15:03,Romania,url exists,Romania
+2026-02-04-05:15:10,Romania,url exists,Romania
+2026-02-04-05:15:29,Romania,url exists,Romania
+2026-02-04-05:16:13,Romania,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-04-05:16:44,Romania,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-04-05:17:42,Romania,url exists,Romania
+2026-02-04-05:17:59,Romania,url exists,Romania
+2026-02-04-05:18:20,Romania,url exists,Romania
+2026-02-04-05:18:40,Romania,url exists,Romania
+2026-02-04-05:19:00,Romania,url exists,Romania
+2026-02-04-05:19:08,Romania,url exists,Romania
+2026-02-04-05:19:31,Romania,url exists,Romania
+2026-02-04-05:20:18,Romania,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-04-05:20:48,Romania,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
