@@ -846,3 +846,31 @@ Call log:
 Call log:"
 2026-02-03-23:10:52,Latvia,url exists,Latvia
 2026-02-03-23:11:54,Latvia,url exists,Latvia
+2026-02-04-05:00:59,Latvia,url exists,Latvia
+2026-02-04-05:01:06,Latvia,url exists,Latvia
+2026-02-04-05:01:14,Latvia,url exists,Latvia
+2026-02-04-05:01:22,Latvia,url exists,Latvia
+2026-02-04-05:01:29,Latvia,url exists,Latvia
+2026-02-04-05:01:36,Latvia,url exists,Latvia
+2026-02-04-05:01:47,Latvia,url exists,Latvia
+2026-02-04-05:02:24,Latvia,no popup,Timeout 30000ms exceeded.
+2026-02-04-05:02:36,Latvia,url exists,Latvia
+2026-02-04-05:02:48,Latvia,url exists,Latvia
+2026-02-04-05:02:55,Latvia,url exists,Latvia
+2026-02-04-05:03:09,Latvia,url exists,Latvia
+2026-02-04-05:03:16,Latvia,url exists,Latvia
+2026-02-04-05:03:23,Latvia,url exists,Latvia
+2026-02-04-05:03:40,Latvia,url exists,Latvia
+2026-02-04-05:04:24,Latvia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-04-05:04:55,Latvia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-04-05:05:12,Latvia,url exists,Latvia
+2026-02-04-05:06:03,Latvia,url exists,Latvia
+2026-02-04-05:06:22,Latvia,url exists,Latvia
+2026-02-04-05:06:29,Latvia,url exists,Latvia
+2026-02-04-05:06:36,Latvia,url exists,Latvia
+2026-02-04-05:06:43,Latvia,url exists,Latvia
+2026-02-04-05:07:08,Latvia,url exists,Latvia
+2026-02-04-05:07:35,Latvia,url exists,Latvia
