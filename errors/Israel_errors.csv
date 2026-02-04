@@ -947,3 +947,33 @@ Call log:"
 2026-02-04-05:05:42,Israel,url exists,Israel
 2026-02-04-05:06:04,Israel,url exists,Israel
 2026-02-04-05:07:13,Israel,url exists,Israel
+2026-02-04-07:43:52,Israel,url exists,Israel
+2026-02-04-07:43:59,Israel,url exists,Israel
+2026-02-04-07:44:08,Israel,url exists,Israel
+2026-02-04-07:44:17,Israel,url exists,Israel
+2026-02-04-07:45:05,Israel,url exists,Israel
+2026-02-04-07:45:46,Israel,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-04-07:46:16,Israel,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-04-07:46:27,Israel,url exists,Israel
+2026-02-04-07:47:08,Israel,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-04-07:47:38,Israel,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-04-07:47:50,Israel,url exists,Israel
+2026-02-04-07:47:57,Israel,url exists,Israel
+2026-02-04-07:48:11,Israel,url exists,Israel
+2026-02-04-07:48:18,Israel,url exists,Israel
+2026-02-04-07:48:26,Israel,url exists,Israel
+2026-02-04-07:48:33,Israel,url exists,Israel
+2026-02-04-07:49:10,Israel,no popup,Timeout 30000ms exceeded.
+2026-02-04-07:49:27,Israel,url exists,Israel
+2026-02-04-07:50:04,Israel,no popup,Timeout 30000ms exceeded.
+2026-02-04-07:50:22,Israel,url exists,Israel
+2026-02-04-07:50:29,Israel,url exists,Israel
+2026-02-04-07:50:48,Israel,url exists,Israel
+2026-02-04-07:51:54,Israel,url exists,Israel
+2026-02-04-07:52:02,Israel,url exists,Israel
