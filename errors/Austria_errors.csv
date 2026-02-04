@@ -1142,3 +1142,24 @@ Call log:"
 2026-02-04-10:16:00,Austria,url exists,Austrian Squares
 2026-02-04-10:16:12,Austria,url exists,Austrian Squares
 2026-02-04-10:16:25,Austria,url exists,Austrian Squares
+2026-02-04-12:00:30,Austria,url exists,A Balanced Austria
+2026-02-04-12:00:37,Austria,url exists,Austrian Squares
+2026-02-04-12:00:44,Austria,url exists,Austria
+2026-02-04-12:00:54,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-04-12:01:22,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-04-12:01:31,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-04-12:02:00,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-04-12:02:09,Austria,url exists,Austrian Squares
+2026-02-04-12:03:50,Austria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-04-12:04:20,Austria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-04-12:04:29,Austria,url exists,Austrian Squares
+2026-02-04-12:05:00,Austria,url exists,Austria
+2026-02-04-12:05:07,Austria,url exists,Austrian Squares
+2026-02-04-12:05:41,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-04-12:05:55,Austria,url exists,Austria
+2026-02-04-12:06:07,Austria,url exists,Austrian Squares
+2026-02-04-12:06:20,Austria,url exists,Austrian Squares
+2026-02-04-12:06:29,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
