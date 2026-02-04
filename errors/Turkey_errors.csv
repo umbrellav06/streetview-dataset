@@ -1025,3 +1025,26 @@ Call log:"
 2026-02-04-07:44:08,Turkey,url exists,Turkey
 2026-02-04-07:44:24,Turkey,url exists,Turkey
 2026-02-04-07:44:42,Turkey,url exists,Provinces of Turkey
+2026-02-04-10:11:30,Turkey,url exists,Pinpointable Aegean Turkey
+2026-02-04-10:11:37,Turkey,url exists,Pinpointable Aegean Turkey
+2026-02-04-10:11:45,Turkey,url exists,A Balanced Turkey
+2026-02-04-10:11:54,Turkey,url exists,Pinpointable Aegean Turkey
+2026-02-04-10:12:15,Turkey,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-04-10:12:46,Turkey,url exists,A Balanced Turkey
+2026-02-04-10:12:55,Turkey,url exists,Pinpointable Aegean Turkey
+2026-02-04-10:13:07,Turkey,url exists,Turkey
+2026-02-04-10:13:28,Turkey,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-04-10:14:05,Turkey,no popup,Timeout 30000ms exceeded.
+2026-02-04-10:14:27,Turkey,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-04-10:14:48,Turkey,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-04-10:15:02,Turkey,url exists,A Balanced Turkey
+2026-02-04-10:15:15,Turkey,url exists,Sakarya Türkiye - Sakarya Turkey
+2026-02-04-10:15:59,Turkey,url exists,Turkey
+2026-02-04-10:16:15,Turkey,url exists,A Balanced Turkey
+2026-02-04-10:18:15,Turkey,url exists,Provinces of Turkey
+2026-02-04-10:18:30,Turkey,url exists,Turkey
+2026-02-04-10:18:47,Turkey,url exists,Pinpointable Aegean Turkey
