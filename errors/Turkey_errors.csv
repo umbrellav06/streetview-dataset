@@ -1048,3 +1048,29 @@ Call log:"
 2026-02-04-10:18:15,Turkey,url exists,Provinces of Turkey
 2026-02-04-10:18:30,Turkey,url exists,Turkey
 2026-02-04-10:18:47,Turkey,url exists,Pinpointable Aegean Turkey
+2026-02-04-12:07:28,Turkey,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-04-12:07:58,Turkey,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-04-12:08:05,Turkey,url exists,Pinpointable Aegean Turkey
+2026-02-04-12:08:12,Turkey,url exists,A Balanced Turkey
+2026-02-04-12:08:33,Turkey,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-04-12:08:57,Turkey,url exists,Pinpointable Aegean Turkey
+2026-02-04-12:10:01,Turkey,url exists,Turkey
+2026-02-04-12:10:10,Turkey,url exists,Pinpointable Aegean Turkey
+2026-02-04-12:10:17,Turkey,url exists,Pinpointable Aegean Turkey
+2026-02-04-12:10:24,Turkey,url exists,Turkey
+2026-02-04-12:11:03,Turkey,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-04-12:11:34,Turkey,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-04-12:12:08,Turkey,url exists,Provinces of Turkey
+2026-02-04-12:12:15,Turkey,url exists,Sakarya Türkiye - Sakarya Turkey
+2026-02-04-12:12:27,Turkey,url exists,A Balanced Turkey
+2026-02-04-12:13:05,Turkey,url exists,Pinpointable Aegean Turkey
+2026-02-04-12:13:52,Turkey,url exists,Pinpointable Aegean Turkey
+2026-02-04-12:14:08,Turkey,url exists,Pinpointable Aegean Turkey
+2026-02-04-12:15:02,Turkey,url exists,Turkey
