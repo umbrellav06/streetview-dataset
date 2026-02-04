@@ -1166,3 +1166,32 @@ Call log:"
 2026-02-03-23:11:51,Algeria,url exists,Algeria
 2026-02-03-23:11:58,Algeria,url exists,Algeria
 2026-02-03-23:12:19,Algeria,url exists,Algeria
+2026-02-04-05:01:09,Algeria,url exists,Algeria
+2026-02-04-05:01:16,Algeria,url exists,Algeria
+2026-02-04-05:01:25,Algeria,url exists,Algeria
+2026-02-04-05:01:51,Algeria,url exists,Algeria
+2026-02-04-05:02:00,Algeria,url exists,Algeria
+2026-02-04-05:02:33,Algeria,url exists,Algeria
+2026-02-04-05:02:57,Algeria,url exists,Algeria
+2026-02-04-05:03:35,Algeria,url exists,Algeria
+2026-02-04-05:03:49,Algeria,url exists,Algeria
+2026-02-04-05:04:02,Algeria,url exists,Algeria
+2026-02-04-05:04:39,Algeria,no popup,Timeout 30000ms exceeded.
+2026-02-04-05:04:54,Algeria,url exists,Algeria
+2026-02-04-05:05:09,Algeria,url exists,Algeria
+2026-02-04-05:05:25,Algeria,url exists,Algeria
+2026-02-04-05:06:20,Algeria,url exists,Algeria
+2026-02-04-05:06:38,Algeria,url exists,Algeria
+2026-02-04-05:06:57,Algeria,url exists,Algeria
+2026-02-04-05:07:41,Algeria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-04-05:08:12,Algeria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-04-05:08:30,Algeria,url exists,Algeria
+2026-02-04-05:09:15,Algeria,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-04-05:09:46,Algeria,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-04-05:10:06,Algeria,url exists,Algeria
