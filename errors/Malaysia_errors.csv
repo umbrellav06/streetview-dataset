@@ -488,3 +488,23 @@ Call log:"
 2026-02-03-13:59:04,Malaysia,url exists,Malaysia
 2026-02-03-13:59:11,Malaysia,url exists,Malaysia
 2026-02-03-13:59:39,Malaysia,url exists,Malaysia
+2026-02-04-10:20:19,Malaysia,url exists,Malaysia
+2026-02-04-10:20:26,Malaysia,url exists,Malaysia
+2026-02-04-10:20:33,Malaysia,url exists,Malaysia
+2026-02-04-10:20:42,Malaysia,url exists,Malaysia
+2026-02-04-10:20:49,Malaysia,url exists,Malaysia
+2026-02-04-10:21:49,Malaysia,no popup,Timeout 30000ms exceeded.
+2026-02-04-10:22:23,Malaysia,url exists,Malaysia
+2026-02-04-10:24:33,Malaysia,url exists,Malaysia
+2026-02-04-10:24:45,Malaysia,url exists,Malaysia
+2026-02-04-10:24:58,Malaysia,url exists,Malaysia
+2026-02-04-10:25:11,Malaysia,url exists,Malaysia
+2026-02-04-10:25:25,Malaysia,url exists,Malaysia
+2026-02-04-10:25:40,Malaysia,url exists,Malaysia
+2026-02-04-10:26:23,Malaysia,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-04-10:26:53,Malaysia,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-04-10:27:00,Malaysia,url exists,Malaysia
+2026-02-04-10:27:18,Malaysia,url exists,Malaysia
