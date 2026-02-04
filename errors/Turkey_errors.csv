@@ -967,3 +967,32 @@ Call log:"
 "
 2026-02-03-23:10:18,Turkey,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
 "
+2026-02-04-05:01:26,Turkey,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-04-05:01:48,Turkey,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-04-05:02:09,Turkey,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-04-05:02:16,Turkey,url exists,Turkey
+2026-02-04-05:02:23,Turkey,url exists,Turkey
+2026-02-04-05:02:32,Turkey,url exists,Sakarya Türkiye - Sakarya Turkey
+2026-02-04-05:02:53,Turkey,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-04-05:03:02,Turkey,url exists,A Balanced Turkey
+2026-02-04-05:03:04,Turkey,world,None
+2026-02-04-05:03:13,Turkey,url exists,Provinces of Turkey
+2026-02-04-05:03:46,Turkey,url exists,Turkey
+2026-02-04-05:04:23,Turkey,no popup,Timeout 30000ms exceeded.
+2026-02-04-05:04:45,Turkey,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-04-05:05:31,Turkey,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-04-05:05:44,Turkey,url exists,A Balanced Turkey
+2026-02-04-05:06:05,Turkey,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-04-05:06:55,Turkey,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-04-05:07:17,Turkey,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-04-05:08:28,Turkey,url exists,Provinces of Turkey
+2026-02-04-05:08:29,Turkey,world,None
