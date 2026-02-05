@@ -5,63 +5,65 @@ Eswatini,Eswatini
 Eswatini,AI gen - Eswatini
 Jordan,IntersectionGuessr - Jordan · الأردن
 Jordan,A Balanced Jordan
-Kyrgyzstan,A Better Kyrgyzstan
-Kyrgyzstan,A Balanced Kyrgyzstan
-Kyrgyzstan,Kyrgyzstan
-Kyrgyzstan,Kyrgyzstan/Кыргызстан
-San Marino,San Marino
-San Marino,AI Gen - San Marino
-San Marino,IntersectionGuessr - San Marino
-Ghana,IntersectionGuessr - Ghana
-Ghana,Ghana
-Ghana,AI gen - Ghana
-Ghana,A Pinpointable Ghana
-Ghana,Plonk It Ghana
-Andorra,Andorra
-Andorra,Pinpointable Andorra
-Paraguay,Paraguay
-Algeria,Algeria
-Guatemala,AI gen - Guatemala
-Guatemala,Guatemala
-Armenia,Armenia
-Bosnia and Herzegovina,Bosnia and Herzegovina
-Turkey,Provinces of Turkey
-Turkey,Izmir (Turkey)
-Turkey,Turkey
 Turkey,Pinpointable Aegean Turkey
+Turkey,Turkey
 Turkey,A Balanced Turkey
 Turkey,Sakarya Türkiye - Sakarya Turkey
+Turkey,Izmir (Turkey)
+Turkey,Provinces of Turkey
+Kyrgyzstan,Kyrgyzstan
+Kyrgyzstan,Kyrgyzstan/Кыргызстан
+Kyrgyzstan,A Better Kyrgyzstan
+Kyrgyzstan,A Balanced Kyrgyzstan
+San Marino,AI Gen - San Marino
+San Marino,San Marino
+San Marino,IntersectionGuessr - San Marino
+Ghana,IntersectionGuessr - Ghana
+Ghana,AI gen - Ghana
+Ghana,Ghana
+Ghana,A Pinpointable Ghana
+Ghana,Plonk It Ghana
+Andorra,Pinpointable Andorra
+Andorra,Andorra
+Paraguay,Paraguay
+Algeria,Algeria
+Guatemala,Guatemala
+Guatemala,AI gen - Guatemala
+Armenia,Armenia
+Bosnia and Herzegovina,Bosnia and Herzegovina
 Lesotho,Pinpointable Lesotho
 Lesotho,Unpinpointable Lesotho
 Lesotho,A Balanced Lesotho
 Lesotho,Lesotho
 Lesotho,AI gen - Lesotho
+United Arab Emirates,United Arab Emirates
+Ukraine,Ukraine
+Uruguay,Uruguay
 Nepal,Nepal
-Austria,Austria
-Austria,Austrian Squares
 Austria,IntersectionGuessr - Austria
+Austria,Austrian Squares
 Austria,A Balanced Austria
+Austria,Austria
+Montenegro,Montenegro
 Montenegro,IntersectionGuessr - Montenegro
 Montenegro,AI gen - Montenegro
-Montenegro,Montenegro
+Ecuador,A Balanced Ecuador
 Ecuador,An urban ecuador
 Ecuador,Ecuador
-Ecuador,A Balanced Ecuador
 Bolivia,Bolivia
-Kazakhstan,Kazakhstan
-Kazakhstan,AI Generated Kazakhstan
-Kazakhstan,A Diverse Kazakhstan
 Kazakhstan,AI Gen - Kazakhstan
 Kazakhstan,An Arbitrary Kazakhstan
 Kazakhstan,KAZAKHSTAN / КАЗАХСТАН
+Kazakhstan,AI Generated Kazakhstan
 Kazakhstan,random locs in Kazakhstan
 Kazakhstan,A Balanced Kazakhstan
-Kazakhstan,Plonk It Kazakhstan
 Kazakhstan,Big cities of kazakhstan
+Kazakhstan,Plonk It Kazakhstan
 Kazakhstan,A learnable Kazakhstan
+Kazakhstan,A Diverse Kazakhstan
+Kazakhstan,Kazakhstan
 Latvia,Latvia
 Belgium,Belgium
-Uruguay,Uruguay
 Panama,AI Generated Panama
 Panama,Panama
 Luxembourg,Luxembourg
@@ -70,67 +72,67 @@ Cambodia,Cambodia
 Laos,Laos
 Moldova,Moldova
 Israel,Israel
-Albania,A Balanced Albania
 Albania,Plonk It Albania
+Albania,A Balanced Albania
 Albania,Albania
-Iceland,A Pinpointable Iceland
-Iceland,Iceland
 Iceland,An Arbitrary Iceland
-Hungary,Hungary
-Chile,Chile
-Peru,Peru
-Peru,IntersectionGuessr - Peru
-Peru,A Balanced Peru
-United Arab Emirates,United Arab Emirates
+Iceland,Iceland
+Iceland,A Pinpointable Iceland
 Senegal,Pinpointable Senegal
-Senegal,Senegal
-Senegal,Plonk It Senegal
 Senegal,A Balanced Senegal
 Senegal,A Pinpointable Senegal
 Senegal,AI gen - Senegal gen 4
-Rwanda,Rwanda
-Rwanda,All Rwanda coverage as of 2022-10-07 19:04 CEST
+Senegal,Senegal
+Senegal,Plonk It Senegal
+Peru,A Balanced Peru
+Peru,Peru
+Peru,IntersectionGuessr - Peru
+Hungary,Hungary
+Chile,Chile
 Ireland,Ireland
 Estonia,Estonia
+Rwanda,All Rwanda coverage as of 2022-10-07 19:04 CEST
+Rwanda,Rwanda
 Argentina,Argentina
 Bhutan,Bhutan
-Botswana,A Balanced Botswana
-Botswana,Botswana
-Botswana,A Plonk It Botswana
 Serbia,Serbia
-Singapore,Singapore
+Botswana,A Balanced Botswana
+Botswana,A Plonk It Botswana
+Botswana,Botswana
 Qatar,Qatar
-South Korea,South Korea
-Kenya,Kenya
+Singapore,Singapore
 Kenya,A Balanced Kenya
+Kenya,Kenya
 Kenya,IntersectionGuessr - Kenya
-Sri Lanka,Sri Lanka • இலங்கை
+South Korea,South Korea
 Sri Lanka,Sri Lanka
-Sri Lanka,AI gen - Sri Lanka
+Sri Lanka,Sri Lanka • இலங்கை
 Sri Lanka,Pinpointable Sri Lanka
-Tunisia,IntersectionGuessr - Tunisia
+Sri Lanka,AI gen - Sri Lanka
 Tunisia,Tunisia
+Tunisia,IntersectionGuessr - Tunisia
 Tunisia,A Balanced Tunisia
 China,China
 Malaysia,Malaysia
-North Macedonia,North Macedonia
+Malta,Malta
 North Macedonia,AI gen - North Macedonia
 North Macedonia,IntersectionGuessr - North Macedonia · Македонија
 North Macedonia,An Arbitrary Rural North Macedonia (AARMK)
+North Macedonia,North Macedonia
 North Macedonia,A Balanced North Macedonia
-Malta,Malta
 Colombia,A Balanced Colombia
-Colombia,Colombia
 Colombia,IntersectionGuessr - Colombia
+Colombia,Colombia
 Colombia,A Stochastic Populated Colombia
+Uganda,Uganda
 Bangladesh,Bangladesh
 Bangladesh,AI Gen - Bangladesh
 Bangladesh,A Balanced Bangladesh
 Switzerland,Switzerland
 Bulgaria,Bulgaria
-Nigeria,A Balanced Nigeria
 Nigeria,IntersectionGuessr - Nigeria
 Nigeria,Nigeria
+Nigeria,A Balanced Nigeria
 New Zealand,New Zealand
 South Africa,South Africa
 Denmark,Denmark
@@ -141,11 +143,11 @@ Thailand,Thailand
 Slovakia,Slovakia
 Finland,Finland
 Taiwan,Taiwan
-Ukraine,Ukraine
 Norway,Norway
 Australia,Australia
 Oman,Oman
 Portugal,Portugal
+United Kingdom,United Kingdom
 Netherlands,Netherlands
 India,India
 Lithuania,Lithuania
@@ -153,17 +155,15 @@ Philippines,Philippines
 Italy,Italy
 Slovenia,Slovenia
 Germany,Germany
-Uganda,Uganda
 Brazil,Brazil
 Sweden,Sweden
-Canada,Canada
 Hong Kong,Hong Kong
+Canada,Canada
 Indonesia,Indonesia
+United States,United States
 Spain,Spain
 Russia,Russia
 Croatia,Croatia
 France,France
 Poland,Poland
-United Kingdom,United Kingdom
 Japan,Japan
-United States,United States
