@@ -1097,3 +1097,30 @@ Call log:
 Call log:
 "
 2026-02-04-14:59:11,Laos,no images,None
+2026-02-07-09:10:41,Laos,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:10:45,Laos,world,None
+2026-02-07-09:10:55,Laos,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:10:59,Laos,world,None
+2026-02-07-09:11:03,Laos,world,None
+2026-02-07-09:11:05,Laos,world,None
+2026-02-07-09:11:09,Laos,world,None
+2026-02-07-09:11:12,Laos,world,None
+2026-02-07-09:11:23,Laos,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:11:35,Laos,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:11:37,Laos,world,None
+2026-02-07-09:11:58,Laos,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-07-09:12:00,Laos,world,None
+2026-02-07-09:12:03,Laos,world,None
+2026-02-07-09:12:13,Laos,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:12:17,Laos,world,None
+2026-02-07-09:12:21,Laos,world,None
+2026-02-07-09:12:24,Laos,world,None
+2026-02-07-09:12:28,Laos,world,None
+2026-02-07-09:12:40,Laos,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:12:43,Laos,world,None
+2026-02-07-09:12:55,Laos,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:12:59,Laos,world,None
+2026-02-07-09:13:03,Laos,world,None
+2026-02-07-09:13:13,Laos,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:13:13,Laos,no images,None
