@@ -991,3 +991,31 @@ Call log:
 Call log:
 "
 2026-02-04-14:59:32,Albania,no images,None
+2026-02-07-09:10:26,Albania,world,None
+2026-02-07-09:10:28,Albania,world,None
+2026-02-07-09:10:39,Albania,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:10:41,Albania,world,None
+2026-02-07-09:10:43,Albania,world,None
+2026-02-07-09:10:45,Albania,world,None
+2026-02-07-09:10:47,Albania,world,None
+2026-02-07-09:10:58,Albania,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:11:00,Albania,world,None
+2026-02-07-09:11:10,Albania,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:11:22,Albania,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:11:33,Albania,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:11:55,Albania,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-07-09:12:06,Albania,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:12:16,Albania,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:12:18,Albania,world,None
+2026-02-07-09:12:30,Albania,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:12:41,Albania,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:13:02,Albania,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-07-09:13:06,Albania,world,None
+2026-02-07-09:13:09,Albania,world,None
+2026-02-07-09:13:11,Albania,world,None
+2026-02-07-09:13:22,Albania,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:13:25,Albania,world,None
+2026-02-07-09:13:29,Albania,world,None
+2026-02-07-09:13:29,Albania,no images,None
