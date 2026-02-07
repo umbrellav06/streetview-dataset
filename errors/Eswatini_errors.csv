@@ -706,3 +706,31 @@ Call log:
 Call log:
 "
 2026-02-04-14:59:19,Eswatini,no images,None
+2026-02-07-09:12:45,Eswatini,world,None
+2026-02-07-09:12:57,Eswatini,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:12:59,Eswatini,world,None
+2026-02-07-09:13:20,Eswatini,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-07-09:13:22,Eswatini,world,None
+2026-02-07-09:13:24,Eswatini,world,None
+2026-02-07-09:13:35,Eswatini,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:13:56,Eswatini,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-07-09:14:00,Eswatini,world,None
+2026-02-07-09:14:11,Eswatini,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:14:23,Eswatini,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:14:35,Eswatini,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:14:46,Eswatini,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:14:50,Eswatini,world,None
+2026-02-07-09:14:52,Eswatini,world,None
+2026-02-07-09:15:04,Eswatini,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:15:08,Eswatini,world,None
+2026-02-07-09:15:18,Eswatini,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:15:29,Eswatini,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:15:31,Eswatini,world,None
+2026-02-07-09:15:43,Eswatini,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:15:53,Eswatini,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:16:03,Eswatini,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:16:06,Eswatini,world,None
+2026-02-07-09:16:09,Eswatini,world,None
+2026-02-07-09:16:10,Eswatini,no images,None
