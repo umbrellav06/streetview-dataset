@@ -1478,3 +1478,34 @@ Call log:
 Call log:
 "
 2026-02-04-15:00:42,Paraguay,no images,None
+2026-02-07-09:07:57,Paraguay,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:08:01,Paraguay,world,None
+2026-02-07-09:08:12,Paraguay,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:08:14,Paraguay,world,None
+2026-02-07-09:08:16,Paraguay,world,None
+2026-02-07-09:08:20,Paraguay,world,None
+2026-02-07-09:08:24,Paraguay,world,None
+2026-02-07-09:08:35,Paraguay,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:08:47,Paraguay,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:08:49,Paraguay,world,None
+2026-02-07-09:08:59,Paraguay,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:09:10,Paraguay,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:09:12,Paraguay,world,None
+2026-02-07-09:09:16,Paraguay,world,None
+2026-02-07-09:09:57,Paraguay,name,"Locator.fill: Timeout 30000ms exceeded.
+Call log:
+"
+2026-02-07-09:10:27,Paraguay,start,"Locator.click: Timeout 30000ms exceeded.
+Call log:"
+2026-02-07-09:10:30,Paraguay,world,None
+2026-02-07-09:10:41,Paraguay,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:10:52,Paraguay,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:10:56,Paraguay,world,None
+2026-02-07-09:11:08,Paraguay,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:11:11,Paraguay,world,None
+2026-02-07-09:11:22,Paraguay,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:11:43,Paraguay,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-07-09:11:47,Paraguay,world,None
+2026-02-07-09:11:57,Paraguay,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:11:58,Paraguay,no images,None
