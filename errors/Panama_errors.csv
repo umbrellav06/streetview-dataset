@@ -1330,3 +1330,30 @@ Call log:
 Call log:
 "
 2026-02-04-14:45:22,Panama,no images,None
+2026-02-07-09:10:43,Panama,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:10:46,Panama,world,None
+2026-02-07-09:10:49,Panama,world,None
+2026-02-07-09:10:52,Panama,world,None
+2026-02-07-09:10:55,Panama,world,None
+2026-02-07-09:10:58,Panama,world,None
+2026-02-07-09:11:00,Panama,world,None
+2026-02-07-09:11:10,Panama,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:11:14,Panama,world,None
+2026-02-07-09:11:25,Panama,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:11:27,Panama,world,None
+2026-02-07-09:11:39,Panama,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:11:50,Panama,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:11:52,Panama,world,None
+2026-02-07-09:12:04,Panama,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:12:16,Panama,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:12:26,Panama,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:12:28,Panama,world,None
+2026-02-07-09:12:49,Panama,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-07-09:12:53,Panama,world,None
+2026-02-07-09:12:56,Panama,world,None
+2026-02-07-09:13:07,Panama,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:13:09,Panama,world,None
+2026-02-07-09:13:21,Panama,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:13:32,Panama,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:13:33,Panama,no images,None
