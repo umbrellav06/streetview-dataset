@@ -945,3 +945,30 @@ Call log:
 Call log:
 "
 2026-02-04-14:59:00,Iceland,no images,None
+2026-02-07-09:10:53,Iceland,world,None
+2026-02-07-09:11:03,Iceland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:11:05,Iceland,world,None
+2026-02-07-09:11:07,Iceland,world,None
+2026-02-07-09:11:28,Iceland,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-07-09:11:40,Iceland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:11:52,Iceland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:11:56,Iceland,world,None
+2026-02-07-09:12:07,Iceland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:12:11,Iceland,world,None
+2026-02-07-09:12:13,Iceland,world,None
+2026-02-07-09:12:25,Iceland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:12:37,Iceland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:12:47,Iceland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:12:58,Iceland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:13:02,Iceland,world,None
+2026-02-07-09:13:13,Iceland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:13:16,Iceland,world,None
+2026-02-07-09:13:27,Iceland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:13:37,Iceland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:13:40,Iceland,world,None
+2026-02-07-09:13:51,Iceland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:14:01,Iceland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:14:05,Iceland,world,None
+2026-02-07-09:14:15,Iceland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:14:16,Iceland,no images,None
