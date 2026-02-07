@@ -1239,3 +1239,30 @@ Call log:
 Call log:
 "
 2026-02-04-14:59:08,Austria,no images,None
+2026-02-07-09:07:57,Austria,world,None
+2026-02-07-09:08:00,Austria,world,None
+2026-02-07-09:08:04,Austria,world,None
+2026-02-07-09:08:07,Austria,world,None
+2026-02-07-09:08:17,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:08:28,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:08:40,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:08:50,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:09:00,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:09:12,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:09:15,Austria,world,None
+2026-02-07-09:09:25,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:09:47,Austria,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-07-09:09:57,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:09:59,Austria,world,None
+2026-02-07-09:10:00,Austria,world,None
+2026-02-07-09:10:04,Austria,world,None
+2026-02-07-09:10:07,Austria,world,None
+2026-02-07-09:10:18,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:10:30,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:10:40,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:10:42,Austria,world,None
+2026-02-07-09:10:46,Austria,world,None
+2026-02-07-09:10:49,Austria,world,None
+2026-02-07-09:11:00,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:11:01,Austria,no images,None
