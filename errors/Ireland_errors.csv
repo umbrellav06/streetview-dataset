@@ -676,3 +676,30 @@ Call log:
 Call log:
 "
 2026-02-04-14:59:20,Ireland,no images,None
+2026-02-07-09:10:23,Ireland,world,None
+2026-02-07-09:10:26,Ireland,world,None
+2026-02-07-09:10:29,Ireland,world,None
+2026-02-07-09:10:31,Ireland,world,None
+2026-02-07-09:10:34,Ireland,world,None
+2026-02-07-09:10:44,Ireland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:10:46,Ireland,world,None
+2026-02-07-09:10:56,Ireland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:10:58,Ireland,world,None
+2026-02-07-09:11:02,Ireland,world,None
+2026-02-07-09:11:06,Ireland,world,None
+2026-02-07-09:11:09,Ireland,world,None
+2026-02-07-09:11:11,Ireland,world,None
+2026-02-07-09:11:22,Ireland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:11:34,Ireland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:11:37,Ireland,world,None
+2026-02-07-09:11:48,Ireland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:12:00,Ireland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:12:10,Ireland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:12:14,Ireland,world,None
+2026-02-07-09:12:16,Ireland,world,None
+2026-02-07-09:12:37,Ireland,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-07-09:12:49,Ireland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:13:00,Ireland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:13:02,Ireland,world,None
+2026-02-07-09:13:02,Ireland,no images,None
