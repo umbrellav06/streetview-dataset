@@ -812,3 +812,31 @@ Call log:
 Call log:
 "
 2026-02-04-14:59:31,Estonia,no images,None
+2026-02-07-09:11:35,Estonia,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:11:37,Estonia,world,None
+2026-02-07-09:11:39,Estonia,world,None
+2026-02-07-09:11:49,Estonia,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:11:51,Estonia,world,None
+2026-02-07-09:11:55,Estonia,world,None
+2026-02-07-09:12:16,Estonia,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-07-09:12:19,Estonia,world,None
+2026-02-07-09:12:21,Estonia,world,None
+2026-02-07-09:12:32,Estonia,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:12:36,Estonia,world,None
+2026-02-07-09:12:39,Estonia,world,None
+2026-02-07-09:12:41,Estonia,world,None
+2026-02-07-09:13:03,Estonia,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-07-09:13:06,Estonia,world,None
+2026-02-07-09:13:09,Estonia,world,None
+2026-02-07-09:13:21,Estonia,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:13:23,Estonia,world,None
+2026-02-07-09:13:25,Estonia,world,None
+2026-02-07-09:13:36,Estonia,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:13:40,Estonia,world,None
+2026-02-07-09:13:43,Estonia,world,None
+2026-02-07-09:13:45,Estonia,world,None
+2026-02-07-09:13:47,Estonia,world,None
+2026-02-07-09:13:49,Estonia,world,None
+2026-02-07-09:13:49,Estonia,no images,None
