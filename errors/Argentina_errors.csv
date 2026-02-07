@@ -867,3 +867,30 @@ Call log:
 Call log:
 "
 2026-02-04-14:45:26,Argentina,no images,None
+2026-02-07-09:09:44,Argentina,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:10:05,Argentina,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-07-09:10:09,Argentina,world,None
+2026-02-07-09:10:11,Argentina,world,None
+2026-02-07-09:10:21,Argentina,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:10:33,Argentina,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:10:45,Argentina,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:10:48,Argentina,world,None
+2026-02-07-09:10:51,Argentina,world,None
+2026-02-07-09:11:01,Argentina,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:11:05,Argentina,world,None
+2026-02-07-09:11:09,Argentina,world,None
+2026-02-07-09:11:19,Argentina,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:11:31,Argentina,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:11:33,Argentina,world,None
+2026-02-07-09:11:37,Argentina,world,None
+2026-02-07-09:11:39,Argentina,world,None
+2026-02-07-09:11:50,Argentina,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:11:53,Argentina,world,None
+2026-02-07-09:11:55,Argentina,world,None
+2026-02-07-09:12:07,Argentina,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:12:18,Argentina,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:12:20,Argentina,world,None
+2026-02-07-09:12:32,Argentina,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:12:34,Argentina,world,None
+2026-02-07-09:12:35,Argentina,no images,None
