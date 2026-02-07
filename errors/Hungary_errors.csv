@@ -701,3 +701,29 @@ Call log:
 Call log:
 "
 2026-02-04-14:59:24,Hungary,no images,None
+2026-02-07-09:07:58,Hungary,world,None
+2026-02-07-09:08:01,Hungary,world,None
+2026-02-07-09:08:12,Hungary,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:08:13,Hungary,world,None
+2026-02-07-09:08:17,Hungary,world,None
+2026-02-07-09:08:19,Hungary,world,None
+2026-02-07-09:08:22,Hungary,world,None
+2026-02-07-09:08:24,Hungary,world,None
+2026-02-07-09:08:35,Hungary,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:08:36,Hungary,world,None
+2026-02-07-09:08:39,Hungary,world,None
+2026-02-07-09:08:40,Hungary,world,None
+2026-02-07-09:08:50,Hungary,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:08:51,Hungary,world,None
+2026-02-07-09:08:53,Hungary,world,None
+2026-02-07-09:08:54,Hungary,world,None
+2026-02-07-09:08:56,Hungary,world,None
+2026-02-07-09:09:05,Hungary,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:09:08,Hungary,world,None
+2026-02-07-09:09:11,Hungary,world,None
+2026-02-07-09:09:13,Hungary,world,None
+2026-02-07-09:09:15,Hungary,world,None
+2026-02-07-09:09:17,Hungary,world,None
+2026-02-07-09:09:20,Hungary,world,None
+2026-02-07-09:09:29,Hungary,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-07-09:09:30,Hungary,no images,None
