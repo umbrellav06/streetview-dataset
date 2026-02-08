@@ -727,3 +727,31 @@ Call log:
 2026-02-07-09:09:20,Hungary,world,None
 2026-02-07-09:09:29,Hungary,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
 2026-02-07-09:09:30,Hungary,no images,None
+2026-02-08-08:52:36,Hungary,world,None
+2026-02-08-08:52:57,Hungary,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-08-08:53:07,Hungary,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:53:09,Hungary,world,None
+2026-02-08-08:53:12,Hungary,world,None
+2026-02-08-08:53:16,Hungary,world,None
+2026-02-08-08:53:20,Hungary,world,None
+2026-02-08-08:53:30,Hungary,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:53:32,Hungary,world,None
+2026-02-08-08:53:34,Hungary,world,None
+2026-02-08-08:53:37,Hungary,world,None
+2026-02-08-08:53:40,Hungary,world,None
+2026-02-08-08:53:50,Hungary,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:54:01,Hungary,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:54:11,Hungary,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:54:15,Hungary,world,None
+2026-02-08-08:54:17,Hungary,world,None
+2026-02-08-08:54:29,Hungary,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:54:50,Hungary,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-08-08:55:01,Hungary,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:55:11,Hungary,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:55:14,Hungary,world,None
+2026-02-08-08:55:17,Hungary,world,None
+2026-02-08-08:55:20,Hungary,world,None
+2026-02-08-08:55:23,Hungary,world,None
+2026-02-08-08:55:23,Hungary,no images,None
