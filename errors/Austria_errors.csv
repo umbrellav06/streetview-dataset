@@ -1266,3 +1266,34 @@ Call log:
 2026-02-07-09:10:49,Austria,world,None
 2026-02-07-09:11:00,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
 2026-02-07-09:11:01,Austria,no images,None
+2026-02-08-08:52:25,Austria,world,None
+2026-02-08-08:52:46,Austria,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-08-08:52:58,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:53:08,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:53:19,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:53:30,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:53:34,Austria,world,None
+2026-02-08-08:53:46,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:53:48,Austria,world,None
+2026-02-08-08:54:10,Austria,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-08-08:54:13,Austria,world,None
+2026-02-08-08:54:16,Austria,world,None
+2026-02-08-08:54:26,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:54:28,Austria,world,None
+2026-02-08-08:54:49,Austria,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-08-08:55:01,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:55:11,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:55:14,Austria,world,None
+2026-02-08-08:55:24,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:55:35,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:55:46,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:55:57,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:56:19,Austria,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-08-08:56:30,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:56:51,Austria,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-08-08:56:52,Austria,no images,None
