@@ -1059,3 +1059,30 @@ Call log:
 2026-02-07-09:13:13,Romania,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
 2026-02-07-09:13:24,Romania,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
 2026-02-07-09:13:24,Romania,no images,None
+2026-02-08-08:51:57,Romania,world,None
+2026-02-08-08:52:08,Romania,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:52:10,Romania,world,None
+2026-02-08-08:52:22,Romania,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:52:32,Romania,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:52:44,Romania,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:52:46,Romania,world,None
+2026-02-08-08:52:57,Romania,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:52:58,Romania,world,None
+2026-02-08-08:53:02,Romania,world,None
+2026-02-08-08:53:05,Romania,world,None
+2026-02-08-08:53:08,Romania,world,None
+2026-02-08-08:53:19,Romania,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:53:21,Romania,world,None
+2026-02-08-08:53:25,Romania,world,None
+2026-02-08-08:53:36,Romania,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:53:38,Romania,world,None
+2026-02-08-08:53:48,Romania,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:54:00,Romania,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:54:01,Romania,world,None
+2026-02-08-08:54:03,Romania,world,None
+2026-02-08-08:54:05,Romania,world,None
+2026-02-08-08:54:17,Romania,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:54:28,Romania,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:54:50,Romania,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-08-08:54:50,Romania,no images,None
