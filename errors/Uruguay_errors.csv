@@ -998,3 +998,31 @@ Call log:
 2026-02-07-09:09:53,Uruguay,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
 2026-02-07-09:09:56,Uruguay,world,None
 2026-02-07-09:09:57,Uruguay,no images,None
+2026-02-08-08:52:23,Uruguay,world,None
+2026-02-08-08:52:44,Uruguay,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-08-08:52:46,Uruguay,world,None
+2026-02-08-08:52:58,Uruguay,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:53:09,Uruguay,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:53:19,Uruguay,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:53:41,Uruguay,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-08-08:53:44,Uruguay,world,None
+2026-02-08-08:53:47,Uruguay,world,None
+2026-02-08-08:53:50,Uruguay,world,None
+2026-02-08-08:54:01,Uruguay,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:54:03,Uruguay,world,None
+2026-02-08-08:54:06,Uruguay,world,None
+2026-02-08-08:54:18,Uruguay,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:54:30,Uruguay,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:54:41,Uruguay,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:54:45,Uruguay,world,None
+2026-02-08-08:54:48,Uruguay,world,None
+2026-02-08-08:54:50,Uruguay,world,None
+2026-02-08-08:55:01,Uruguay,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:55:13,Uruguay,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:55:16,Uruguay,world,None
+2026-02-08-08:55:28,Uruguay,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:55:39,Uruguay,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:55:41,Uruguay,world,None
+2026-02-08-08:55:42,Uruguay,no images,None
