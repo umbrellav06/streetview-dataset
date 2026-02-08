@@ -1179,3 +1179,30 @@ Call log:
 2026-02-07-09:13:07,Cambodia,world,None
 2026-02-07-09:13:18,Cambodia,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
 2026-02-07-09:13:18,Cambodia,no images,None
+2026-02-08-08:52:03,Cambodia,world,None
+2026-02-08-08:52:24,Cambodia,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-08-08:52:26,Cambodia,world,None
+2026-02-08-08:52:37,Cambodia,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:52:48,Cambodia,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:52:58,Cambodia,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:53:09,Cambodia,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:53:21,Cambodia,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:53:31,Cambodia,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:53:41,Cambodia,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:53:44,Cambodia,world,None
+2026-02-08-08:53:56,Cambodia,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:54:07,Cambodia,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:54:09,Cambodia,world,None
+2026-02-08-08:54:20,Cambodia,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:54:22,Cambodia,world,None
+2026-02-08-08:54:24,Cambodia,world,None
+2026-02-08-08:54:27,Cambodia,world,None
+2026-02-08-08:54:30,Cambodia,world,None
+2026-02-08-08:54:33,Cambodia,world,None
+2026-02-08-08:54:36,Cambodia,world,None
+2026-02-08-08:54:38,Cambodia,world,None
+2026-02-08-08:54:48,Cambodia,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:54:59,Cambodia,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:55:02,Cambodia,world,None
+2026-02-08-08:55:03,Cambodia,no images,None
