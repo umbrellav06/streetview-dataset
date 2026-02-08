@@ -972,3 +972,30 @@ Call log:
 2026-02-07-09:14:05,Iceland,world,None
 2026-02-07-09:14:15,Iceland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
 2026-02-07-09:14:16,Iceland,no images,None
+2026-02-08-08:50:59,Iceland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:51:03,Iceland,world,None
+2026-02-08-08:51:24,Iceland,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-08-08:51:26,Iceland,world,None
+2026-02-08-08:51:30,Iceland,world,None
+2026-02-08-08:51:33,Iceland,world,None
+2026-02-08-08:51:45,Iceland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:51:47,Iceland,world,None
+2026-02-08-08:51:51,Iceland,world,None
+2026-02-08-08:51:54,Iceland,world,None
+2026-02-08-08:51:58,Iceland,world,None
+2026-02-08-08:52:08,Iceland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:52:10,Iceland,world,None
+2026-02-08-08:52:14,Iceland,world,None
+2026-02-08-08:52:25,Iceland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:52:28,Iceland,world,None
+2026-02-08-08:52:40,Iceland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:52:43,Iceland,world,None
+2026-02-08-08:52:45,Iceland,world,None
+2026-02-08-08:52:49,Iceland,world,None
+2026-02-08-08:52:59,Iceland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:53:03,Iceland,world,None
+2026-02-08-08:53:15,Iceland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:53:25,Iceland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:53:37,Iceland,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:53:37,Iceland,no images,None
