@@ -1314,3 +1314,30 @@ Call log:
 Call log:
 "
 2026-02-04-14:59:01,Andorra,no images,None
+2026-02-08-08:48:56,Andorra,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:49:00,Andorra,world,None
+2026-02-08-08:49:04,Andorra,world,None
+2026-02-08-08:49:06,Andorra,world,None
+2026-02-08-08:49:17,Andorra,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:49:19,Andorra,world,None
+2026-02-08-08:49:31,Andorra,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:49:43,Andorra,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:50:04,Andorra,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-08-08:50:16,Andorra,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:50:20,Andorra,world,None
+2026-02-08-08:50:22,Andorra,world,None
+2026-02-08-08:50:32,Andorra,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:50:44,Andorra,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:50:54,Andorra,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:50:58,Andorra,world,None
+2026-02-08-08:51:02,Andorra,world,None
+2026-02-08-08:51:04,Andorra,world,None
+2026-02-08-08:51:14,Andorra,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:51:26,Andorra,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:51:29,Andorra,world,None
+2026-02-08-08:51:33,Andorra,world,None
+2026-02-08-08:51:37,Andorra,world,None
+2026-02-08-08:51:40,Andorra,world,None
+2026-02-08-08:51:43,Andorra,world,None
+2026-02-08-08:51:44,Andorra,no images,None
