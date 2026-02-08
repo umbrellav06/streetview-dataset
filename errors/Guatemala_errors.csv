@@ -1384,3 +1384,30 @@ Call log:
 2026-02-07-09:14:28,Guatemala,world,None
 2026-02-07-09:14:40,Guatemala,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
 2026-02-07-09:14:40,Guatemala,no images,None
+2026-02-08-08:50:40,Guatemala,world,None
+2026-02-08-08:50:42,Guatemala,world,None
+2026-02-08-08:50:53,Guatemala,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:50:56,Guatemala,world,None
+2026-02-08-08:51:00,Guatemala,world,None
+2026-02-08-08:51:02,Guatemala,world,None
+2026-02-08-08:51:05,Guatemala,world,None
+2026-02-08-08:51:07,Guatemala,world,None
+2026-02-08-08:51:17,Guatemala,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:51:27,Guatemala,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:51:30,Guatemala,world,None
+2026-02-08-08:51:33,Guatemala,world,None
+2026-02-08-08:51:37,Guatemala,world,None
+2026-02-08-08:51:40,Guatemala,world,None
+2026-02-08-08:51:51,Guatemala,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:51:54,Guatemala,world,None
+2026-02-08-08:52:04,Guatemala,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:52:15,Guatemala,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:52:27,Guatemala,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:52:30,Guatemala,world,None
+2026-02-08-08:52:32,Guatemala,world,None
+2026-02-08-08:52:43,Guatemala,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:53:04,Guatemala,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-08-08:53:16,Guatemala,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:53:27,Guatemala,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:53:27,Guatemala,no images,None
