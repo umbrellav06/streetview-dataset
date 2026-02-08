@@ -524,3 +524,32 @@ Call log:
 2026-02-07-09:10:20,Kyrgyzstan,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
 "
 2026-02-07-09:10:20,Kyrgyzstan,no images,None
+2026-02-08-08:51:36,Kyrgyzstan,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:51:57,Kyrgyzstan,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-08-08:52:01,Kyrgyzstan,world,None
+2026-02-08-08:52:11,Kyrgyzstan,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:52:15,Kyrgyzstan,world,None
+2026-02-08-08:52:18,Kyrgyzstan,world,None
+2026-02-08-08:52:28,Kyrgyzstan,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:52:32,Kyrgyzstan,world,None
+2026-02-08-08:52:43,Kyrgyzstan,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:52:46,Kyrgyzstan,world,None
+2026-02-08-08:52:58,Kyrgyzstan,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:53:01,Kyrgyzstan,world,None
+2026-02-08-08:53:22,Kyrgyzstan,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-08-08:53:34,Kyrgyzstan,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:53:36,Kyrgyzstan,world,None
+2026-02-08-08:53:39,Kyrgyzstan,world,None
+2026-02-08-08:53:49,Kyrgyzstan,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:53:51,Kyrgyzstan,world,None
+2026-02-08-08:53:53,Kyrgyzstan,world,None
+2026-02-08-08:53:56,Kyrgyzstan,world,None
+2026-02-08-08:53:58,Kyrgyzstan,world,None
+2026-02-08-08:54:01,Kyrgyzstan,world,None
+2026-02-08-08:54:03,Kyrgyzstan,world,None
+2026-02-08-08:54:06,Kyrgyzstan,world,None
+2026-02-08-08:54:28,Kyrgyzstan,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-08-08:54:28,Kyrgyzstan,no images,None
