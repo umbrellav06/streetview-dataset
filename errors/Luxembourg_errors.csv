@@ -1082,3 +1082,30 @@ Call log:
 Call log:
 "
 2026-02-04-14:45:27,Luxembourg,no images,None
+2026-02-08-08:52:57,Luxembourg,world,None
+2026-02-08-08:53:00,Luxembourg,world,None
+2026-02-08-08:53:11,Luxembourg,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:53:23,Luxembourg,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:53:35,Luxembourg,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:53:45,Luxembourg,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:53:55,Luxembourg,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:54:06,Luxembourg,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:54:09,Luxembourg,world,None
+2026-02-08-08:54:13,Luxembourg,world,None
+2026-02-08-08:54:15,Luxembourg,world,None
+2026-02-08-08:54:16,Luxembourg,world,None
+2026-02-08-08:54:28,Luxembourg,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:54:31,Luxembourg,world,None
+2026-02-08-08:54:34,Luxembourg,world,None
+2026-02-08-08:54:36,Luxembourg,world,None
+2026-02-08-08:54:47,Luxembourg,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:54:49,Luxembourg,world,None
+2026-02-08-08:54:51,Luxembourg,world,None
+2026-02-08-08:55:01,Luxembourg,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:55:23,Luxembourg,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-08-08:55:26,Luxembourg,world,None
+2026-02-08-08:55:37,Luxembourg,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:55:39,Luxembourg,world,None
+2026-02-08-08:55:50,Luxembourg,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:55:51,Luxembourg,no images,None
