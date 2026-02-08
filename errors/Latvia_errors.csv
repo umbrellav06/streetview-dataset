@@ -1075,3 +1075,33 @@ Call log:
 2026-02-07-09:09:50,Latvia,world,None
 2026-02-07-09:09:53,Latvia,world,None
 2026-02-07-09:09:54,Latvia,no images,None
+2026-02-08-08:48:50,Latvia,world,None
+2026-02-08-08:49:00,Latvia,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:49:12,Latvia,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:49:23,Latvia,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:49:35,Latvia,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:49:47,Latvia,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:50:08,Latvia,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-08-08:50:19,Latvia,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:50:40,Latvia,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-08-08:50:43,Latvia,world,None
+2026-02-08-08:50:46,Latvia,world,None
+2026-02-08-08:51:07,Latvia,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-08-08:51:10,Latvia,world,None
+2026-02-08-08:51:21,Latvia,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:51:33,Latvia,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:51:54,Latvia,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-08-08:51:57,Latvia,world,None
+2026-02-08-08:52:01,Latvia,world,None
+2026-02-08-08:52:12,Latvia,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:52:23,Latvia,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:52:28,Latvia,world,None
+2026-02-08-08:52:39,Latvia,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:52:51,Latvia,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-08-08:52:54,Latvia,world,None
+2026-02-08-08:52:56,Latvia,world,None
+2026-02-08-08:52:56,Latvia,no images,None
