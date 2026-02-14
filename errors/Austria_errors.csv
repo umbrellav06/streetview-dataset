@@ -1297,3 +1297,31 @@ Call log:
 2026-02-08-08:56:51,Austria,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
 "
 2026-02-08-08:56:52,Austria,no images,None
+2026-02-14-20:53:56,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-14-20:54:04,Austria,url exists,Austrian Squares
+2026-02-14-20:54:11,Austria,url exists,Austria
+2026-02-14-20:54:12,Austria,world,None
+2026-02-14-20:54:14,Austria,world,None
+2026-02-14-20:54:22,Austria,url exists,Austrian Squares
+2026-02-14-20:54:31,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-14-20:54:53,Austria,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-14-20:55:02,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-14-20:55:12,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-14-20:55:21,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-14-20:55:23,Austria,world,None
+2026-02-14-20:55:44,Austria,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-14-20:55:54,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-14-20:56:15,Austria,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-14-20:56:45,Austria,url exists,Austrian Squares
+2026-02-14-20:56:54,Austria,url exists,Austria
+2026-02-14-20:57:04,Austria,url exists,Austria
+2026-02-14-20:57:15,Austria,url exists,Austria
+2026-02-14-20:57:25,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-14-20:57:35,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-14-20:57:44,Austria,url exists,Austrian Squares
+2026-02-14-20:58:06,Austria,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-14-20:58:15,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
