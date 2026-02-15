@@ -1382,3 +1382,35 @@ Call log:
 2026-02-14-23:05:37,Austria,url exists,Austrian Squares
 2026-02-14-23:05:58,Austria,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
 "
+2026-02-14-23:56:43,Austria,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-14-23:56:50,Austria,url exists,Austrian Squares
+2026-02-14-23:56:57,Austria,url exists,Austria
+2026-02-14-23:57:06,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-14-23:57:13,Austria,url exists,Austrian Squares
+2026-02-14-23:57:20,Austria,url exists,Austrian Squares
+2026-02-14-23:57:42,Austria,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-14-23:57:51,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-14-23:58:01,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-14-23:58:02,Austria,world,None
+2026-02-14-23:58:09,Austria,url exists,Austrian Squares
+2026-02-14-23:58:31,Austria,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-14-23:58:52,Austria,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-14-23:58:54,Austria,world,None
+2026-02-14-23:59:00,Austria,url exists,Austrian Squares
+2026-02-14-23:59:09,Austria,url exists,Austrian Squares
+2026-02-14-23:59:18,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-14-23:59:27,Austria,url exists,Austrian Squares
+2026-02-14-23:59:49,Austria,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-14-23:59:58,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-15-00:00:05,Austria,url exists,Austria
+2026-02-15-00:00:15,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-15-00:00:16,Austria,world,None
+2026-02-15-00:00:38,Austria,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-15-00:00:47,Austria,no popup,"Timeout 8000ms exceeded while waiting for event ""p"
+2026-02-15-00:00:48,Austria,no images,None
