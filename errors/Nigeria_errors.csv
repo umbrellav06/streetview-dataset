@@ -1060,3 +1060,37 @@ Call log:"
 "
 2026-02-15-05:20:57,Nigeria,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
 "
+2026-02-15-07:52:50,Nigeria,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-15-07:52:56,Nigeria,url exists,Nigeria
+2026-02-15-07:53:04,Nigeria,url exists,Nigeria
+2026-02-15-07:53:12,Nigeria,url exists,Nigeria
+2026-02-15-07:53:33,Nigeria,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-15-07:53:41,Nigeria,url exists,Nigeria
+2026-02-15-07:54:20,Nigeria,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-15-07:54:28,Nigeria,url exists,Nigeria
+2026-02-15-07:54:30,Nigeria,world,None
+2026-02-15-07:54:51,Nigeria,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-15-07:54:58,Nigeria,url exists,Nigeria
+2026-02-15-07:55:20,Nigeria,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-15-07:55:41,Nigeria,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-15-07:56:03,Nigeria,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-15-07:56:29,Nigeria,url exists,Nigeria
+2026-02-15-07:56:38,Nigeria,url exists,Nigeria
+2026-02-15-07:57:00,Nigeria,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-15-07:57:21,Nigeria,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-15-07:57:42,Nigeria,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-15-07:57:53,Nigeria,url exists,Nigeria
+2026-02-15-07:58:14,Nigeria,wait for home,"Page.wait_for_selector: Timeout 20000ms exceeded.
+"
+2026-02-15-07:58:24,Nigeria,url exists,Nigeria
+2026-02-15-07:58:26,Nigeria,world,None
