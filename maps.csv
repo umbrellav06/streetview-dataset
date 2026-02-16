@@ -27,15 +27,15 @@ Algeria,Algeria
 Nepal,Nepal
 Armenia,Armenia
 Armenia,Armenia with Armenia360
-Lesotho,A Balanced Lesotho
-Lesotho,Lesotho
-Lesotho,AI gen - Lesotho
-Lesotho,Unpinpointable Lesotho
-Lesotho,Pinpointable Lesotho
-Austria,Austria
-Austria,IntersectionGuessr - Austria
-Austria,Austrian Squares
 Austria,A Balanced Austria
+Austria,Austrian Squares
+Austria,IntersectionGuessr - Austria
+Austria,Austria
+Lesotho,Unpinpointable Lesotho
+Lesotho,AI gen - Lesotho
+Lesotho,Lesotho
+Lesotho,A Balanced Lesotho
+Lesotho,Pinpointable Lesotho
 Montenegro,Montenegro
 Montenegro,AI gen - Montenegro
 Montenegro,IntersectionGuessr - Montenegro
@@ -60,98 +60,90 @@ Luxembourg,IntersectionGuessr - Luxembourg
 Luxembourg,Pinpointable Luxembourg
 Rwanda,Rwanda
 Rwanda,All Rwanda coverage as of 2022-10-07 19:04 CEST
+Argentina,Argentina
+Uruguay,AI Gen - Uruguay
+Uruguay,Uruguay
+Uruguay,Tournoi #8 - Map 2 - Pays de la semaine - Uruguay (No move)
+Uruguay,IntersectionGuessr - Uruguay
+Uruguay,Coupe de la Ligue - Uruguay
 Kazakhstan,Big cities of kazakhstan
-Kazakhstan,Kazakhstan
 Kazakhstan,KAZAKHSTAN / КАЗАХСТАН
+Kazakhstan,Kazakhstan
 Kazakhstan,A Balanced Kazakhstan
 Kazakhstan,AI Generated Kazakhstan
-Kazakhstan,AI Gen - Kazakhstan
-Kazakhstan,random locs in Kazakhstan
-Kazakhstan,A Diverse Kazakhstan
-Kazakhstan,An Arbitrary Kazakhstan
-Kazakhstan,A learnable Kazakhstan
 Kazakhstan,Plonk It Kazakhstan
-Argentina,Argentina
-Uruguay,Tournoi #8 - Map 2 - Pays de la semaine - Uruguay (No move)
-Uruguay,Coupe de la Ligue - Uruguay
-Uruguay,AI Gen - Uruguay
-Uruguay,IntersectionGuessr - Uruguay
-Uruguay,Uruguay
-Finland,Finland
-Albania,Albania
-Albania,Plonk It Albania
-Albania,A Balanced Albania
-Nigeria,IntersectionGuessr - Nigeria
-Nigeria,A Balanced Nigeria
-Nigeria,An Arbitrary Nigeria
-Nigeria,Nigeria
-Nigeria,AI Gen - Nigeria (Updated)
-Nigeria,AI Generated Nigeria
-Bangladesh,A Balanced Bangladesh
-Bangladesh,AI Gen - Bangladesh
-Bangladesh,Bangladesh
-Iceland,An Arbitrary Iceland
-Iceland,Iceland
-Iceland,A Pinpointable Iceland
-Bhutan,Bhutan
-Laos,A Balanced Laos
-Laos,Laos
-Laos,Laos without Vientiane
-Ireland,Ireland
+Kazakhstan,A learnable Kazakhstan
+Kazakhstan,An Arbitrary Kazakhstan
+Kazakhstan,A Diverse Kazakhstan
+Kazakhstan,random locs in Kazakhstan
+Kazakhstan,AI Gen - Kazakhstan
 Chile,Chile
-Botswana,A Balanced Botswana
-Botswana,A Plonk It Botswana
-Botswana,Botswana
-Malta,Malta
-South Korea,South Korea
-Estonia,IntersectionGuessr - Estonia · Eesti
-Estonia,Estonia
-Estonia,Pinpointable Estonia
-Kenya,IntersectionGuessr - Kenya
-Kenya,A Balanced Kenya
-Kenya,Kenya
-Taiwan,Taiwan
+Bhutan,Bhutan
 Ukraine,Ukraine
 Senegal,Senegal
-Senegal,A Pinpointable Senegal
-Senegal,Pinpointable Senegal
 Senegal,Plonk It Senegal
-Senegal,AI gen - Senegal gen 4
+Senegal,Pinpointable Senegal
 Senegal,A Balanced Senegal
-Serbia,Serbia
-Malaysia,Malaysia
+Senegal,AI gen - Senegal gen 4
+Senegal,A Pinpointable Senegal
+Nigeria,A Balanced Nigeria
+Nigeria,AI Gen - Nigeria (Updated)
+Nigeria,AI Generated Nigeria
+Nigeria,Nigeria
+Nigeria,IntersectionGuessr - Nigeria
+Nigeria,An Arbitrary Nigeria
 Czech Republic,Czech Republic
-North Macedonia,A Balanced North Macedonia
-North Macedonia,An Arbitrary Rural North Macedonia (AARMK)
-North Macedonia,IntersectionGuessr - North Macedonia · Македонија
-North Macedonia,AI gen - North Macedonia
-North Macedonia,North Macedonia
+Malaysia,Malaysia
 Peru,A Balanced Peru
-Peru,IntersectionGuessr - Peru
 Peru,Peru
+Peru,IntersectionGuessr - Peru
+Serbia,Serbia
 Tunisia,IntersectionGuessr - Tunisia
 Tunisia,Tunisia
 Tunisia,A Balanced Tunisia
+North Macedonia,IntersectionGuessr - North Macedonia · Македонија
+North Macedonia,North Macedonia
+North Macedonia,A Balanced North Macedonia
+North Macedonia,An Arbitrary Rural North Macedonia (AARMK)
+North Macedonia,AI gen - North Macedonia
+Albania,Albania
+Albania,Plonk It Albania
+Albania,A Balanced Albania
 Denmark,Denmark
-Sri Lanka,AI gen - Sri Lanka
+Iceland,A Pinpointable Iceland
+Iceland,An Arbitrary Iceland
+Iceland,Iceland
 Sri Lanka,Sri Lanka • இலங்கை
-Sri Lanka,Sri Lanka
+Sri Lanka,AI gen - Sri Lanka
 Sri Lanka,Pinpointable Sri Lanka
-Greece,Greece
+Sri Lanka,Sri Lanka
 Hungary,Hungary
+Greece,Greece
 United Arab Emirates,United Arab Emirates
+Belgium,Belgium
 Belgium,A Balanced Belgium
 Belgium,IntersectionGuessr - Belgium
-Belgium,Belgium
+Bangladesh,Bangladesh
+Bangladesh,A Balanced Bangladesh
+Bangladesh,AI Gen - Bangladesh
+Kenya,A Balanced Kenya
+Kenya,Kenya
+Kenya,IntersectionGuessr - Kenya
 Latvia,Latvia
 Latvia,IntersectionGuessr - Latvia
-Latvia,Urban Latvia
-Latvia,Pinpointable Latvia
 Latvia,A Pinpointable Latvia
 Latvia,Latvia (Best Version)
+Latvia,Urban Latvia
+Latvia,Pinpointable Latvia
 Latvia,An Arbitrary Rural Latvia (AARLV)
+Botswana,Botswana
+Botswana,A Balanced Botswana
+Botswana,A Plonk It Botswana
+Estonia,IntersectionGuessr - Estonia · Eesti
+Estonia,Pinpointable Estonia
+Estonia,Estonia
 Switzerland,AI Gen - Switzerland
-Switzerland,Switzerland
+Switzerland,AI Generated Switzerland
 Switzerland,Switzerland - Schweiz - Suisse - Svizzera - Svizra
 Switzerland,Kanton Zürich - Schweiz Switzerland
 Switzerland,Lakes of Switzerland - Schweizer Seen - Lacs 
@@ -159,7 +151,7 @@ Switzerland,GeoTime Switzerland
 Switzerland,SWITZERLAND - Graubünden
 Switzerland,A Balanced Switzerland
 Switzerland,IntersectionGuessr - Switzerland
-Switzerland,AI Generated Switzerland
+Switzerland,Switzerland
 Bulgaria,Bulgaria
 Israel,GeoIsrael Daily challenge Israel nm
 Israel,AI Gen Israel
@@ -178,18 +170,26 @@ Turkey,Izmir (Turkey)
 Turkey,Sakarya Türkiye - Sakarya Turkey
 Turkey,A Balanced Turkey
 Turkey,Pinpointable Aegean Turkey
+Laos,Laos
+Laos,A Balanced Laos
+Laos,Laos without Vientiane
+Ireland,Ireland
+Taiwan,Taiwan
 South Africa,South Africa
 Qatar,Qatar
 Qatar,Ai gen - Qatar
-Norway,Norway
+South Korea,South Korea
 China,China
+Norway,Norway
 Colombia,A Stochastic Populated Colombia
 Colombia,Colombia
 Colombia,A Balanced Colombia
 Colombia,IntersectionGuessr - Colombia
+Malta,Malta
 Slovakia,Slovakia
 Australia,Australia
 New Zealand,New Zealand
+Finland,Finland
 Romania,Romanian Cities 2
 Romania,Romanian Cities
 Romania,ROMÂNIA/ROMANIA - Main cities
